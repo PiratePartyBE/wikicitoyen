@@ -365,7 +365,7 @@ if __name__ == '__main__':
 	for arg in sys.argv[1:]:
 		print(arg)
 		with open(arg, 'r') as ifs:
-			for line in walk(json.load(ifs), "obj"):
+			for line in walk(json.load(ifs)):
 				tag = parser.parse(line)
 				
 				results.append([ line, tag ])
@@ -375,4 +375,3 @@ if __name__ == '__main__':
 		
 	with open('test.json', 'w') as ofs:
 		json.dump(results, ofs, indent=4, ensure_ascii=False)
-		#json.dump(results, ofs, indent=4, ensure_ascii=False)
