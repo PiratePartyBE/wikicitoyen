@@ -1,0 +1,306 @@
+[
+  {
+    "Content": [
+      {
+        "h": [
+          {
+            "h": [
+              "Commune de Waterloo", 
+              {
+                "h": [
+                  "Conseil communal", 
+                  {
+                    "p": [
+                      "www.waterloo.be, le jeudi 20 avril 2017 à 8-9 heures", 
+                      "Ordre du jour du Conseil communal ", 
+                      "Date : Lu, 24/04/2017 - 20:00", 
+                      "Voici l'ordre du jour de la prochaine séance publique de ce lundi 24 avril 2017 prévue, à 20h, à la Maison communale."
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          "Invitation à la séance du lundi 24 avril 2017 à 20 heures 00", 
+          {
+            "p": [
+              "Salle des Conférences, 2ième étage  - Maison communale - 28, rue François Libert - 1410 Waterloo"
+            ]
+          }, 
+          {
+            "h": [
+              "Ordre du jour", 
+              {
+                "h": [
+                  "Séance publique", 
+                  {
+                    "li class=\"obj\"": [
+                      "1. Procès-verbal - Assemblée n°3 du 20 mars 2017 - Approbation.", 
+                      "2. Finances - Finances Communales - Délégation au Collège communal de la passation des marchés publics repris au budget extraordinaire 2017.", 
+                      "3. Finances - Demandes de permis d'urbanisme - Redevance pour les frais d'envois recommandés générés par l'organisation des enquêtes publiques - Exercices 2017 à 2020 - Règlement.", 
+                      "4. Cellule commandes publiques - Mobilité - Désignation d'un auteur de projet chargé de l'étude de faisabilité et d'impact de l'aménagement de l'accès \"Astrid\" au ring sur la mobilité de la Commune de Waterloo - Marché conjoint avec le Service Public de Wallonie (SPW) - Modification de sa délibération du 9 novembre 2016.", 
+                      "5. Cellule commandes publiques - Travaux - Acquisition d'un véhicule utilitaire de type fourgon avec caisse fermée grand volume - Choix du mode de passation et fixation des conditions du marché.", 
+                      "6. Cellule commandes publiques - Location et entretien de vêtements de travail du personnel communal pour la période comprise entre le 1er janvier 2018 et le 31 décembre 2020 - Choix du mode de passation et fixation des conditions du marché.", 
+                      "7. Secrétariat général - Ecole communale du Chenois - Demande d'occupation, à titre gratuit, par l'A.s.b.l WATERLOO SPORTS dans le cadre de l'organisation de stages sportifs durant les deux premières semaines de juillet - Subvention communale indirecte - Décision.", 
+                      "8. Education - Enseignement maternel communal - Ecole communale du Chenois - Création d'un emploi d'institutrice à mi-temps à titre temporaire.", 
+                      "9. Education - Enseignement maternel communal - Ecole communale de Mont-Saint-Jean - Création d'un emploi d'institutrice à mi-temps à titre temporaire.", 
+                      "10. Personnel - Adaptations concernant les jours fériés extra-légaux, le départ anticipé la veille des jours fériés et le jour compensatoire octroyé suite à la perte de l'horaire d'été - Modifications du statut administratif et du règlement du travail.", 
+                      "11. Police - Personnel - Ouverture de la mobilité et détermination des modalités de sélection des candidats.", 
+                      "12. Police - Personnel - Ouverture de la mobilité et détermination des modalités de sélection des candidats.", 
+                      "13. Police - Personnel - Ouverture de la mobilité et détermination des modalités de sélection des candidats.", 
+                      "14. Questions orales d'actualité."
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Enveloppe": [
+      {
+        "id_ddr": "2017-04-24T20-00_gWbrCmnWaterloo-clg-3_consCmn-seancePublique-4_odj-4"
+      }, 
+      {
+        "Stamps": [
+          {
+            "op_tpl:": [
+              "web_detect", 
+              "web_grab", 
+              "web_remove", 
+              "email_delivery", 
+              "email_sended", 
+              "pmail_delivery", 
+              "pmail_sended", 
+              "doc_creation", 
+              "doc_signature", 
+              "add_content_silocanceled_with_notification", 
+              "canceled_without_notification"
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_detect"
+              }, 
+              {
+                "dt": "2017-04-20T09-00"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "www.waterloo.be/vie-politique/maison-communale/ordre-du-jour-du-conseil-communal-4734"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_grab"
+              }, 
+              {
+                "dt": "2017-04-21T08:22"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://www.waterloo.be/vie-politique/maison-communale/ordre-du-jour-du-conseil-communal-4734"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "add_content_silo"
+              }, 
+              {
+                "dt": "2017-04-21T08:22"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_ddr_doc_dw"
+              }, 
+              {
+                "dt": "2017-04-21T08:22"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://tinyurl.com/l7j7exr"
+              }, 
+              {
+                "note": "from_web"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Metadata": [
+      {
+        "tags": null
+      }, 
+      {
+        "faces": null
+      }, 
+      {
+        "Has_info_doc": [
+          {
+            "info_tpl": "doc ; env ; pull"
+          }, 
+          {
+            "pull_src": null
+          }, 
+          {
+            "Src": [
+              {
+                "place": null
+              }, 
+              {
+                "date": null
+              }, 
+              {
+                "idvs": null
+              }, 
+              {
+                "roles": null
+              }, 
+              {
+                "orgs": "env"
+              }
+            ]
+          }, 
+          {
+            "Dst": [
+              {
+                "to_public": "i"
+              }
+            ]
+          }, 
+          {
+            "Event": [
+              {
+                "date": "doc"
+              }, 
+              {
+                "time": "doc"
+              }, 
+              {
+                "adr_doc_tsbr_io": "_0010_0000"
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "Coding": [
+          {
+            "values": "html"
+          }, 
+          {
+            "tree_odj": "li class=\"obj\""
+          }, 
+          {
+            "title": 1
+          }, 
+          {
+            "comment": 0
+          }, 
+          {
+            "action_request": null
+          }, 
+          {
+            "noise": 0
+          }
+        ]
+      }, 
+      {
+        "Licence": [
+          {
+            "DroitDeRegard": [
+              {
+                "Licence": "CC-BY-SA-NC"
+              }, 
+              {
+                "Auteur": "Patrick Installé 2013"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Taxonomy": [
+      {
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      }, 
+      {
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+      }, 
+      {
+        "foaf": "http://xmlns.com/foaf/0.1/"
+      }, 
+      {
+        "bio": "http://purl.org/vocab/bio/0.1/"
+      }, 
+      {
+        "dc": "http://purl.org/dc/terms/"
+      }, 
+      {
+        "lang": "http://purl.org/net/inkel/rdf/schemas/lang/1.1#"
+      }, 
+      {
+        "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#"
+      }, 
+      {
+        "doac": "http://ramonantonio.net/doac/0.1/"
+      }, 
+      {
+        "menow": "http://schema.peoplesdns.com/menow/"
+      }, 
+      {
+        "sioc": "http://rdfs.org/sioc/ns#"
+      }, 
+      {
+        "owl": "http://www.w3.org/2002/07/owl#"
+      }, 
+      {
+        "admin": "http://webns.net/mvcb/"
+      }, 
+      {
+        "rel": "http://purl.org/vocab/relationship/"
+      }
+    ]
+  }
+]

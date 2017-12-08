@@ -1,0 +1,297 @@
+[
+  {
+    "Content": [
+      {
+        "h": [
+          {
+            "h": [
+              "Commune de Rixensart", 
+              {
+                "h": [
+                  "Conseil communal", 
+                  {
+                    "p": [
+                      "www.rixensart.be, le jeudi 21 mai 2015 à 12-13 heures", 
+                      " Ordre du jour de la réunion conjointe du Conseil communal et du Conseil de l’Action sociale du 27 mai 2015 à 18 heures."
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          "Invitation à la séance du mercredi 27 mai 2015 à 18 heures 00", 
+          {
+            "p": [
+              "La verrière de la Maison communale, 75 avenue de Mérode à Rixensart."
+            ]
+          }, 
+          {
+            "h": [
+              "Ordre du jour", 
+              {
+                "h": [
+                  "Séance publique", 
+                  {
+                    "h": [
+                      {
+                        "li class=\"obj\"": [
+                          "1. Synergies Commune/CPAS et économies d’échelles ;", 
+                          "2. Rapport d’activité 2014 et Compte budgétaire 2014 – Présentation par le Président du CPAS ;", 
+                          "3. CPAS – Boni extraordinaire – Information par le Directeur financier du CPAS."
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Enveloppe": [
+      {
+        "id_ddr": "2015-05-27T18-00_gWbrCmnRixensart-clg-3_consCmn-seancePublique-4_odj-4"
+      }, 
+      {
+        "Stamps": [
+          {
+            "op_tpl:": [
+              "web_detect", 
+              "web_grab", 
+              "web_remove", 
+              "email_delivery", 
+              "email_sended", 
+              "pmail_delivery", 
+              "pmail_sended", 
+              "doc_creation", 
+              "doc_signature", 
+              "add_content_silocanceled_with_notification", 
+              "canceled_without_notification"
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_detect"
+              }, 
+              {
+                "dt": "2015-05-21T13-43"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "www.rixensart.be/index.php/vie-politique/conseil-ordre-du-jour"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_grab"
+              }, 
+              {
+                "dt": "2015-05-21T18:36"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://www.rixensart.be/images/politique/ordre-du-jour/R%C3%A9union_conjointe_AC-CPAS-27.05.15.pdf"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "add_content_silo"
+              }, 
+              {
+                "dt": "2015-05-21T18:36"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_ddr_doc_dw"
+              }, 
+              {
+                "dt": "2015-05-21T18:36"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://tinyurl.com/pwk5vvu"
+              }, 
+              {
+                "note": "from_web"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Metadata": [
+      {
+        "tags": null
+      }, 
+      {
+        "faces": null
+      }, 
+      {
+        "Has_info_doc": [
+          {
+            "info_tpl": "doc ; env ; pull"
+          }, 
+          {
+            "pull_src": null
+          }, 
+          {
+            "Src": [
+              {
+                "place": null
+              }, 
+              {
+                "date": null
+              }, 
+              {
+                "idvs": null
+              }, 
+              {
+                "roles": null
+              }, 
+              {
+                "orgs": "env"
+              }
+            ]
+          }, 
+          {
+            "Dst": [
+              {
+                "to_public": "i"
+              }
+            ]
+          }, 
+          {
+            "Event": [
+              {
+                "date": "doc ; env"
+              }, 
+              {
+                "time": "doc ; env"
+              }, 
+              {
+                "adr_doc_tsbr_io": "_0000_1111"
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "Coding": [
+          {
+            "values": "pdf-text"
+          }, 
+          {
+            "tree_odj": "h-li"
+          }, 
+          {
+            "title": 1
+          }, 
+          {
+            "comment": 0
+          }, 
+          {
+            "action_request": null
+          }, 
+          {
+            "noise": 0
+          }
+        ]
+      }, 
+      {
+        "Licence": [
+          {
+            "DroitDeRegard": [
+              {
+                "Licence": "CC-BY-SA-NC"
+              }, 
+              {
+                "Auteur": "Patrick Installé 2013"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Taxonomy": [
+      {
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      }, 
+      {
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+      }, 
+      {
+        "foaf": "http://xmlns.com/foaf/0.1/"
+      }, 
+      {
+        "bio": "http://purl.org/vocab/bio/0.1/"
+      }, 
+      {
+        "dc": "http://purl.org/dc/terms/"
+      }, 
+      {
+        "lang": "http://purl.org/net/inkel/rdf/schemas/lang/1.1#"
+      }, 
+      {
+        "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#"
+      }, 
+      {
+        "doac": "http://ramonantonio.net/doac/0.1/"
+      }, 
+      {
+        "menow": "http://schema.peoplesdns.com/menow/"
+      }, 
+      {
+        "sioc": "http://rdfs.org/sioc/ns#"
+      }, 
+      {
+        "owl": "http://www.w3.org/2002/07/owl#"
+      }, 
+      {
+        "admin": "http://webns.net/mvcb/"
+      }, 
+      {
+        "rel": "http://purl.org/vocab/relationship/"
+      }
+    ]
+  }
+]

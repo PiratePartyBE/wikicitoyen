@@ -1,0 +1,335 @@
+[
+  {
+    "Content": [
+      {
+        "h": [
+          {
+            "h": [
+              "Commune d'Ittre", 
+              {
+                "h": [
+                  "Conseil communal", 
+                  {
+                    "p": [
+                      "www.ittre.be, le mardi 6 septembre 2016 à 13-14 heures", 
+                      "COMMUNE DE ITERE", 
+                      "Ittre, le 5 septembre 2016.", 
+                      "SEANCE PUBLIQUE DU CONSEIE COMMUNAL Du 13 SEPTEMBRE 2016 À 19.00 HEURES LA SALLE U CONSEIL COMMUNAL SISE GRAND-PLACE 2 A ITERE"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          "Invitation à la séance du mardi 13 septembre 2016 à 19 heures 00", 
+          {
+            "p": [
+              "Maison communale - Grand Place, 2 à 1460 Ittre"
+            ]
+          }, 
+          {
+            "h": [
+              "Ordre du jour", 
+              {
+                "h": [
+                  "Séance publique", 
+                  {
+                    "li class=\"obj\"": [
+                      "1. Cérémonie de remise du titre de citoyen d'honneur à M. J.-J. Dohmen. ", 
+                      "2. Fabrique d'Eglise St Laurent - Modification budgétaire 1 /2016 : approbation. ", 
+                      "3. Fabrique d'Eglise Saint Laurent - Budget de l'exercice 2017 : approbation. ", 
+                      "4. Fabrique d'Eglise St Pierre - Modification budgétaire 1 /2016 : approbation.", 
+                      "5. Fabrique d'Eglise St Pierre - Budget de l'exercice 2017 : approbation.", 
+                      "6. Fabrique d'Eglise St Rémy - Budget de l'exercice 2017 : approbation. ", 
+                      "7. Eglise Réformée de l'Alliance - Révision budget 1/2016 : avis.", 
+                      "8. Eglise Réformée de l'Alliance - Budget de l'excercice 2017 : avis. ", 
+                      "9. URB.2012/77 - Daron Drevard - cession sentier 46: décision 10. URB.2012/24 - Sintra - cession sentier 46: décision 11. Marché public pour l'achat d'une cuisine pour le Pôle culturel - complément de dépense: attribution 12. Informations du Collège communal"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          {
+            "p": [
+              "Par Ordonnance :", 
+              {
+                "br": [
+                  "Le Directeur général  P. Pierson", 
+                  "Le Bourgmestre, F. Jolly."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Enveloppe": [
+      {
+        "id_ddr": "2016-09-13T19-00_gWbrCmnIttre-clg-3_consCmn-seancePublique-4_odj-4"
+      }, 
+      {
+        "Stamps": [
+          {
+            "op_tpl:": [
+              "web_detect", 
+              "web_grab", 
+              "web_remove", 
+              "email_delivery", 
+              "email_sended", 
+              "pmail_delivery", 
+              "pmail_sended", 
+              "doc_creation", 
+              "doc_signature", 
+              "add_content_silocanceled_with_notification", 
+              "canceled_without_notification"
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_detect"
+              }, 
+              {
+                "dt": "2016-09-06T14-00"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "www.ittre.be/."
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_grab"
+              }, 
+              {
+                "dt": "2016-09-12T11:48"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://www.ittre.be/docstemporaires/conseil-communal-2016-09-13.pdf"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "doc_signature"
+              }, 
+              {
+                "dt": "2016-09-05"
+              }, 
+              {
+                "authors": "Institution"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "add_content_silo"
+              }, 
+              {
+                "dt": "2016-09-12T11:48"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_ddr_doc_dw"
+              }, 
+              {
+                "dt": "2016-09-12T11:48"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://tinyurl.com/zzj4qvn"
+              }, 
+              {
+                "note": "from_web"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Metadata": [
+      {
+        "tags": null
+      }, 
+      {
+        "faces": null
+      }, 
+      {
+        "Has_info_doc": [
+          {
+            "info_tpl": "doc ; env ; pull"
+          }, 
+          {
+            "pull_src": null
+          }, 
+          {
+            "Src": [
+              {
+                "place": "doc"
+              }, 
+              {
+                "date": "doc"
+              }, 
+              {
+                "idvs": "doc"
+              }, 
+              {
+                "roles": "doc"
+              }, 
+              {
+                "orgs": "doc ; env"
+              }
+            ]
+          }, 
+          {
+            "Dst": [
+              {
+                "to_public": "t"
+              }
+            ]
+          }, 
+          {
+            "Event": [
+              {
+                "date": "doc ; env"
+              }, 
+              {
+                "time": "doc ; env"
+              }, 
+              {
+                "adr_doc_tsbr_io": "_1111_0000"
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "Coding": [
+          {
+            "values": "pdf-text"
+          }, 
+          {
+            "tree_odj": "li class=\"obj\""
+          }, 
+          {
+            "title": 1
+          }, 
+          {
+            "comment": 0
+          }, 
+          {
+            "action_request": null
+          }, 
+          {
+            "noise": 0
+          }
+        ]
+      }, 
+      {
+        "Licence": [
+          {
+            "DroitDeRegard": [
+              {
+                "Licence": "CC-BY-SA-NC"
+              }, 
+              {
+                "Auteur": "Patrick Installé 2013"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Taxonomy": [
+      {
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      }, 
+      {
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+      }, 
+      {
+        "foaf": "http://xmlns.com/foaf/0.1/"
+      }, 
+      {
+        "bio": "http://purl.org/vocab/bio/0.1/"
+      }, 
+      {
+        "dc": "http://purl.org/dc/terms/"
+      }, 
+      {
+        "lang": "http://purl.org/net/inkel/rdf/schemas/lang/1.1#"
+      }, 
+      {
+        "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#"
+      }, 
+      {
+        "doac": "http://ramonantonio.net/doac/0.1/"
+      }, 
+      {
+        "menow": "http://schema.peoplesdns.com/menow/"
+      }, 
+      {
+        "sioc": "http://rdfs.org/sioc/ns#"
+      }, 
+      {
+        "owl": "http://www.w3.org/2002/07/owl#"
+      }, 
+      {
+        "admin": "http://webns.net/mvcb/"
+      }, 
+      {
+        "rel": "http://purl.org/vocab/relationship/"
+      }
+    ]
+  }
+]

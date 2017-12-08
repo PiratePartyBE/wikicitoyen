@@ -1,0 +1,311 @@
+[
+  {
+    "Content": [
+      {
+        "h": [
+          {
+            "h": [
+              "Commune de Wavre", 
+              {
+                "h": [
+                  "Conseil communal", 
+                  {
+                    "p": [
+                      "www.wavre.be, le mardi 12 janvier 2016 à 15-16 heures", 
+                      "CONSEIL COMMUNAL", 
+                      "Séance du 19 janvier 2016 à 19h00"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          "Convocation à la séance du mardi 19 janvier 2016 à 19 heures 00", 
+          {
+            "p": [
+              "Salle des Templiers (au premier étage de l’Hôtel de Ville - Place de l'Hôtel de Ville - 1300  Wavre"
+            ]
+          }, 
+          {
+            "h": [
+              "Ordre du jour", 
+              {
+                "h": [
+                  "Séance publique", 
+                  {
+                    "h": [
+                      {
+                        "li class=\"obj\"": [
+                          "S.P.1. Administration générale – Délégation de compétences du Conseil communal vers le Collège communal concernant les marchés financés à l’ordinaire.", 
+                          "S.P.2. Administration générale – Délégation de compétences du Conseil communal vers le Collège communal concernant les marchés financés à l’extraordinaire à certaines conditions.", 
+                          "S.P.3. Encouragement à diverses activités sociales, culturelles et sportives – Règlements octroyant des subventions aux clubs et groupements sportifs comportant un minimum de 25 % de jeunes wavriens.", 
+                          "S.P.4. Encouragement à diverses activités sociales, culturelles et sportives – Règlements octroyant des subventions aux groupements sportifs ne comportant pas un minimum de 25 % de jeunes wavriens.", 
+                          "S.P.5. Plan général d’urgence et d’intervention communal.", 
+                          "S.P.6. SCRL REW – Ratification de la modification des statuts.", 
+                          "S.P.7. Marché public de services – Confection et livraison de repas s’inscrivant dans une démarche d’alimentation durable dans les écoles communales de la Ville de Wavre – Approbation du cahier spécial des charges, du mode de passation du marché et de l’estimation de la dépense.", 
+                          "S.P.8. Voirie communale – Permis de lotir réf. 12/01L – Création et cession de deux nouvelles voiries avec les équipements nécessaires et aménagements internes au lotissement (accotements, espaces publics, cheminements pour piétons et vélos) et imposition de charges d’urbanisme, dans le cadre de la demande de permis de lotir sur un terrain sis Chaussée de Huy, présentement cadastré Wavre 2e division, section I n° 227A - 221D - 213C - 225C, introduite par la S.A. IMMOBEL.", 
+                          "S.P.9. Voirie communale – Circulation – Règlement Complémentaire de Circulation Routière – Création de Suls en centre-ville.", 
+                          "S.P.10. Voirie communale – Circulation – Règlement Complémentaire de Circulation Routière Avenue Pascal à Wavre – Stationnement.", 
+                          "S.P.11. Service Extrascolaire – Renouvellement du programme CLE.", 
+                          "S.P.12. Personnel communal – Grades légaux – Déclaration de vacance du poste de Directeur financier."
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Enveloppe": [
+      {
+        "id_ddr": "2016-01-19T19-00_gWbrCmnWavre-clg-3_consCmn-seancePublique-4_odj-4"
+      }, 
+      {
+        "Stamps": [
+          {
+            "op_tpl:": [
+              "web_detect", 
+              "web_grab", 
+              "web_remove", 
+              "email_delivery", 
+              "email_sended", 
+              "pmail_delivery", 
+              "pmail_sended", 
+              "doc_creation", 
+              "doc_signature", 
+              "add_content_silocanceled_with_notification", 
+              "canceled_without_notification"
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_detect"
+              }, 
+              {
+                "dt": "2016-01-12T16-01"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "www.wavre.be/index.php/component/content/article/84-liens-rapides/467-ordre-du-jour-du-conseil-communal"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_grab"
+              }, 
+              {
+                "dt": "2016-01-20T10:19"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://www.wavre.be/documents/Ordre%20du%20jour/OJ190116.pdf"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "add_content_silo"
+              }, 
+              {
+                "dt": "2016-01-20T10:19"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_ddr_doc_dw"
+              }, 
+              {
+                "dt": "2016-01-20T10:19"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://is.gd/AycyEZ"
+              }, 
+              {
+                "note": "from_web"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Metadata": [
+      {
+        "tags": null
+      }, 
+      {
+        "faces": null
+      }, 
+      {
+        "Has_info_doc": [
+          {
+            "info_tpl": "doc ; env ; pull"
+          }, 
+          {
+            "pull_src": "phone"
+          }, 
+          {
+            "Src": [
+              {
+                "place": null
+              }, 
+              {
+                "date": null
+              }, 
+              {
+                "idvs": null
+              }, 
+              {
+                "roles": null
+              }, 
+              {
+                "orgs": "doc; env"
+              }
+            ]
+          }, 
+          {
+            "Dst": [
+              {
+                "to_public": "t"
+              }
+            ]
+          }, 
+          {
+            "Event": [
+              {
+                "date": "doc ; env"
+              }, 
+              {
+                "time": "doc"
+              }, 
+              {
+                "adr_doc_tsbr_io": "_0000_0000"
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "Coding": [
+          {
+            "values": "pdf-text"
+          }, 
+          {
+            "tree_odj": "li"
+          }, 
+          {
+            "title": 1
+          }, 
+          {
+            "comment": 0
+          }, 
+          {
+            "action_request": null
+          }, 
+          {
+            "noise": 0
+          }
+        ]
+      }, 
+      {
+        "Licence": [
+          {
+            "DroitDeRegard": [
+              {
+                "Licence": "CC-BY-SA-NC"
+              }, 
+              {
+                "Auteur": "Patrick Installé 2013"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Taxonomy": [
+      {
+        "xmlns": [
+          {
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          }, 
+          {
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          }, 
+          {
+            "foaf": "http://xmlns.com/foaf/0.1/"
+          }, 
+          {
+            "bio": "http://purl.org/vocab/bio/0.1/"
+          }, 
+          {
+            "dc": "http://purl.org/dc/terms/"
+          }, 
+          {
+            "lang": "http://purl.org/net/inkel/rdf/schemas/lang/1.1#"
+          }, 
+          {
+            "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#"
+          }, 
+          {
+            "doac": "http://ramonantonio.net/doac/0.1/"
+          }, 
+          {
+            "menow": "http://schema.peoplesdns.com/menow/"
+          }, 
+          {
+            "sioc": "http://rdfs.org/sioc/ns#"
+          }, 
+          {
+            "owl": "http://www.w3.org/2002/07/owl#"
+          }, 
+          {
+            "admin": "http://webns.net/mvcb/"
+          }, 
+          {
+            "rel": "http://purl.org/vocab/relationship/"
+          }
+        ]
+      }
+    ]
+  }
+]

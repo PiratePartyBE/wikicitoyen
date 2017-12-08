@@ -1,0 +1,322 @@
+[
+  {
+    "Content": [
+      {
+        "h": [
+          {
+            "h": [
+              "Commune d'Ittre", 
+              {
+                "h": [
+                  "Conseil communal", 
+                  {
+                    "p": [
+                      "www.ittre.be, le lundi 23 mars 2015 à 15-16 heures", 
+                      "COMMUNE DE ITTRE", 
+                      "Ittre, le vendredi 17 avril 2015", 
+                      "Séance publique DU CONSEIL COMMUNAL DU 28 AVRIL 2015 A 19 h 00 ", 
+                      "MAISON COMMUNALE GRAND-PLACE A 1460 ITTRE"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          "Invitation à la séance du mardi 28 avril 2015 à 19 heures 00", 
+          {
+            "p": [
+              "Maison communale - Grand Place, 2 1460 Ittre"
+            ]
+          }, 
+          {
+            "h": [
+              "Ordre du jour", 
+              {
+                "h": [
+                  "Séance publique", 
+                  {
+                    "h": [
+                      {
+                        "li class=\"obj\"": [
+                          "1. IMIO - A.G. du 04 juin 2015 - Ordre du jour : décision. ", 
+                          "2. Urbanisme - Réalisation dxune voirie prolongeant Vallée de la Marbrite - Dossier : avis.", 
+                          "3. C.M.P. - Réalisation dxune digue Ry de Fauquez - Approbation des conditions et du mode de passation du marché : décision. ", 
+                          "4. C.M.P. - Rénovation de la salle du Pisq et salle polyvalente -Approbation de la dépense - Dossier : décision.", 
+                          "5. C.M.P. - Achat de matériel de désherbage - Approbation de la dépense - Dossier : décision.", 
+                          "6. C.M.P. - Parking J.S.L - Approbation de la dépense - Dossier : décision. ", 
+                          "7. I.B.W. - Décomptes finaux en matière égouttage prioritaire - Dossier : approbation.", 
+                          "8. Fabrique d'Eglise St Pierre - Compte 2014 : approbation. ", 
+                          "9. Festivités du 15 août 2015 - Convention : décision. ", 
+                          "10. Informations du Collège."
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          {
+            "p": [
+              "Par Ordonnance :", 
+              {
+                "br": [
+                  "La Directrice Générale f.f., M. Guisse", 
+                  "Le Bourgmestre, F. Jolly."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Enveloppe": [
+      {
+        "id_ddr": "2015-04-28T19-00_gWbrCmnIttre-clg-3_consCmn-seancePublique-4_odj-4"
+      }, 
+      {
+        "Stamps": [
+          {
+            "op_tpl:": [
+              "web_detect", 
+              "web_grab", 
+              "web_remove", 
+              "email_delivery", 
+              "email_sended", 
+              "pmail_delivery", 
+              "pmail_sended", 
+              "doc_creation", 
+              "doc_signature", 
+              "add_content_silocanceled_with_notification", 
+              "canceled_without_notification"
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_grab"
+              }, 
+              {
+                "dt": "2015-05-04T15:37"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://www.ittre.be/pdf/Conseilscommunaux/OJCC-2015-04-28.pdf"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "doc_signature"
+              }, 
+              {
+                "dt": "2015-04-17"
+              }, 
+              {
+                "authors": "Institution"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "add_content_silo"
+              }, 
+              {
+                "dt": "2015-05-04T15:37"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_ddr_doc_dw"
+              }, 
+              {
+                "dt": "2015-05-04T15:37"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://tinyurl.com/plt6f3b"
+              }, 
+              {
+                "note": "from_web"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Metadata": [
+      {
+        "tags": null
+      }, 
+      {
+        "faces": null
+      }, 
+      {
+        "Has_info_doc": [
+          {
+            "info_tpl": "doc ; env ; pull"
+          }, 
+          {
+            "pull_src": null
+          }, 
+          {
+            "Src": [
+              {
+                "place": "doc"
+              }, 
+              {
+                "date": "doc"
+              }, 
+              {
+                "idvs": "doc"
+              }, 
+              {
+                "roles": "doc"
+              }, 
+              {
+                "orgs": "doc ; env"
+              }
+            ]
+          }, 
+          {
+            "Dst": [
+              {
+                "to_public": "t"
+              }
+            ]
+          }, 
+          {
+            "Event": [
+              {
+                "date": "doc ; env"
+              }, 
+              {
+                "time": "doc ; env"
+              }, 
+              {
+                "adr_doc_tsbr_io": "_1110_0000"
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "Coding": [
+          {
+            "values": "pdf-image"
+          }, 
+          {
+            "tree_odj": "li"
+          }, 
+          {
+            "title": 1
+          }, 
+          {
+            "comment": 0
+          }, 
+          {
+            "action_request": null
+          }, 
+          {
+            "noise": 0
+          }
+        ]
+      }, 
+      {
+        "Licence": [
+          {
+            "DroitDeRegard": [
+              {
+                "Licence": "CC-BY-SA-NC"
+              }, 
+              {
+                "Auteur": "Patrick Installé 2013"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Taxonomy": [
+      {
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      }, 
+      {
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+      }, 
+      {
+        "foaf": "http://xmlns.com/foaf/0.1/"
+      }, 
+      {
+        "bio": "http://purl.org/vocab/bio/0.1/"
+      }, 
+      {
+        "dc": "http://purl.org/dc/terms/"
+      }, 
+      {
+        "lang": "http://purl.org/net/inkel/rdf/schemas/lang/1.1#"
+      }, 
+      {
+        "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#"
+      }, 
+      {
+        "doac": "http://ramonantonio.net/doac/0.1/"
+      }, 
+      {
+        "menow": "http://schema.peoplesdns.com/menow/"
+      }, 
+      {
+        "sioc": "http://rdfs.org/sioc/ns#"
+      }, 
+      {
+        "owl": "http://www.w3.org/2002/07/owl#"
+      }, 
+      {
+        "admin": "http://webns.net/mvcb/"
+      }, 
+      {
+        "rel": "http://purl.org/vocab/relationship/"
+      }
+    ]
+  }
+]

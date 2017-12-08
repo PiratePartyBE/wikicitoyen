@@ -1,0 +1,363 @@
+[
+  {
+    "Content": [
+      {
+        "h": [
+          {
+            "h": [
+              "Commune de Braine-le-château", 
+              {
+                "h": [
+                  "Conseil communal", 
+                  {
+                    "p": [
+                      "www.braine-le-chateau.be, le jeudi 20 avril 2017 à 13-14 heures", 
+                      "COMMUNE DE BRAINE-LE-CHÂTEAU", 
+                      "Braine-le-Château, le 27 février 2017.", 
+                      "Madame, Monsieur______________________________ est invité(e) à assister à la séance du Conseil communal qui aura lieu à Braine-le-Château, rue de la Libération, 9, le mercredi 8 mars 2017 à 20 h 00'."
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          "Convocation à la séance du mercredi 8 mars 2017 à 20 heures 00", 
+          {
+            "p": [
+              "Maison Communale de Braine-le-château - Rue de la Libération 9 - 1440 Braine-le-Château"
+            ]
+          }, 
+          {
+            "h": [
+              "Ordre du jour", 
+              {
+                "h": [
+                  "Séance publique", 
+                  {
+                    "h": [
+                      {
+                        "li class=\"obj\"": [
+                          "1. Décisions de l'autorité supérieure compétente relatives à différents actes du Conseil communal : communication.", 
+                          "2. Plan de cohésion sociale (\"P.C.S.\"). Rapport d'activité et rapport financier pour 2016 : approbation. [Note : la présentation du rapport d'activité sera illustrée de la projection d'une courte vidéo réalisée dans le cadre de l'opération Je lis dans ma commune].", 
+                          "3. Programme communal de développement rural (P.C.D.R.). Projet d'aménagement du cœur de village à Wauthier-Braine. Examen des offres dans le cadre de la nouvelle mise en concurrence du marché de travaux par procédure négociée sans publicité préalable et mission de direction et de suivi du chantier : choix du mode de passation et fixation des conditions d'un marché de services.", 
+                          "4. Programme communal de développement rural (P.C.D.R.). Travaux d'aménagement du cœur de village à Wauthier-Braine. Renouvellement du réseau d'éclairage public : décision de principe.", 
+                          "5. Programme communal de développement rural (P.C.D.R.). Travaux d’aménagement d’un lieu de convivialité intergénérationnelle sur le terrain communal jouxtant la Maison du Bailli. Passage en procédure négociée sans publicité vu le résultat inacceptable de l'adjudication ouverte (marché non attribué par le Collège communal) : décision.", 
+                          "6. Modification de voirie. Élargissement ponctuel de la rue aux Escarbilles pour l'aménagement d'une zone de croisement dans le cadre d'une demande de permis d'urbanisme introduite par Monsieur Christophe COUILLIEN : approbation.", 
+                          "7. Service communal des travaux. Acquisition d'un aspirateur électrique de déchets urbains avec remorque et autres accessoires (investissement subventionné par la Wallonie dans le cadre de l'appel à projets Be Wapp) : choix du mode de passation et fixation des conditions d'un marché de fournitures.", 
+                          "8. Restauration du pilori (monument classé) sur la Grand'Place de Braine-le-Château : choix du mode de passation et fixation des conditions d’un marché de travaux.", 
+                          "9. Patrimoine communal. Cession de l’emprise du chemin n°40 à Wauthier-Braine (chemin supprimé). Rapport d’évaluation : approbation."
+                        ]
+                      }
+                    ]
+                  }, 
+                  "Séance à huis clos", 
+                  {
+                    "h": [
+                      {
+                        "li class=\"obj\"": [
+                          "10. Personnel ouvrier - Demande de congé parental d'un agent technique pour le mois d'août 2017 (via interruption complète de la carrière) : décision."
+                        ]
+                      }, 
+                      "Personnel enseignant", 
+                      {
+                        "li class=\"obj\"": [
+                          "Ratification de désignations à titre temporaire sur décisions du Collège communal", 
+                          {
+                            "li class=\"obj\"": [
+                              "11. Institutrice maternelle dans un emploi non vacant (3/4 temps) à l'implantation de Wauthier-Braine.", 
+                              "12. Démission - pour une partie (= 2/26) de sa charge (9/26) - du maître spécial de psychomotricité nommé à titre définitif en cette qualité : prise d'acte et acceptation.", 
+                              "13. Nomination à titre définitif d'un maître spécial d'éducation physique déjà titulaire d'une fraction de charge de 6/24 dans une fraction de charge supplémentaire comportant 12/24 : décision.", 
+                              "14. Nomination à titre définitif d'un maître spécial de religion islamique dans une fraction de charge comportant 5/24 : décision. [N.D.L.R. : fraction de charge sujette à révision ultérieure ( 9/24) lorsque la Fédération Wallonie-Bruxelles aura pris position sur la situation qui se présente]."
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          {
+            "p": [
+              "Par le Collège,", 
+              {
+                "li": [
+                  "Le Directeur général,  M. LENNARTS", 
+                  "Le Bourgmestre,  A. FAUCONNIER"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Enveloppe": [
+      {
+        "id_ddr": "2017-03-08T20-00_gWbrCmnBraineLeChateau-clg-3_consCmn-seancePublique-4_odj-4"
+      }, 
+      {
+        "Stamps": [
+          {
+            "op_tpl:": [
+              "web_detect", 
+              "web_grab", 
+              "web_remove", 
+              "email_delivery", 
+              "email_sended", 
+              "pmail_delivery", 
+              "pmail_sended", 
+              "doc_creation", 
+              "doc_signature", 
+              "add_content_silocanceled_with_notification", 
+              "canceled_without_notification"
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_detect"
+              }, 
+              {
+                "dt": "2017-04-20T14-00"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "www.braine-le-chateau.be/ma-commune/vie-politique/conseil-communal/ordre-du-jour-1/ordre-du-jour"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_grab"
+              }, 
+              {
+                "dt": "2017-04-21T08:55"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://www.braine-le-chateau.be/ma-commune/vie-politique/conseil-communal/ordre-du-jour-1/conseil-convocation-seance-20170308.pdf"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "doc_signature"
+              }, 
+              {
+                "dt": "2017-02-27"
+              }, 
+              {
+                "authors": "Institution"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "add_content_silo"
+              }, 
+              {
+                "dt": "2017-04-21T08:55"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_ddr_doc_dw"
+              }, 
+              {
+                "dt": "2017-04-21T08:55"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://tinyurl.com/k64g97y"
+              }, 
+              {
+                "note": "from_web"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Metadata": [
+      {
+        "tags": null
+      }, 
+      {
+        "faces": null
+      }, 
+      {
+        "Has_info_doc": [
+          {
+            "info_tpl": "doc ; env ; pull"
+          }, 
+          {
+            "pull_src": null
+          }, 
+          {
+            "Src": [
+              {
+                "place": "doc"
+              }, 
+              {
+                "date": "doc"
+              }, 
+              {
+                "idvs": "doc"
+              }, 
+              {
+                "roles": "doc"
+              }, 
+              {
+                "orgs": "doc ; env"
+              }
+            ]
+          }, 
+          {
+            "Dst": [
+              {
+                "to_public": "t"
+              }
+            ]
+          }, 
+          {
+            "Event": [
+              {
+                "date": "doc ; env"
+              }, 
+              {
+                "time": "doc"
+              }, 
+              {
+                "adr_doc_tsbr_io": "_1110_0000"
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "Coding": [
+          {
+            "values": "pdf-image"
+          }, 
+          {
+            "tree_odj": "h > li class=\"obj\""
+          }, 
+          {
+            "title": 1
+          }, 
+          {
+            "comment": 0
+          }, 
+          {
+            "action_request": null
+          }, 
+          {
+            "noise": 0
+          }
+        ]
+      }, 
+      {
+        "Licence": [
+          {
+            "DroitDeRegard": [
+              {
+                "Licence": "CC-BY-SA-NC"
+              }, 
+              {
+                "Auteur": "Patrick Installé 2013"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Taxonomy": [
+      {
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      }, 
+      {
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+      }, 
+      {
+        "foaf": "http://xmlns.com/foaf/0.1/"
+      }, 
+      {
+        "bio": "http://purl.org/vocab/bio/0.1/"
+      }, 
+      {
+        "dc": "http://purl.org/dc/terms/"
+      }, 
+      {
+        "lang": "http://purl.org/net/inkel/rdf/schemas/lang/1.1#"
+      }, 
+      {
+        "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#"
+      }, 
+      {
+        "doac": "http://ramonantonio.net/doac/0.1/"
+      }, 
+      {
+        "menow": "http://schema.peoplesdns.com/menow/"
+      }, 
+      {
+        "sioc": "http://rdfs.org/sioc/ns#"
+      }, 
+      {
+        "owl": "http://www.w3.org/2002/07/owl#"
+      }, 
+      {
+        "admin": "http://webns.net/mvcb/"
+      }, 
+      {
+        "rel": "http://purl.org/vocab/relationship/"
+      }
+    ]
+  }
+]

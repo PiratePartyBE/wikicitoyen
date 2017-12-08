@@ -1,0 +1,341 @@
+[
+  {
+    "Content": [
+      {
+        "h": [
+          {
+            "h": [
+              "Commune d'Ittre", 
+              {
+                "h": [
+                  "Conseil communal", 
+                  {
+                    "p": [
+                      "www.ittre.be, le mardi 21 juin 2016 à 13-14 heures", 
+                      "COMMUNE DE ITTRE", 
+                      "Ittre, le 21 juin 2016.", 
+                      "Séance publique DU CONSEIL COMMUNAL Du 28 JUIN 2016 À 19.00 HEURES", 
+                      "LA SALLE DU CONSEIL COMMUNAL SISE GRAND-PLACE 2 A ITTRE"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          "Invitation à la séance du mardi 28 juin 2016 à 19 heures 00", 
+          {
+            "p": [
+              "Maison communale - Grand Place, 2 à 1460 Ittre"
+            ]
+          }, 
+          {
+            "h": [
+              "Ordre du jour", 
+              {
+                "h": [
+                  "Séance publique", 
+                  {
+                    "li class=\"obj\"": [
+                      "1. Interpellation citoyenne relative au projet de caméras de surveillance.", 
+                      "2. Construction d'une structure d'accueil de la petite enfance à Virginal - Approbation du projet, des conditions et du mode de passation : décision", 
+                      "3. Structure d'accueil de la petite enfance à Virginal - mandat de gestion de la commune d'Ittre en faveur du CPAS : décision", 
+                      "4. Finances communales - situation de caisse du second semestre 2015 : notification", 
+                      "5. Modifications budgétaires communales n° 1/2016 - Services ordinaire et extraordinaire : arrêt.", 
+                      "6. Lynx Hockey Club Ittre - demande de subvention exceptionnelle: ratification", 
+                      "7. Placement de caméras de surveillance sur l'espace public : décision de principe", 
+                      "8. Salles communales-conventions particulières pour différentes associations : le Yoga du rire, la confrérie de la tarte au Crastofé, le Retour des Palombes, l'après- midi Accordéon et le Cercle Horticole : décisions", 
+                      "9. URBANISME - Cession URB.2012/36 LIETARD-VANOEVELEN - chargesd'urbanisme (130/FL/501) : décision", 
+                      "10. REGLEMENT COMPLEMENTAIRE - Création de 2 places de stationnement à durée limitée en face de la boulangerie la brioche d'or : décision", 
+                      "11. REGLEMENT COMPLEMENTAIRE - Adaptation signalétique aux alentours du port d'Ittre et de l'écluse 5F : décision", 
+                      "12. Règlement communal pour l'utilisation de vélos électriques : approbation", 
+                      "13. Site des verreries de Fauquez - demande d'autorisation d'élaborer un PCA qui révise le plan de secteur sous réserve de son inscription sur la liste par le Gouvernement : décision", 
+                      "14. Informations du Collège communal"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          {
+            "p": [
+              "Par Ordonnance :", 
+              {
+                "br": [
+                  "Le Directeur général  P. Pierson", 
+                  "Le Bourgmestre, F. Jolly."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Enveloppe": [
+      {
+        "id_ddr": "2016-06-28T19-00_gWbrCmnIttre-clg-3_consCmn-seancePublique-4_odj-4"
+      }, 
+      {
+        "Stamps": [
+          {
+            "op_tpl:": [
+              "web_detect", 
+              "web_grab", 
+              "web_remove", 
+              "email_delivery", 
+              "email_sended", 
+              "pmail_delivery", 
+              "pmail_sended", 
+              "doc_creation", 
+              "doc_signature", 
+              "add_content_silocanceled_with_notification", 
+              "canceled_without_notification"
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_detect"
+              }, 
+              {
+                "dt": "2016-06-21T14-00"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "www.ittre.be/."
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_grab"
+              }, 
+              {
+                "dt": "2016-06-21T19:45"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://www.ittre.be/images/imgtemp/conseilcommunal-28juin2016-oj.pdf"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "doc_signature"
+              }, 
+              {
+                "dt": "2016-06-21"
+              }, 
+              {
+                "authors": "Institution"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "add_content_silo"
+              }, 
+              {
+                "dt": "2016-06-21T19:45"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_ddr_doc_dw"
+              }, 
+              {
+                "dt": "2016-06-21T19:45"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "https://is.gd/VsHmkS"
+              }, 
+              {
+                "note": "from_web"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Metadata": [
+      {
+        "tags": null
+      }, 
+      {
+        "faces": null
+      }, 
+      {
+        "Has_info_doc": [
+          {
+            "info_tpl": "doc ; env ; pull"
+          }, 
+          {
+            "pull_src": null
+          }, 
+          {
+            "Src": [
+              {
+                "place": "doc"
+              }, 
+              {
+                "date": "doc"
+              }, 
+              {
+                "idvs": "doc"
+              }, 
+              {
+                "roles": "doc"
+              }, 
+              {
+                "orgs": "doc ; env"
+              }
+            ]
+          }, 
+          {
+            "Dst": [
+              {
+                "to_public": "t"
+              }
+            ]
+          }, 
+          {
+            "Event": [
+              {
+                "date": "doc ; env"
+              }, 
+              {
+                "time": "doc ; env"
+              }, 
+              {
+                "adr_doc_tsbr_io": "_1111_0000"
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "Coding": [
+          {
+            "values": "pdf-text"
+          }, 
+          {
+            "tree_odj": "li class=\"obj\""
+          }, 
+          {
+            "title": 1
+          }, 
+          {
+            "comment": 0
+          }, 
+          {
+            "action_request": null
+          }, 
+          {
+            "noise": 0
+          }
+        ]
+      }, 
+      {
+        "Licence": [
+          {
+            "DroitDeRegard": [
+              {
+                "Licence": "CC-BY-SA-NC"
+              }, 
+              {
+                "Auteur": "Patrick Installé 2013"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Taxonomy": [
+      {
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      }, 
+      {
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+      }, 
+      {
+        "foaf": "http://xmlns.com/foaf/0.1/"
+      }, 
+      {
+        "bio": "http://purl.org/vocab/bio/0.1/"
+      }, 
+      {
+        "dc": "http://purl.org/dc/terms/"
+      }, 
+      {
+        "lang": "http://purl.org/net/inkel/rdf/schemas/lang/1.1#"
+      }, 
+      {
+        "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#"
+      }, 
+      {
+        "doac": "http://ramonantonio.net/doac/0.1/"
+      }, 
+      {
+        "menow": "http://schema.peoplesdns.com/menow/"
+      }, 
+      {
+        "sioc": "http://rdfs.org/sioc/ns#"
+      }, 
+      {
+        "owl": "http://www.w3.org/2002/07/owl#"
+      }, 
+      {
+        "admin": "http://webns.net/mvcb/"
+      }, 
+      {
+        "rel": "http://purl.org/vocab/relationship/"
+      }
+    ]
+  }
+]

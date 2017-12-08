@@ -1,0 +1,368 @@
+[
+  {
+    "Content": [
+      {
+        "h": [
+          {
+            "h": [
+              "Commune de Braine-le-château", 
+              {
+                "h": [
+                  "Conseil communal", 
+                  {
+                    "p": [
+                      "www.braine-le-chateau.be, le lundi 14 novembre 2016 à 15-16 heures", 
+                      "COMMUNE DE BRAINE-LE-CHÂTEAU", 
+                      "Braine-le-Château, le 14 novembre 2016. ", 
+                      "ASSEMBLÉE COMMUNE CONSEIL COMMUNAL ET CONSEIL DE L'ACTION SOCIALE", 
+                      "Madame, Monsieur, est invité(e aura lieu ster à la séance conjointe du Conseil communal et du Conseil de l'action sociale qui -lé-Château, rue de la Libération, 9, le mercredi 23 novembre 2016 à 19 h 30'."
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          "Convocation à la séance du mercredi 23 novembre 2016 à 19 heures 30", 
+          {
+            "p": [
+              "Maison Communale de Braine-le-château - Rue de la Libération 9 - 1440 Braine-le-Château"
+            ]
+          }, 
+          {
+            "h": [
+              "Ordre du jour", 
+              {
+                "h": [
+                  "Séance publique", 
+                  {
+                    "h": [
+                      {
+                        "li class=\"obj\"": null
+                      }
+                    ]
+                  }, 
+                  "Séance publique", 
+                  {
+                    "h": [
+                      {
+                        "li class=\"obj\"": [
+                          "1. Présentation commentée du rapport sur", 
+                          {
+                            "li class=\"obj\"": [
+                              "l'ensemble des synergies existantes et à développer entre la commune et le Centre Public d'Action Sociale;", 
+                              "les économies d'échelle et les suppressions des doubles emplois ou chevauchements d'activités du Centre Public d'Action Sociale et de la commune;", 
+                              "tel que préparé par le comité de concertation entre le Conseil communal et le Conseil de l'action sociale."
+                            ]
+                          }, 
+                          "2. Logement: ", 
+                          {
+                            "li class=\"obj\"": [
+                              "État d'avancement des opérations menées dans le cadre de la stratégie communale en matière de logement, en étroite collaboration entre commune et C.P.A.S.: ", 
+                              {
+                                "li class=\"obj\"": [
+                                  "2.1 Programmes d'actions les plus récents (2012-2013 et 2014-2016) approuvés par le Gouvernement wallon. ", 
+                                  "2.2 Lotissement de l'I.B.W. (Intercommunale du Brabant wallon) dans fa Zone d'Aménagement Communal Concerté de l'Espérance. ", 
+                                  "2.3 La politique du C.P.A.S. ["
+                                ]
+                              }, 
+                              "M le Bourgmestre et M, le Président du C.P.A.S. font le point sur l'évolution des différents projets déjà lancés ou encore en gestation]."
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          {
+            "p": [
+              "Par le Collège,", 
+              {
+                "li": [
+                  "Le Directeur général,  M. LENNARTS", 
+                  "Le Bourgmestre,  A. FAUCONNIER"
+                ]
+              }, 
+              "Pour le CPAS", 
+              {
+                "li": [
+                  "Le Directeur général f.f.,  B. TAYMANS", 
+                  "Le Président,  Ph. HECQUET"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Enveloppe": [
+      {
+        "id_ddr": "2016-11-23T19-30_gWbrCmnBraineLeChateau-clg-3_consCmn-seancePublique-4_odj-4"
+      }, 
+      {
+        "Stamps": [
+          {
+            "op_tpl:": [
+              "web_detect", 
+              "web_grab", 
+              "web_remove", 
+              "email_delivery", 
+              "email_sended", 
+              "pmail_delivery", 
+              "pmail_sended", 
+              "doc_creation", 
+              "doc_signature", 
+              "add_content_silocanceled_with_notification", 
+              "canceled_without_notification"
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_detect"
+              }, 
+              {
+                "dt": "2016-11-14T16-00"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "www.braine-le-chateau.be/."
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_grab"
+              }, 
+              {
+                "dt": "2016-11-16T00:29"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://www.braine-le-chateau.be/actualites/conseil-convocation-cc-cas-seance-20161123.pdf"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "doc_signature"
+              }, 
+              {
+                "dt": "2016-11-14"
+              }, 
+              {
+                "authors": "Institution"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "add_content_silo"
+              }, 
+              {
+                "dt": "2016-11-16T00:29"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_ddr_doc_dw"
+              }, 
+              {
+                "dt": "2016-11-16T00:29"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "https://is.gd/ZOjukD"
+              }, 
+              {
+                "note": "from_web"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Metadata": [
+      {
+        "tags": null
+      }, 
+      {
+        "faces": null
+      }, 
+      {
+        "Has_info_doc": [
+          {
+            "info_tpl": "doc ; env ; pull"
+          }, 
+          {
+            "pull_src": null
+          }, 
+          {
+            "Src": [
+              {
+                "place": "doc"
+              }, 
+              {
+                "date": "doc"
+              }, 
+              {
+                "idvs": "doc"
+              }, 
+              {
+                "roles": "doc"
+              }, 
+              {
+                "orgs": "doc ; env"
+              }
+            ]
+          }, 
+          {
+            "Dst": [
+              {
+                "to_public": "t"
+              }
+            ]
+          }, 
+          {
+            "Event": [
+              {
+                "date": "doc ; env"
+              }, 
+              {
+                "time": "doc"
+              }, 
+              {
+                "adr_doc_tsbr_io": "_1110_0000"
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "Coding": [
+          {
+            "values": "pdf-image"
+          }, 
+          {
+            "tree_odj": "h > li class=\"obj\""
+          }, 
+          {
+            "title": 1
+          }, 
+          {
+            "comment": 0
+          }, 
+          {
+            "action_request": null
+          }, 
+          {
+            "noise": 0
+          }
+        ]
+      }, 
+      {
+        "Licence": [
+          {
+            "DroitDeRegard": [
+              {
+                "Licence": "CC-BY-SA-NC"
+              }, 
+              {
+                "Auteur": "Patrick Installé 2013"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Taxonomy": [
+      {
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      }, 
+      {
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+      }, 
+      {
+        "foaf": "http://xmlns.com/foaf/0.1/"
+      }, 
+      {
+        "bio": "http://purl.org/vocab/bio/0.1/"
+      }, 
+      {
+        "dc": "http://purl.org/dc/terms/"
+      }, 
+      {
+        "lang": "http://purl.org/net/inkel/rdf/schemas/lang/1.1#"
+      }, 
+      {
+        "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#"
+      }, 
+      {
+        "doac": "http://ramonantonio.net/doac/0.1/"
+      }, 
+      {
+        "menow": "http://schema.peoplesdns.com/menow/"
+      }, 
+      {
+        "sioc": "http://rdfs.org/sioc/ns#"
+      }, 
+      {
+        "owl": "http://www.w3.org/2002/07/owl#"
+      }, 
+      {
+        "admin": "http://webns.net/mvcb/"
+      }, 
+      {
+        "rel": "http://purl.org/vocab/relationship/"
+      }
+    ]
+  }
+]

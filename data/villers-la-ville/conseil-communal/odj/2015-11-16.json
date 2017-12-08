@@ -1,0 +1,311 @@
+[
+  {
+    "Content": [
+      {
+        "h": [
+          {
+            "h": [
+              "Commune de Villers-la-Ville", 
+              {
+                "h": [
+                  "Conseil communal", 
+                  {
+                    "p": [
+                      "www.villers-la-ville.be, le lundi 9 novembre 2015 à 11-12 heures", 
+                      "Ordre du jour du conseil communal", 
+                      "La prochaine séance du CONSEIL COMMUNAL aura lieu le lundi 16 novembre 2015 à 20 heures 30 à la Maison communale."
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          "Invitation à la séance du lundi 16 novembre 2015 à 20 heures 30", 
+          {
+            "p": [
+              "Maison Communale - rue de Marbais, 37 - 1495 Villers-la-Ville"
+            ]
+          }, 
+          {
+            "h": [
+              "Ordre du jour", 
+              {
+                "h": [
+                  "Séance publique", 
+                  {
+                    "h": [
+                      {
+                        "li class=\"obj\"": [
+                          ". Procès-verbal de la séance précédente.", 
+                          "1. Budget 2016 de la Fabrique d’Eglise Notre Dame de Marbisoux. Approbation.", 
+                          "2. Budget 2016 de la Fabrique d’Eglise Saint-Laurent de Mellery. Approbation.", 
+                          "3. Budget 2016 de la Fabrique d’Eglise Saint-Nicolas de Sart-Dames-Avelines. Approbation.", 
+                          "4. Budget 2016 de la Fabrique d’Eglise Notre Dame des Affligés de Tilly. Approbation.", 
+                          "5. Budget 2016 de l’Eglise Protestante de Wavre. Approbation.", 
+                          "6. IMIO. Points portés à l’ordre du jour de l’assemblée générale du 19 novembre 2015.", 
+                          "7. P.B.E. Points portés à l’ordre du jour de l’assemblée générale extraordinaire du 04 décembre 2015.", 
+                          "8. I.E.C.B.W. Points portés à l’ordre du jour de l’assemblée générale du 18 décembre 2015.", 
+                          "9. Comptes annuels pour l’exercice 2014. Règlement. (Compte budgétaire. Compte de résultat. Bilan).", 
+                          "10. Budget 2015. Modifications budgétaires n° 1 ordinaire et extraordinaire. Approbation. (y compris l’injection des résultats des comptes 2014 dans l’exercice 2015).", 
+                          "11. Travaux et acquisitions prévus au programme des dépenses extraordinaires du budget 2015. Modifications budgétaires n° 1. Adaptation de la décision de principe. Conditions et mode de passation de certains marchés.", 
+                          "12. Gestion du patrimoine et des emprunts. Désaffectation et réaffectation des soldes.", 
+                          "13. Acquisition d’une déchiqueteuse de branches pour le service de la voirie. Approbation des conditions du marché. Procédure négociée sans publicité lors du lancement de la procédure. Financement.", 
+                          "14. Service de médiation dans le cadre des sanctions administratives communales. Convention avec la Ville de Nivelles.", 
+                          "15. Coût-vérité. Budget 2016. Taxe sur l’enlèvement des immondices et résidus ménagers. Année 2016."
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Enveloppe": [
+      {
+        "id_ddr": "2015-11-16T20-30_gWbrCmnVillersLaVille-clg-3_consCmn-seancePublique-4_odj-4"
+      }, 
+      {
+        "Stamps": [
+          {
+            "op_tpl:": [
+              "web_detect", 
+              "web_grab", 
+              "web_remove", 
+              "email_delivery", 
+              "email_sended", 
+              "pmail_delivery", 
+              "pmail_sended", 
+              "doc_creation", 
+              "doc_signature", 
+              "add_content_silocanceled_with_notification", 
+              "canceled_without_notification"
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_detect"
+              }, 
+              {
+                "dt": "2015-11-09T12-01"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "www.villers-la-ville.be/ma-commune/vie-politique/conseil/ordre-du-jour"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_grab"
+              }, 
+              {
+                "dt": "2015-11-09T17:31"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://www.villers-la-ville.be/ma-commune/vie-politique/conseil/ordre-du-jour"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "add_content_silo"
+              }, 
+              {
+                "dt": "2015-11-09T17:31"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_ddr_doc_dw"
+              }, 
+              {
+                "dt": "2015-11-09T17:31"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://tinyurl.com/pfk5zdp"
+              }, 
+              {
+                "note": "from_web"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Metadata": [
+      {
+        "tags": null
+      }, 
+      {
+        "faces": null
+      }, 
+      {
+        "Has_info_doc": [
+          {
+            "info_tpl": "doc ; env ; pull"
+          }, 
+          {
+            "pull_src": null
+          }, 
+          {
+            "Src": [
+              {
+                "place": null
+              }, 
+              {
+                "date": null
+              }, 
+              {
+                "idvs": null
+              }, 
+              {
+                "roles": null
+              }, 
+              {
+                "orgs": "env"
+              }
+            ]
+          }, 
+          {
+            "Dst": [
+              {
+                "to_public": "i"
+              }
+            ]
+          }, 
+          {
+            "Event": [
+              {
+                "date": "doc ; env"
+              }, 
+              {
+                "time": "doc"
+              }, 
+              {
+                "adr_doc_tsbr_io": "_0010_0000"
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "Coding": [
+          {
+            "values": "pdf-text"
+          }, 
+          {
+            "tree_odj": "li"
+          }, 
+          {
+            "title": 1
+          }, 
+          {
+            "comment": 0
+          }, 
+          {
+            "action_request": null
+          }, 
+          {
+            "noise": 0
+          }
+        ]
+      }, 
+      {
+        "Licence": [
+          {
+            "DroitDeRegard": [
+              {
+                "Licence": "CC-BY-SA-NC"
+              }, 
+              {
+                "Auteur": "Patrick Installé 2013"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Taxonomy": [
+      {
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      }, 
+      {
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+      }, 
+      {
+        "foaf": "http://xmlns.com/foaf/0.1/"
+      }, 
+      {
+        "bio": "http://purl.org/vocab/bio/0.1/"
+      }, 
+      {
+        "dc": "http://purl.org/dc/terms/"
+      }, 
+      {
+        "lang": "http://purl.org/net/inkel/rdf/schemas/lang/1.1#"
+      }, 
+      {
+        "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#"
+      }, 
+      {
+        "doac": "http://ramonantonio.net/doac/0.1/"
+      }, 
+      {
+        "menow": "http://schema.peoplesdns.com/menow/"
+      }, 
+      {
+        "sioc": "http://rdfs.org/sioc/ns#"
+      }, 
+      {
+        "owl": "http://www.w3.org/2002/07/owl#"
+      }, 
+      {
+        "admin": "http://webns.net/mvcb/"
+      }, 
+      {
+        "rel": "http://purl.org/vocab/relationship/"
+      }
+    ]
+  }
+]

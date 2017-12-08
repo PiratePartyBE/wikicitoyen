@@ -1,0 +1,308 @@
+[
+  {
+    "Content": [
+      {
+        "h": [
+          {
+            "h": [
+              "Commune de Villers-la-Ville", 
+              {
+                "h": [
+                  "Conseil communal", 
+                  {
+                    "p": [
+                      "www.villers-la-ville.be, le mercredi 10 février 2016 à 22-23 heures", 
+                      "Ordre du jour du conseil communal la SEANCE du CONSEIL aura lieu le mardi 16 février 2016 à 20H30’ à la Maison communale."
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          "Invitation à la séance du mardi 16 février 2016 à 20 heures 30", 
+          {
+            "p": [
+              "Maison Communale - rue de Marbais, 37 - 1495 Villers-la-Ville"
+            ]
+          }, 
+          {
+            "h": [
+              "Ordre du jour", 
+              {
+                "h": [
+                  "Séance publique", 
+                  {
+                    "h": [
+                      {
+                        "li class=\"obj\"": [
+                          ". Procès-verbal de la séance précédente.", 
+                          "1. Arrêtés de police du Bourgmestre. Ratification.", 
+                          "2. Eglise Protestante de Wavre. Compte de clerc à Maître.", 
+                          "3. Propriété communale rue du Châtelet n° 13 à Villers-la-Ville. Affectation. Etude du projet. Mise en location.", 
+                          "4. Opération « Communes Energ’étiques ». Rapport intermédiaire de la Conseillère en énergie pour l’année 2015. Approbation.", 
+                          "5. Rapport d’activités 2015 de la Commission locale pour l’énergie.", 
+                          "6. Demande de permis d’urbanisme 0150/2015. COLLARD.I. Modification de la voirie communale. Villers-la-Ville – rue Emile Léger. Procès-verbal de clôture des réclamations.", 
+                          "7. Demande du permis unique. Transformation d’une exploitation agricole. Modification de la voirie communale : sentier n° 49 à Sart-Dames-Avelines. Résultats de l’enquête. Décision.", 
+                          "8. Travaux d’entretien extraordinaire de la voirie. Travaux de pose d’un revêtement hydrocarboné au Chemin du Grand Mont à Marbais. Approbation des conditions du marché. Procédure négociée directe avec publicité.", 
+                          "9. Travaux d’entretien extraordinaire de la voirie. Travaux de remplacement d’une partie des pavés de voirie par un revêtement hydrocarboné au boulevard Neuf à Villers-la-Ville. Approbation des conditions du marché. Procédure négociée directe avec publicité.", 
+                          "10. Patrimoine. Biens meubles. Vente de pavés de porphyre et de bordures en pierre bleue de récupération. Décision.", 
+                          "11. Travaux de remplacement du système de détection incendie à l’école communale de Villers-la-Ville. Approbation des conditions du marché. Procédure négociée directe avec publicité.", 
+                          "12. GAL (Groupe d’Action locale) « Pays des 4 Bras ». Approbation de la stratégie de développement local.", 
+                          "13. Ouverture d’une demi classe maternelle à l’école communale de Marbais à partir du 18 janvier 2016."
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Enveloppe": [
+      {
+        "id_ddr": "2016-02-16T20-30_gWbrCmnVillersLaVille-clg-3_consCmn-seancePublique-4_odj-4"
+      }, 
+      {
+        "Stamps": [
+          {
+            "op_tpl:": [
+              "web_detect", 
+              "web_grab", 
+              "web_remove", 
+              "email_delivery", 
+              "email_sended", 
+              "pmail_delivery", 
+              "pmail_sended", 
+              "doc_creation", 
+              "doc_signature", 
+              "add_content_silocanceled_with_notification", 
+              "canceled_without_notification"
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_detect"
+              }, 
+              {
+                "dt": "2016-02-10T23-28"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "www.villers-la-ville.be/ma-commune/vie-politique/conseil/ordre-du-jour"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_grab"
+              }, 
+              {
+                "dt": "2016-02-11T08:38"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://www.villers-la-ville.be/ma-commune/vie-politique/conseil/ordre-du-jour"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "add_content_silo"
+              }, 
+              {
+                "dt": "2016-02-11T08:38"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_ddr_doc_dw"
+              }, 
+              {
+                "dt": "2016-02-11T08:38"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://is.gd/4BZv9v"
+              }, 
+              {
+                "note": "from_web"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Metadata": [
+      {
+        "tags": null
+      }, 
+      {
+        "faces": null
+      }, 
+      {
+        "Has_info_doc": [
+          {
+            "info_tpl": "doc ; env ; pull"
+          }, 
+          {
+            "pull_src": null
+          }, 
+          {
+            "Src": [
+              {
+                "place": null
+              }, 
+              {
+                "date": null
+              }, 
+              {
+                "idvs": null
+              }, 
+              {
+                "roles": null
+              }, 
+              {
+                "orgs": "env"
+              }
+            ]
+          }, 
+          {
+            "Dst": [
+              {
+                "to_public": "i"
+              }
+            ]
+          }, 
+          {
+            "Event": [
+              {
+                "date": "doc ; env"
+              }, 
+              {
+                "time": "doc"
+              }, 
+              {
+                "adr_doc_tsbr_io": "_0010_0000"
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "Coding": [
+          {
+            "values": "pdf-text"
+          }, 
+          {
+            "tree_odj": "li"
+          }, 
+          {
+            "title": 1
+          }, 
+          {
+            "comment": 0
+          }, 
+          {
+            "action_request": null
+          }, 
+          {
+            "noise": 0
+          }
+        ]
+      }, 
+      {
+        "Licence": [
+          {
+            "DroitDeRegard": [
+              {
+                "Licence": "CC-BY-SA-NC"
+              }, 
+              {
+                "Auteur": "Patrick Installé 2013"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Taxonomy": [
+      {
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      }, 
+      {
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+      }, 
+      {
+        "foaf": "http://xmlns.com/foaf/0.1/"
+      }, 
+      {
+        "bio": "http://purl.org/vocab/bio/0.1/"
+      }, 
+      {
+        "dc": "http://purl.org/dc/terms/"
+      }, 
+      {
+        "lang": "http://purl.org/net/inkel/rdf/schemas/lang/1.1#"
+      }, 
+      {
+        "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#"
+      }, 
+      {
+        "doac": "http://ramonantonio.net/doac/0.1/"
+      }, 
+      {
+        "menow": "http://schema.peoplesdns.com/menow/"
+      }, 
+      {
+        "sioc": "http://rdfs.org/sioc/ns#"
+      }, 
+      {
+        "owl": "http://www.w3.org/2002/07/owl#"
+      }, 
+      {
+        "admin": "http://webns.net/mvcb/"
+      }, 
+      {
+        "rel": "http://purl.org/vocab/relationship/"
+      }
+    ]
+  }
+]

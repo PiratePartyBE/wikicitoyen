@@ -1,0 +1,342 @@
+[
+  {
+    "Content": [
+      {
+        "h": [
+          {
+            "h": [
+              "Commune de Tubize", 
+              {
+                "h": [
+                  "Conseil communal", 
+                  {
+                    "p": [
+                      "Courriel, le vendredi 28 avril 2017 à 13 heures 03", 
+                      "COMMUNE DE TUBIZE", 
+                      "COMMUNE DE TUBIZE 28/04/17", 
+                      "CONSEIL COMMUNAL", 
+                      "Séance du 08 mai 2017 à 19H30 Maison communale"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          "Séance du lundi 8 mai 2017 à 19 heures 30", 
+          {
+            "p": [
+              "Salle A 1er étage - Maison communale - Grand Place, 1 - 1480 Tubize"
+            ]
+          }, 
+          {
+            "h": [
+              "Ordre du jour", 
+              {
+                "h": [
+                  "Séance publique", 
+                  {
+                    "h": [
+                      {
+                        "li class=\"obj\"": [
+                          "1. Approbation du procès-verbal du conseil du 10 avril 2017", 
+                          "2. IMIO - Convocation à l'Assemblée générale ordinaire du 1er juin 2017 - Approbation des points portés à l'ordre du jour", 
+                          "3. IMIO - Convocation à l'Assemblée générale extraordinaire du 1er juin 2017 - Approbation des points portés à l'ordre du jour", 
+                          "4. Quartiers Nouveaux - Master Plan des Forges - Charte partenarïale", 
+                          "5. Trésorerie communale - Situation de caisse du 1er trimestre 2017.", 
+                          "6. RFI - Compte 2015 - Avis du CRAC.", 
+                          "7. RFI - Crédit terme fixe : prolongation - Garantie communale - Décision de Tutelle.", 
+                          "8. CPAS - Compte 2015 - Analyse du CRAC.", 
+                          "9. Fabrique d'église Sainte Renelde - Compte 2016.", 
+                          "10. Fabrique d'église Saint Jean Baptiste - Compte 2016.", 
+                          "11. Marché public - PIC 2017-2018 n°6 : Travaux de rénovation d'égouttage et aménagement de voirie Rue des Frères Vanbellinghen et impasse du Pont d'Ophain - Mode de passation et Cahier spécial des charges", 
+                          "12. Marché public : Travaux de remplacement des toitures du Chalet des sports - Mode de passation et Cahier spécial des charges", 
+                          "13. Mobilité - RCCR - Mise en voie à sens unique de la partie secondaire de la rue de Stimbert", 
+                          "14. Mobilité - RCCR - Organisation du stationnement du boulevard Georges Deryck", 
+                          "15. Mobilité - RCCR - Circulation et stationnement dans la ruelle du Betchard et rue de ia Déportation (N°l à N°14)", 
+                          "16. Mobilité - RCCR - Abrogation du stationnement alterné et interdiction de stationner côté impaire rue Francisco Ferrer", 
+                          "17. Demande de permis d'urbanisation - PUR 2016/001 pour le projet \"Les Jardins d'Oisquercq\"", 
+                          "18. Permis d'urbanisation PUR2014/001 - Tracé de voirie - validation", 
+                          "19. Divers et questions orales d'actualité"
+                        ]
+                      }
+                    ]
+                  }, 
+                  "Séance à huis clos", 
+                  {
+                    "h": [
+                      {
+                        "li class=\"obj\"": [
+                          "20. Entrée en vigueur du CoDT - Redésignation des agents constatateurs", 
+                          "21. Désignation d'un agent constatateur"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          {
+            "p": [
+              "PAR LE COLLEGE :", 
+              {
+                "li": [
+                  "Le Directeur général, E. LAURENT", 
+                  "Le Bourgmestre, M. JANUTH"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Enveloppe": [
+      {
+        "id_ddr": "2017-05-08T19-30_gWbrCmnTubize-clg-3_consCmn-seancePublique-4_odj-4"
+      }, 
+      {
+        "Stamps": [
+          {
+            "op_tpl:": [
+              "web_detect", 
+              "web_grab", 
+              "web_remove", 
+              "email_delivery", 
+              "email_sended", 
+              "pmail_delivery", 
+              "pmail_sended", 
+              "doc_creation", 
+              "doc_signature", 
+              "add_content_silocanceled_with_notification", 
+              "canceled_without_notification"
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "email_sended"
+              }, 
+              {
+                "dt": "2017-04-28T13:03"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "doc_signature"
+              }, 
+              {
+                "dt": "2017-04-28"
+              }, 
+              {
+                "authors": "Institution"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "add_content_silo"
+              }, 
+              {
+                "dt": "2017-05-03T13:22"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_ddr_doc_dw"
+              }, 
+              {
+                "dt": "2017-05-03T13:22"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "error: sorry our API is closed!"
+              }, 
+              {
+                "note": "from_web"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Metadata": [
+      {
+        "tags": null
+      }, 
+      {
+        "faces": null
+      }, 
+      {
+        "Has_info_doc": [
+          {
+            "info_tpl": "doc ; env ; pull"
+          }, 
+          {
+            "pull_src": null
+          }, 
+          {
+            "Src": [
+              {
+                "place": "doc"
+              }, 
+              {
+                "date": "doc"
+              }, 
+              {
+                "idvs": "doc"
+              }, 
+              {
+                "roles": "doc"
+              }, 
+              {
+                "orgs": "doc ; env"
+              }
+            ]
+          }, 
+          {
+            "Dst": [
+              {
+                "to_public": "t"
+              }
+            ]
+          }, 
+          {
+            "Event": [
+              {
+                "date": "doc"
+              }, 
+              {
+                "time": "doc"
+              }, 
+              {
+                "adr_doc_tsbr_io": "_0010_0000"
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "Coding": [
+          {
+            "values": "pdf-image"
+          }, 
+          {
+            "tree_odj": "h > li class=\"obj\""
+          }, 
+          {
+            "title": 1
+          }, 
+          {
+            "comment": 0
+          }, 
+          {
+            "action_request": null
+          }, 
+          {
+            "noise": 0
+          }
+        ]
+      }, 
+      {
+        "Licence": [
+          {
+            "DroitDeRegard": [
+              {
+                "Licence": "CC-BY-SA-NC"
+              }, 
+              {
+                "Auteur": "Patrick Installé 2013"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Taxonomy": [
+      {
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      }, 
+      {
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+      }, 
+      {
+        "foaf": "http://xmlns.com/foaf/0.1/"
+      }, 
+      {
+        "bio": "http://purl.org/vocab/bio/0.1/"
+      }, 
+      {
+        "dc": "http://purl.org/dc/terms/"
+      }, 
+      {
+        "lang": "http://purl.org/net/inkel/rdf/schemas/lang/1.1#"
+      }, 
+      {
+        "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#"
+      }, 
+      {
+        "doac": "http://ramonantonio.net/doac/0.1/"
+      }, 
+      {
+        "menow": "http://schema.peoplesdns.com/menow/"
+      }, 
+      {
+        "sioc": "http://rdfs.org/sioc/ns#"
+      }, 
+      {
+        "owl": "http://www.w3.org/2002/07/owl#"
+      }, 
+      {
+        "admin": "http://webns.net/mvcb/"
+      }, 
+      {
+        "rel": "http://purl.org/vocab/relationship/"
+      }
+    ]
+  }
+]

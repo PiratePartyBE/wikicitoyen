@@ -1,0 +1,344 @@
+[
+  {
+    "Content": [
+      {
+        "h": [
+          {
+            "h": [
+              "Commune d'Ittre", 
+              {
+                "h": [
+                  "Conseil communal", 
+                  {
+                    "p": [
+                      "www.ittre.be, le mardi 16 février 2016 à 10-11 heures", 
+                      "COMMUNE DE ITTRE", 
+                      "Ittre, le 16 février 2016.", 
+                      "Séance publique DU CONSEIL COMMUNAL Du 23 FEVRIER 2016 À 19.00 HEURES A LA SALLE DU CONSEIL SISE GRAND-PLACE 2 A ITTRE"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          "Invitation à la séance du mardi 23 février 2016 à 19 heures 00", 
+          {
+            "p": [
+              "Maison communale - Grand Place, 2 à 1460 Ittre"
+            ]
+          }, 
+          {
+            "h": [
+              "Ordre du jour", 
+              {
+                "h": [
+                  "Séance publique", 
+                  {
+                    "h": [
+                      {
+                        "li class=\"obj\"": [
+                          "1. Plan général d'urgence et d'intervention communal - approbation", 
+                          "2. Transformation de la boulangerie La Brioche d'or rue Neuve - emprise sur le domaine public - ratification de l'autorisation", 
+                          "3. Marché public de services pour la réalisation d'un essai de sol pour le projet du pôle de la petite enfance de Virginal – Approbation des conditions et du mode de passation : décision", 
+                          "4. Marché public de travaux pour la démolition du hangar situé sur le terrain en vue de la construction du Pôle de la Petite Enfance à Virginal – Approbation des conditions et du mode de passation : décision", 
+                          "5. Marché public de fournitures pour l'achat d'un chariot élévateur d'occasion pour le Service Travaux – Approbation des conditions et du mode de passation : décision", 
+                          "6. Dépenses relatives à l'achat de petit matériel pour la mise en place de l'équipement de la salle du collège : approbation des dépenses et ratification des marchés passés à l'ordinaire", 
+                          "7. Vente de véhicule usagé et de matériels divers - Conditions de la vente - décision", 
+                          "8. Redevance pour travaux administratifs spéciaux - exercices 2016 à 2019 : Notification de l'arrêté de la DGO5 du 19 janvier 2016 - Nouveau projet de règlement : arrêt", 
+                          "9. Circulation routière – Règlement complémentaire afin de limiter le tonnage des véhicules dans le village de Ittre et dans ses voies d’accès : décision", 
+                          "10. Circulation routière – Règlement complémentaire afin d’interdire l’arrêt et le stationnement rue Jean Jolly à la hauteur de l’entrée de l’école comprenant l’accès au parking vélo jusqu’au bout des bâtiments scolaires maternels : décision", 
+                          "11. Informations du Collège communal", 
+                          "12. Point supplémentaire ajouté le 11.02.2016 à la demande de M. Pascal Henry concernant le projet d'implantation de 4 maisons sociales au coin des rues Gaston Vervueren et Bruyère de Virginal Ancrage 2013 2014 ( URB 2015/75 ) et le projet de 4 maisons sociales sur le parking du quartier du Tram"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          {
+            "p": [
+              "Pour le Collège communal :", 
+              "Par Ordonnance :", 
+              {
+                "br": [
+                  "Le Directeur général, P. Pierson.", 
+                  "La Directrice générale f.f, C. Spaute ", 
+                  "Le Bourgmestre, F. Jolly."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Enveloppe": [
+      {
+        "id_ddr": "2016-02-23T19-00_gWbrCmnIttre-clg-3_consCmn-seancePublique-4_odj-4"
+      }, 
+      {
+        "Stamps": [
+          {
+            "op_tpl:": [
+              "web_detect", 
+              "web_grab", 
+              "web_remove", 
+              "email_delivery", 
+              "email_sended", 
+              "pmail_delivery", 
+              "pmail_sended", 
+              "doc_creation", 
+              "doc_signature", 
+              "add_content_silocanceled_with_notification", 
+              "canceled_without_notification"
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_detect"
+              }, 
+              {
+                "dt": "2016-02-16T11-00"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "www.ittre.be/."
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_grab"
+              }, 
+              {
+                "dt": "2016-02-16T11:21"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://www.ittre.be/images/imgtemp/23fevrier2016-ojpublique.pdf"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "doc_signature"
+              }, 
+              {
+                "dt": "2016-02-16"
+              }, 
+              {
+                "authors": "Institution"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "add_content_silo"
+              }, 
+              {
+                "dt": "2016-02-16T11:21"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_ddr_doc_dw"
+              }, 
+              {
+                "dt": "2016-02-16T11:21"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://is.gd/fBoWbE"
+              }, 
+              {
+                "note": "from_web"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Metadata": [
+      {
+        "tags": null
+      }, 
+      {
+        "faces": null
+      }, 
+      {
+        "Has_info_doc": [
+          {
+            "info_tpl": "doc ; env ; pull"
+          }, 
+          {
+            "pull_src": null
+          }, 
+          {
+            "Src": [
+              {
+                "place": "doc"
+              }, 
+              {
+                "date": "doc"
+              }, 
+              {
+                "idvs": "doc"
+              }, 
+              {
+                "roles": "doc"
+              }, 
+              {
+                "orgs": "doc ; env"
+              }
+            ]
+          }, 
+          {
+            "Dst": [
+              {
+                "to_public": "t"
+              }
+            ]
+          }, 
+          {
+            "Event": [
+              {
+                "date": "doc ; env"
+              }, 
+              {
+                "time": "doc ; env"
+              }, 
+              {
+                "adr_doc_tsbr_io": "_1110_0000"
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "Coding": [
+          {
+            "values": "pdf-text"
+          }, 
+          {
+            "tree_odj": "li"
+          }, 
+          {
+            "title": 1
+          }, 
+          {
+            "comment": 0
+          }, 
+          {
+            "action_request": null
+          }, 
+          {
+            "noise": 0
+          }
+        ]
+      }, 
+      {
+        "Licence": [
+          {
+            "DroitDeRegard": [
+              {
+                "Licence": "CC-BY-SA-NC"
+              }, 
+              {
+                "Auteur": "Patrick Installé 2013"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Taxonomy": [
+      {
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      }, 
+      {
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+      }, 
+      {
+        "foaf": "http://xmlns.com/foaf/0.1/"
+      }, 
+      {
+        "bio": "http://purl.org/vocab/bio/0.1/"
+      }, 
+      {
+        "dc": "http://purl.org/dc/terms/"
+      }, 
+      {
+        "lang": "http://purl.org/net/inkel/rdf/schemas/lang/1.1#"
+      }, 
+      {
+        "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#"
+      }, 
+      {
+        "doac": "http://ramonantonio.net/doac/0.1/"
+      }, 
+      {
+        "menow": "http://schema.peoplesdns.com/menow/"
+      }, 
+      {
+        "sioc": "http://rdfs.org/sioc/ns#"
+      }, 
+      {
+        "owl": "http://www.w3.org/2002/07/owl#"
+      }, 
+      {
+        "admin": "http://webns.net/mvcb/"
+      }, 
+      {
+        "rel": "http://purl.org/vocab/relationship/"
+      }
+    ]
+  }
+]

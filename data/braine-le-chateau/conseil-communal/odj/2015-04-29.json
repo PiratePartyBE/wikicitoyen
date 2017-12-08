@@ -1,0 +1,356 @@
+[
+  {
+    "Content": [
+      {
+        "h": [
+          {
+            "h": [
+              "Commune de Braine-le-château", 
+              {
+                "h": [
+                  "Conseil communal", 
+                  {
+                    "p": [
+                      "www.braine-le-chateau.be, le mercredi 22 avril 2015 à 9-10 heures", 
+                      "COMMUNE DE BRAINE-LE-CHÂTEAU", 
+                      "Braine-le-Château, le 20 avril 2015.", 
+                      "ASSEMBLÉE DU CONSEIL COMMUNAL", 
+                      "Madame, Monsieur______________________________ est invité(e) à assister à la séance du Conseil communal qui aura lieu à Braine-le-Château, rue de la Libération, 9, le mercredi 29 avril 2015 à 20 h 00'."
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          "Convocation à la séance du mercredi 29 avril 2015 à 20 heures 00", 
+          {
+            "p": [
+              "Maison Communale de Braine-le-château - Rue de la Libération 9 - 1440 Braine-le-Château"
+            ]
+          }, 
+          {
+            "h": [
+              "Ordre du jour", 
+              {
+                "h": [
+                  {
+                    "li class=\"obj\"": [
+                      "1. Comptes des Initiatives laïques de Braine-le-Château A.s.b.l. pour l'exercice 2014 : communication.", 
+                      "2. Fabrique d'église de la paroisse Saint-Remy (Braine-le-Château). Décisions du Conseil de Fabrique: communication.", 
+                      "3. Fabrique d'église de la paroisse Saint-Remy (Braine-le-Château). Modification budgétaire n° 1 pour l’exercice 2015: approbation.", 
+                      "4. Budget communal de l'exercice 2015. Modification n° 1 (services ordinaire et extraordinaire) : décision.", 
+                      "5. Intercommunale IMIO. Assemblée générale ordinaire du 4 juin 2015 : vote sur les différents points inscrits à l'ordre du jour de cette séance.", 
+                      "6. Cadre des agents contractuels subventionnés [régime actuel des A.P.E.] de l’administration communale : ajout d’un poste d’employé(e) d’administration [temps plein associé à une échelle barémique du groupe D].", 
+                      "7. Parc des véhicules communaux. Vente d'un véhicule usagé (pick-up de marque RENAULT) suivant décision du Collège communal du 3 avril 2015 : communication.", 
+                      "8. Égouttage du ruisseau de l’Ermitage - phase III (Vieux Chemin de Nivelles, rue de la Station, rue de Nivelles et rue de Mont Saint-Pont) [investissement 2004-04 dont la maîtrise de l’ouvrage a été déléguée à l’I.B.W.]. Décompte final : approbation.", 
+                      "9. Financement des travaux d'égouttage prioritaire réalisés (différents chantiers). Souscription de parts bénéficiaires (\"E\") pour 42 % du coût des travaux (soit 556.938,00 EUR) dans le capital de l'Intercommunale du Brabant wallon (I.B.W.) : décision.", 
+                      "10. Élargissement ponctuel de la rue Idès Vanschepdael pour l'aménagement d'une zone de stationnement et d'un trottoir, dans le cadre d'une demande de permis d'urbanisation introduite par Monsieur et Madame Guy VANDERVLIET-MAERE : décision.", 
+                      "11. École communale (trois implantations). Préparation et livraison de repas chauds (septembre 2015 à juin 2018 au plus tard): choix du mode de passation et fixation des conditions d'un marché de services.", 
+                      "12. Maison communale. Accueil des visiteurs au service de l'état civil et de la population. Réaménagement des guichets. Réalisation des travaux (essentiellement en régie) sur base des plans dressés par l'Architecte communal : décision. Inventaires et métrés : approbation."
+                    ]
+                  }, 
+                  "Séance à huis clos", 
+                  {
+                    "li class=\"obj\"": [
+                      "Personnel enseignant", 
+                      {
+                        "li class=\"obj\"": [
+                          "13. Congé pour mission demandé par un instituteur primaire nommé à titre définitif: autorisation. ", 
+                          "Ratification de désignations à titre temporaire sur décisions du Collège communal", 
+                          {
+                            "li class=\"obj\"": [
+                              "14. Institutrice maternelle à titre temporaire (mi-temps) dans un emploi (temps plein) non vacant à l'implantation de Wauthier-Braine.", 
+                              "15. Maître spécial d'éducation physique à titre temporaire dans un emploi non vacant (charge partielle de 12/24)."
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          {
+            "p": [
+              "Par le Collège,", 
+              {
+                "li": [
+                  "Le Directeur général, M. LENNARTS", 
+                  "Le Bourgmestre A. FAUCONNIER"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Enveloppe": [
+      {
+        "id_ddr": "2015-04-29T20-00_gWbrCmnBraineLeChateau-clg-3_consCmn-seancePublique-4_odj-4"
+      }, 
+      {
+        "Stamps": [
+          {
+            "op_tpl:": [
+              "web_detect", 
+              "web_grab", 
+              "web_remove", 
+              "email_delivery", 
+              "email_sended", 
+              "pmail_delivery", 
+              "pmail_sended", 
+              "doc_creation", 
+              "doc_signature", 
+              "add_content_silocanceled_with_notification", 
+              "canceled_without_notification"
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_detect"
+              }, 
+              {
+                "dt": "2015-04-22T10-00"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "www.braine-le-chateau.be/politique_categories/conseil-communal"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_grab"
+              }, 
+              {
+                "dt": "2015-04-22T10:47"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://www.braine-le-chateau.be/wp-content/uploads/2012/12/Conseil-convocation-seance-20150429.pdf"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "doc_signature"
+              }, 
+              {
+                "dt": "2015-04-20"
+              }, 
+              {
+                "authors": "Institution"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "add_content_silo"
+              }, 
+              {
+                "dt": "2015-04-22T10:47"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_ddr_doc_dw"
+              }, 
+              {
+                "dt": "2015-04-22T10:47"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://tinyurl.com/qx758hf"
+              }, 
+              {
+                "note": "from_web"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Metadata": [
+      {
+        "tags": null
+      }, 
+      {
+        "faces": null
+      }, 
+      {
+        "Has_info_doc": [
+          {
+            "info_tpl": "doc ; env ; pull"
+          }, 
+          {
+            "pull_src": null
+          }, 
+          {
+            "Src": [
+              {
+                "place": "doc"
+              }, 
+              {
+                "date": "doc"
+              }, 
+              {
+                "idvs": "doc"
+              }, 
+              {
+                "roles": "doc"
+              }, 
+              {
+                "orgs": "doc ; env"
+              }
+            ]
+          }, 
+          {
+            "Dst": [
+              {
+                "to_public": "t"
+              }
+            ]
+          }, 
+          {
+            "Event": [
+              {
+                "date": "doc ; env"
+              }, 
+              {
+                "time": "doc"
+              }, 
+              {
+                "adr_doc_tsbr_io": "_1110_0000"
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "Coding": [
+          {
+            "values": "pdf-text"
+          }, 
+          {
+            "tree_odj": "li"
+          }, 
+          {
+            "title": 1
+          }, 
+          {
+            "comment": 0
+          }, 
+          {
+            "action_request": null
+          }, 
+          {
+            "noise": 0
+          }
+        ]
+      }, 
+      {
+        "Licence": [
+          {
+            "DroitDeRegard": [
+              {
+                "Licence": "CC-BY-SA-NC"
+              }, 
+              {
+                "Auteur": "Patrick Installé 2013"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Taxonomy": [
+      {
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      }, 
+      {
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+      }, 
+      {
+        "foaf": "http://xmlns.com/foaf/0.1/"
+      }, 
+      {
+        "bio": "http://purl.org/vocab/bio/0.1/"
+      }, 
+      {
+        "dc": "http://purl.org/dc/terms/"
+      }, 
+      {
+        "lang": "http://purl.org/net/inkel/rdf/schemas/lang/1.1#"
+      }, 
+      {
+        "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#"
+      }, 
+      {
+        "doac": "http://ramonantonio.net/doac/0.1/"
+      }, 
+      {
+        "menow": "http://schema.peoplesdns.com/menow/"
+      }, 
+      {
+        "sioc": "http://rdfs.org/sioc/ns#"
+      }, 
+      {
+        "owl": "http://www.w3.org/2002/07/owl#"
+      }, 
+      {
+        "admin": "http://webns.net/mvcb/"
+      }, 
+      {
+        "rel": "http://purl.org/vocab/relationship/"
+      }
+    ]
+  }
+]

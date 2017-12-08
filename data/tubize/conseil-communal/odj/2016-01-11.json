@@ -1,0 +1,357 @@
+[
+  {
+    "Content": [
+      {
+        "h": [
+          {
+            "h": [
+              "Commune de Tubize", 
+              {
+                "h": [
+                  "Conseil communal", 
+                  {
+                    "p": [
+                      "www.tubize.be, le mercredi 30 décembre 2015 à 11-12 heures", 
+                      "COMMUNE DE TUBIZE", 
+                      "30/12/15", 
+                      "CONSEIL COMMUNAL", 
+                      "Séance du 11 janvier 2016 à 20H30 Maison communale"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          "Séance du lundi 11 janvier 2016 à 20 heures 30", 
+          {
+            "p": [
+              "Salle A 1er étage - Maison communale - Grand Place, 1 - 1480 Tubize"
+            ]
+          }, 
+          {
+            "h": [
+              "Ordre du jour", 
+              {
+                "h": [
+                  "Séance publique", 
+                  {
+                    "h": [
+                      {
+                        "li class=\"obj\"": [
+                          "1. Approbation du procès-verbal du conseil du 14 décembre 2015", 
+                          "2. Nouveau règlement général de police - Approbation", 
+                          "3. Modification du règlement communal relatif à l'organisation des marchés publics et l'exercice des activités ambulantes", 
+                          "4. Convention d'assistance avec l'IBW - aménagement avenue du Hain et élargissement du Hain - travaux concomitants", 
+                          "5. 040/363-10 : Taxe sur les inhumations, dispersions de cendres et mises en columbarium.", 
+                          "6. Cimetière de Tubize - demande exemption de la taxe d'inhumation - VF", 
+                          "7. Service public de Wallonie - Aide à la Promotion de l'Emploi - Reconduction automatique des points APE en 2016 -Ratification.", 
+                          "8. Fabrique d'église St Martin à Tubize - Budget 2015 - Modification.", 
+                          "9. Ratification décision Collège Communal du 4 décembre 2015 - Rue des Poissonniers - facture Mourant de Nadai", 
+                          "10. Ratification décision du Collège Communal le 11 décembre 2015 - Réfection du monument - square de la liberté", 
+                          "11. RFI/Lotissement communal \"Chant des Oiseaux\" - Vente du lot 13 - Approbation du projet d'acte de vente"
+                        ]
+                      }
+                    ]
+                  }, 
+                  "Séance à huis clos", 
+                  {
+                    "h": [
+                      {
+                        "li class=\"obj\"": [
+                          "12. Enseignement communal - Ratification de désignation temporaire - Institutrice maternelle (M.S.)", 
+                          "13. Enseignement communal - Ratification de désignation temporaire - Directrice (N.H.)", 
+                          "14. Enseignement communal - Ratification de désignation temporaire - Institutrice maternelle (L.D.)", 
+                          "15. Enseignement communal - Ratification de désignation temporaire - Institutrice primaire (J.M.)", 
+                          "16. Enseignement communal - Ratification de désignation temporaire - Institutrice primaire (C.R.)", 
+                          "17. Académie de Musique François Daneels - Admission au stage dans une fonction de Directeur"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          {
+            "p": [
+              "PAR LE COLLEGE :", 
+              {
+                "li": [
+                  "Le Directeur général E. LAURENT", 
+                  "Le Bourgmestre, M. JANUTH"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Enveloppe": [
+      {
+        "id_ddr": "2016-01-11T20-30_gWbrCmnTubize-clg-3_consCmn-seancePublique-4_odj-4"
+      }, 
+      {
+        "Stamps": [
+          {
+            "op_tpl:": [
+              "web_detect", 
+              "web_grab", 
+              "web_remove", 
+              "email_delivery", 
+              "email_sended", 
+              "pmail_delivery", 
+              "pmail_sended", 
+              "doc_creation", 
+              "doc_signature", 
+              "add_content_silocanceled_with_notification", 
+              "canceled_without_notification"
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_detect"
+              }, 
+              {
+                "dt": "2015-12-30T12-01"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "www.tubize.be/."
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_grab"
+              }, 
+              {
+                "dt": "2016-01-19T09:20"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://www.tubize.be/accueil-tubize/actualites?task=callelement&format=raw&item_id=1548&element=409dad7e-1ea9-4fcd-9cb6-2dbda820a433&method=download"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "doc_signature"
+              }, 
+              {
+                "dt": "2015-12-30"
+              }, 
+              {
+                "authors": "Institution"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "add_content_silo"
+              }, 
+              {
+                "dt": "2016-01-19T09:20"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_ddr_doc_dw"
+              }, 
+              {
+                "dt": "2016-01-19T09:20"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://is.gd/uXHhr3"
+              }, 
+              {
+                "note": "from_web"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Metadata": [
+      {
+        "tags": null
+      }, 
+      {
+        "faces": null
+      }, 
+      {
+        "Has_info_doc": [
+          {
+            "info_tpl": "doc ; env ; pull"
+          }, 
+          {
+            "pull_src": null
+          }, 
+          {
+            "Src": [
+              {
+                "place": "doc"
+              }, 
+              {
+                "date": "doc"
+              }, 
+              {
+                "idvs": "doc"
+              }, 
+              {
+                "roles": "doc"
+              }, 
+              {
+                "orgs": "doc ; env"
+              }
+            ]
+          }, 
+          {
+            "Dst": [
+              {
+                "to_public": "t"
+              }
+            ]
+          }, 
+          {
+            "Event": [
+              {
+                "date": "doc"
+              }, 
+              {
+                "time": "doc"
+              }, 
+              {
+                "adr_doc_tsbr_io": "_0010_0000"
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "Coding": [
+          {
+            "values": "pdf-image"
+          }, 
+          {
+            "tree_odj": "h-li"
+          }, 
+          {
+            "title": 1
+          }, 
+          {
+            "comment": 0
+          }, 
+          {
+            "action_request": null
+          }, 
+          {
+            "noise": 0
+          }
+        ]
+      }, 
+      {
+        "Licence": [
+          {
+            "DroitDeRegard": [
+              {
+                "Licence": "CC-BY-SA-NC"
+              }, 
+              {
+                "Auteur": "Patrick Installé 2013"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Taxonomy": [
+      {
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      }, 
+      {
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+      }, 
+      {
+        "foaf": "http://xmlns.com/foaf/0.1/"
+      }, 
+      {
+        "bio": "http://purl.org/vocab/bio/0.1/"
+      }, 
+      {
+        "dc": "http://purl.org/dc/terms/"
+      }, 
+      {
+        "lang": "http://purl.org/net/inkel/rdf/schemas/lang/1.1#"
+      }, 
+      {
+        "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#"
+      }, 
+      {
+        "doac": "http://ramonantonio.net/doac/0.1/"
+      }, 
+      {
+        "menow": "http://schema.peoplesdns.com/menow/"
+      }, 
+      {
+        "sioc": "http://rdfs.org/sioc/ns#"
+      }, 
+      {
+        "owl": "http://www.w3.org/2002/07/owl#"
+      }, 
+      {
+        "admin": "http://webns.net/mvcb/"
+      }, 
+      {
+        "rel": "http://purl.org/vocab/relationship/"
+      }
+    ]
+  }
+]

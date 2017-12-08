@@ -1,0 +1,314 @@
+[
+  {
+    "Content": [
+      {
+        "h": [
+          {
+            "h": [
+              "Commune de Wavre", 
+              {
+                "h": [
+                  "Conseil communal", 
+                  {
+                    "p": [
+                      "www.wavre.be, le lundi 11 avril 2016 à 9-10 heures", 
+                      "VILLE DE WAVRE", 
+                      "CONSEIL COMMUNAL", 
+                      "Séance du 19 avril 2016 à 19h00"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          "Convocation à la séance du mardi 19 avril 2016 à 19 heures 00", 
+          {
+            "p": [
+              "Salle des Templiers (au premier étage de l’Hôtel de Ville - Place de l'Hôtel de Ville - 1300  Wavre"
+            ]
+          }, 
+          {
+            "h": [
+              "Ordre du jour", 
+              {
+                "h": [
+                  "Séance publique", 
+                  {
+                    "h": [
+                      {
+                        "li class=\"obj\"": [
+                          "S.P.1. Comptabilité de la Zone de Police - Comptes annuels de l'exercice 2015 (compte budgétaire, bilan, compte de résultats, annexe) - Approbation.", 
+                          "S.P.2. Comptabilité de la Zone de Police - Budget général pour l'exercice 2016 -Premières modifications des recettes et dépenses des services ordinaire et extraordinaire : injection des résultats budgétaires du compte 2015.", 
+                          "S.P.3. Comptabilité communale - Comptes annuels de l'exercice 2015 (compte budgétaire, bilan, compte de résultats, annexe) - Approbation.", 
+                          "S.P.4. Comptabilité communale - Budget général pour l'exercice 2016 - Premières modifications des recettes et dépenses des services ordinaire et extraordinaire : injection des résultats budgétaires du compte 2015.", 
+                          "S.P.5. Finances communales - Contrôle des subventions 2016 - ASBL MacaDanse.", 
+                          "S.P.6. Finances communales - Contrôle des subventions 2016 - ASBL Les Rendez-vous du Rire.", 
+                          "S.P.7. Finances communales - Contrôle des subventions 2016 - ASBL Caritas International.", 
+                          "S.P.8. Régie de l'Electricité - Etats des Recettes et Dépenses au 31 décembre 2015.", 
+                          "S.P.9. Finances communales - Garantie d'emprunts à accorder à la seri REW.", 
+                          "S.P.10. Festivités - Aménagement du jardin Wavre sur Herbe - Approbation de l'organisation - Accord pour la remise de projet à la Province du Brabant Wallon dans le cadre de l'octroi de subventions des Communes du Brabant wallon pour les événements à portée économique en vue de la dynamisation des centres de villes et de villages.", 
+                          "S.P.11. Convention - Sanctions administratives communales - Signature d'une convention de collaboration avec la Ville de Nivelles concernant la médiation prévue par Arrêté royal dans le cadre des sanctions administratives communales.", 
+                          "S.P.12. Convention - Convention relative à la participation de la Ville de Wavre à la « Fête des voisins » du vendredi 27 mai 2016 - Convention à passer avec l'asbl « Immeubles en Fête ».", 
+                          "S.P.13. Voirie régionale - Circulation - Règlement complémentaire sur la circulation routière - Carrefour formé par le RN 257 et les entrées et sorties d'autoroute - Placement d'une signalisation lumineuse tricolore - Demande d'avis du SPW.", 
+                          "S.P.14. Service de l'Instruction publique - Enseignement maternel - Création de quatre demi-emplois à partir du 24 novembre 2015 - Ratification."
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Enveloppe": [
+      {
+        "id_ddr": "2016-04-19T19-00_gWbrCmnWavre-clg-3_consCmn-seancePublique-4_odj-4"
+      }, 
+      {
+        "Stamps": [
+          {
+            "op_tpl:": [
+              "web_detect", 
+              "web_grab", 
+              "web_remove", 
+              "email_delivery", 
+              "email_sended", 
+              "pmail_delivery", 
+              "pmail_sended", 
+              "doc_creation", 
+              "doc_signature", 
+              "add_content_silocanceled_with_notification", 
+              "canceled_without_notification"
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_detect"
+              }, 
+              {
+                "dt": "2016-04-11T10-00"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "www.wavre.be/index.php/component/content/article/84-liens-rapides/467-ordre-du-jour-du-conseil-communal"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_grab"
+              }, 
+              {
+                "dt": "2016-04-11T16:08"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://www.wavre.be/documents/Ordre%20du%20jour/OJ190416.pdf"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "add_content_silo"
+              }, 
+              {
+                "dt": "2016-04-11T16:08"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_ddr_doc_dw"
+              }, 
+              {
+                "dt": "2016-04-11T16:08"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://is.gd/RB5vDO"
+              }, 
+              {
+                "note": "from_web"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Metadata": [
+      {
+        "tags": null
+      }, 
+      {
+        "faces": null
+      }, 
+      {
+        "Has_info_doc": [
+          {
+            "info_tpl": "doc ; env ; pull"
+          }, 
+          {
+            "pull_src": "phone"
+          }, 
+          {
+            "Src": [
+              {
+                "place": null
+              }, 
+              {
+                "date": null
+              }, 
+              {
+                "idvs": null
+              }, 
+              {
+                "roles": null
+              }, 
+              {
+                "orgs": "doc; env"
+              }
+            ]
+          }, 
+          {
+            "Dst": [
+              {
+                "to_public": "t"
+              }
+            ]
+          }, 
+          {
+            "Event": [
+              {
+                "date": "doc ; env"
+              }, 
+              {
+                "time": "doc"
+              }, 
+              {
+                "adr_doc_tsbr_io": "_0000_0000"
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "Coding": [
+          {
+            "values": "pdf-image"
+          }, 
+          {
+            "tree_odj": "li"
+          }, 
+          {
+            "title": 1
+          }, 
+          {
+            "comment": 0
+          }, 
+          {
+            "action_request": null
+          }, 
+          {
+            "noise": 0
+          }
+        ]
+      }, 
+      {
+        "Licence": [
+          {
+            "DroitDeRegard": [
+              {
+                "Licence": "CC-BY-SA-NC"
+              }, 
+              {
+                "Auteur": "Patrick Installé 2013"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Taxonomy": [
+      {
+        "xmlns": [
+          {
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          }, 
+          {
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          }, 
+          {
+            "foaf": "http://xmlns.com/foaf/0.1/"
+          }, 
+          {
+            "bio": "http://purl.org/vocab/bio/0.1/"
+          }, 
+          {
+            "dc": "http://purl.org/dc/terms/"
+          }, 
+          {
+            "lang": "http://purl.org/net/inkel/rdf/schemas/lang/1.1#"
+          }, 
+          {
+            "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#"
+          }, 
+          {
+            "doac": "http://ramonantonio.net/doac/0.1/"
+          }, 
+          {
+            "menow": "http://schema.peoplesdns.com/menow/"
+          }, 
+          {
+            "sioc": "http://rdfs.org/sioc/ns#"
+          }, 
+          {
+            "owl": "http://www.w3.org/2002/07/owl#"
+          }, 
+          {
+            "admin": "http://webns.net/mvcb/"
+          }, 
+          {
+            "rel": "http://purl.org/vocab/relationship/"
+          }
+        ]
+      }
+    ]
+  }
+]

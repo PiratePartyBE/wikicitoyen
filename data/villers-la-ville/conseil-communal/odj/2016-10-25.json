@@ -1,0 +1,316 @@
+[
+  {
+    "Content": [
+      {
+        "h": [
+          {
+            "h": [
+              "Commune de Villers-la-Ville", 
+              {
+                "h": [
+                  "Conseil communal", 
+                  {
+                    "p": [
+                      "www.villers-la-ville.be, le mardi 18 octobre 2016 à 11-12 heures", 
+                      "Ordre du jour du conseil communal", 
+                      "La prochaine SEANCE du CONSEIL COMMUNAL aura lieu le mardi 25 octobre 2016 à 19H30’à la Maison communale."
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          "Invitation à la séance du mardi 25 octobre 2016 à 20 heures 30", 
+          {
+            "p": [
+              "Maison Communale - rue de Marbais, 37 - 1495 Villers-la-Ville"
+            ]
+          }, 
+          {
+            "h": [
+              "Ordre du jour", 
+              {
+                "h": [
+                  "Séance publique", 
+                  {
+                    "h": [
+                      {
+                        "li class=\"obj\"": [
+                          ". Procès-verbal de la séance précédente."
+                        ]
+                      }, 
+                      "01. Arrêtés de police du Bourgmestre. Ratification.", 
+                      "02. Eglise Protestante de Wavre. Budget 2017. Approbation.", 
+                      "03. P.B.E. Points portés à l’ordre du jour de l’assemblée générale extraordinaire du 18 novembre 2016.", 
+                      "04. Urbanisme. Demande de modification de la voirie communale rues Baudoux et Profond Baty à Marbais.", 
+                      "05. Assurances communales. Dommages corporels et responsabilité civile. Marché public. Adhésion à la centrale d’achat SEDIFIN. Convention de coopération.", 
+                      "06. Coût-vérité. Budget 2017. Approbation des prévisions.", 
+                      "07. Taxe sur l’enlèvement des immondices et résidus ménagers. Année 2017.", 
+                      "08. Acquisition d’une tondeuse autoportée et de petits matériels d’exploitation pour le service de la voirie. Procédure négociée sans publicité lors du lancement de la procédure. Financement.", 
+                      "09. Sanctions administratives. Recours aux services de la Province du Brabant wallon. Conventions et modalités de recours à adopter.", 
+                      {
+                        "li class=\"obj\"": [
+                          "A. Province du Brabant wallon. Police. Sanctions administratives communales. Recours aux services des fonctionnaires provinciaux. Désignation de trois fonctionnaires sanctionnateurs. Signatures des conventions « sanctions administratives communales ». Décision.", 
+                          "B. Province du Brabant wallon. Convention fixant les modalités de recours à un agent sanctionnateur provincial en application du décret du 5 juin 2008 en matière de police de l’environnement.", 
+                          "C. Province du Brabant wallon. Convention définissant les modalités de la mission rendue par le fonctionnaire provincial en faveur de la Commune en tant que fonctionnaire sanctionnateur dans le cadre du décret du 6 février 2014 relatif à la voirie communale.", 
+                          "D. Province du Brabant wallon. Convention définissant les modalités de la mission rendue par le fonctionnaire provincial en faveur de la Commune en tant que fonctionnaire sanctionnateur dans le cadre de la loi du 24 juin 2013 relative aux sanctions administratives communales et de ses arrêtés royaux.", 
+                          "E. Province du Brabant wallon. Convention-type fixant les modalités de recours à un fonctionnaire sanctionnateur provincial en application de l’arrêté royal du 9 mars 2014 relatif aux sanctions administratives communales pour les infractions en matière d'arrêt et de stationnement.", 
+                          "F. Province du Brabant wallon. Résolution relative à la convention-type fixant les modalités de recours à un fonctionnaire sanctionnateur provincial en application de l’arrêté royal du 9 mars 2014 relatif aux sanctions administratives communales pour les infractions en matière d'arrêt et de stationnement. Prise d’acte."
+                        ]
+                      }, 
+                      "10. Ouverture d’une demi classe maternelle à l’école communale de Marbais-Marbisoux à partir du 13.09.2016."
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Enveloppe": [
+      {
+        "id_ddr": "2016-10-25T20-30_gWbrCmnVillersLaVille-clg-3_consCmn-seancePublique-4_odj-4"
+      }, 
+      {
+        "Stamps": [
+          {
+            "op_tpl:": [
+              "web_detect", 
+              "web_grab", 
+              "web_remove", 
+              "email_delivery", 
+              "email_sended", 
+              "pmail_delivery", 
+              "pmail_sended", 
+              "doc_creation", 
+              "doc_signature", 
+              "add_content_silocanceled_with_notification", 
+              "canceled_without_notification"
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_detect"
+              }, 
+              {
+                "dt": "2016-10-18T12-00"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "www.villers-la-ville.be/ma-commune/vie-politique/conseil/ordre-du-jour"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_grab"
+              }, 
+              {
+                "dt": "2016-10-19T02:08"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://www.villers-la-ville.be/administration/vie-politique/conseil/ordre-du-jour"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "add_content_silo"
+              }, 
+              {
+                "dt": "2016-10-19T02:08"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_ddr_doc_dw"
+              }, 
+              {
+                "dt": "2016-10-19T02:08"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://tinyurl.com/gpv2cy4"
+              }, 
+              {
+                "note": "from_web"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Metadata": [
+      {
+        "tags": null
+      }, 
+      {
+        "faces": null
+      }, 
+      {
+        "Has_info_doc": [
+          {
+            "info_tpl": "doc ; env ; pull"
+          }, 
+          {
+            "pull_src": null
+          }, 
+          {
+            "Src": [
+              {
+                "place": null
+              }, 
+              {
+                "date": null
+              }, 
+              {
+                "idvs": null
+              }, 
+              {
+                "roles": null
+              }, 
+              {
+                "orgs": "env"
+              }
+            ]
+          }, 
+          {
+            "Dst": [
+              {
+                "to_public": "i"
+              }
+            ]
+          }, 
+          {
+            "Event": [
+              {
+                "date": "doc ; env"
+              }, 
+              {
+                "time": "doc"
+              }, 
+              {
+                "adr_doc_tsbr_io": "_0010_0000"
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "Coding": [
+          {
+            "values": "html"
+          }, 
+          {
+            "tree_odj": "li"
+          }, 
+          {
+            "title": 1
+          }, 
+          {
+            "comment": 0
+          }, 
+          {
+            "action_request": null
+          }, 
+          {
+            "noise": 0
+          }
+        ]
+      }, 
+      {
+        "Licence": [
+          {
+            "DroitDeRegard": [
+              {
+                "Licence": "CC-BY-SA-NC"
+              }, 
+              {
+                "Auteur": "Patrick Installé 2013"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Taxonomy": [
+      {
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      }, 
+      {
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+      }, 
+      {
+        "foaf": "http://xmlns.com/foaf/0.1/"
+      }, 
+      {
+        "bio": "http://purl.org/vocab/bio/0.1/"
+      }, 
+      {
+        "dc": "http://purl.org/dc/terms/"
+      }, 
+      {
+        "lang": "http://purl.org/net/inkel/rdf/schemas/lang/1.1#"
+      }, 
+      {
+        "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#"
+      }, 
+      {
+        "doac": "http://ramonantonio.net/doac/0.1/"
+      }, 
+      {
+        "menow": "http://schema.peoplesdns.com/menow/"
+      }, 
+      {
+        "sioc": "http://rdfs.org/sioc/ns#"
+      }, 
+      {
+        "owl": "http://www.w3.org/2002/07/owl#"
+      }, 
+      {
+        "admin": "http://webns.net/mvcb/"
+      }, 
+      {
+        "rel": "http://purl.org/vocab/relationship/"
+      }
+    ]
+  }
+]

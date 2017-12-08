@@ -1,0 +1,351 @@
+[
+  {
+    "Content": [
+      {
+        "h": [
+          {
+            "h": [
+              "Commune de Grez-Doiceau", 
+              {
+                "h": [
+                  "Conseil communal", 
+                  {
+                    "p": [
+                      "www.grez-doiceau.be, le jeudi 10 décembre 2015 à 15-16 heures", 
+                      "Administraton communale de GREZ-DOICEAU", 
+                      "B – 1390 Grez-Doiceau, le 04 décembre 2015.", 
+                      "CONVOCATION DU CONSEIL COMMUNAL", 
+                      "Conformément aux dispositions du Code de la démocratie locale et de la décentralisation en son article L1122-12, nous avons l'honneur de convoquer pour la première fois :", 
+                      "Mme de Coster-Bauchau, Bourgmestre;", 
+                      "MM. Pirot, Jonckers, Coisman, Mme Vanbever et M. Jacquet, Mme Olbrechts-van Zeebroeck, membres du Collège communal;", 
+                      "M. Devière, Président,", 
+                      "MM. Barbier, Clabots, Tollet, Cordier, Feys, Magos, Botte, Mme de Halleux, MM. Dewilde, Eggermont, Renoirt, Mme van Hoobrouck d’Aspre, M. Lenaerts, Mme Smets et M. Wyckmans, Conseillers;", 
+                      "à la séance du Conseil qui aura lieu en la salle de réunion de l’école communale Fernand Vanbever (entrée chaussée de Jodoigne, 7) le mardi 15 décembre 2015 à 20 heures pour délibérer sur l'ordre du jour ci-après :"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          "Invitation à la séance du mardi 15 décembre 2015 à 20 heures 00", 
+          {
+            "p": [
+              "Salle de réunion de l’école communale Fernand Vanbever (entrée chaussée de Jodoigne, 7) - 1390 Grez-Doiceau", 
+              "Première convocation."
+            ]
+          }, 
+          {
+            "h": [
+              "Ordre du jour", 
+              {
+                "h": [
+                  "Séance publique", 
+                  {
+                    "h": [
+                      {
+                        "li class=\"obj\"": [
+                          "00. Procès-verbal dernière séance (p.m 17.11.2015)", 
+                          "01. Académie de musique et des arts de la parole : Nouvelle version logiciel – Principe et estimation : approbation – Choix du mode de passation et fixation des conditions du marché.", 
+                          "02. Académie de musique et des arts de la parole : Marché public de fournitures : synthétiseur, pupitres et accessoires – Principe, descriptif et estimation : approbation – Choix du mode de passation et fixation des conditions du marché.", 
+                          "03. Affaires culturelles : Concours EPTA du 2 au 7 février 2016 – Convention de partenariat - Approbation.", 
+                          "04 CPAS : Budget 2016 – Approbation.", 
+                          "05. Culture : Projet de fusion des Maisons du Tourisme – Avis.", 
+                          "06. Cultes : Fabrique d’Eglise Saint Jean-Baptiste à Nethen – Budget 2016 – Approbation.", 
+                          "07. Environnement : Lutte contre les inondations par coulées de boues – Convention à passer avec les exploitants agricoles concernant les aménagements anti-érosifs – Approbation.", 
+                          "08. Finances : Modification budgétaire n° 2 - Budget 2015 – Approbation moyennant réformation – Prise d’acte.", 
+                          "09. Finances : Budget – Exercice 2016 - Approbation.", 
+                          "10. Finances : Zone de Police «Ardennes brabançonnes» – Compte 2011 - Prise d’acte.", 
+                          "11. Finances : Zone de police «Ardennes brabançonnes» (Beauvechain, Chaumont-Gistoux, Grez- Doiceau, Incourt) – Dotation communale 2016 – Approbation.", 
+                          "12. Travaux publics : PIC 2013-2016 – (PIC13-16/03) Travaux d’amélioration et d’égouttage du Champ du Curé à Grez-Doiceau (Biez) – Abandon des travaux d’égouttage – Retrait de la délégation de maîtrise d’ouvrage à l’IBW.", 
+                          "13. Travaux publics : PIC 2013-2016 – (PIC13-16/02) Travaux d’égouttage exclusif ruelle des Croix à Grez-Doiceau – Dossier projet, estimation et choix du mode de passation de marché - Approbation.", 
+                          "14. Travaux Publics : (TP2015/110) Acquisition de chaussures pour les ouvriers communaux – Recours à une centrale d’achat – Principe et estimation - Approbation."
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          {
+            "li": [
+              "Le Directeur général, ", 
+              "La Députée-Bourgmestre,"
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Enveloppe": [
+      {
+        "id_ddr": "2015-12-15T20-00_gWbrCmnGrezDoiceau-clg-3_consCmn-seancePublique-4_odj-4"
+      }, 
+      {
+        "Stamps": [
+          {
+            "op_tpl:": [
+              "web_detect", 
+              "web_grab", 
+              "web_remove", 
+              "email_delivery", 
+              "email_sended", 
+              "pmail_delivery", 
+              "pmail_sended", 
+              "doc_creation", 
+              "doc_signature", 
+              "add_content_silocanceled_with_notification", 
+              "canceled_without_notification"
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_detect"
+              }, 
+              {
+                "dt": "2015-12-10T16-01"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "www.grez-doiceau.be/macommune/vie-politique/le-conseil/convocations-au-conseil"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_grab"
+              }, 
+              {
+                "dt": "2015-12-12T02:37"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://www.grez-doiceau.be/macommune/vie-politique/le-conseil/convocations-au-conseil/CONVOC20151215.pdf/at_download/file"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "doc_signature"
+              }, 
+              {
+                "dt": "2015-12-04"
+              }, 
+              {
+                "authors": "Institution"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "add_content_silo"
+              }, 
+              {
+                "dt": "2015-12-12T02:37"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_ddr_doc_dw"
+              }, 
+              {
+                "dt": "2015-12-12T02:37"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://is.gd/oktsqH"
+              }, 
+              {
+                "note": "from_web"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Metadata": [
+      {
+        "tags": null
+      }, 
+      {
+        "faces": null
+      }, 
+      {
+        "Has_info_doc": [
+          {
+            "info_tpl": "doc ; env ; pull"
+          }, 
+          {
+            "pull_src": null
+          }, 
+          {
+            "Src": [
+              {
+                "place": "doc"
+              }, 
+              {
+                "date": "doc"
+              }, 
+              {
+                "idvs": null
+              }, 
+              {
+                "roles": "doc"
+              }, 
+              {
+                "orgs": "doc ; env"
+              }
+            ]
+          }, 
+          {
+            "Dst": [
+              {
+                "to_public": "t"
+              }
+            ]
+          }, 
+          {
+            "Event": [
+              {
+                "date": "doc ; env"
+              }, 
+              {
+                "time": "doc"
+              }, 
+              {
+                "adr_doc_tsbr_io": "_0111_0000"
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "Coding": [
+          {
+            "values": "pdf-text"
+          }, 
+          {
+            "tree_odj": "li"
+          }, 
+          {
+            "title": 1
+          }, 
+          {
+            "comment": 0
+          }, 
+          {
+            "action_request": null
+          }, 
+          {
+            "noise": 0
+          }
+        ]
+      }, 
+      {
+        "Licence": [
+          {
+            "DroitDeRegard": [
+              {
+                "Licence": "CC-BY-SA-NC"
+              }, 
+              {
+                "Auteur": "Patrick Installé 2013"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Taxonomy": [
+      {
+        "xmlns": [
+          {
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          }, 
+          {
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          }, 
+          {
+            "foaf": "http://xmlns.com/foaf/0.1/"
+          }, 
+          {
+            "bio": "http://purl.org/vocab/bio/0.1/"
+          }, 
+          {
+            "dc": "http://purl.org/dc/terms/"
+          }, 
+          {
+            "lang": "http://purl.org/net/inkel/rdf/schemas/lang/1.1#"
+          }, 
+          {
+            "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#"
+          }, 
+          {
+            "doac": "http://ramonantonio.net/doac/0.1/"
+          }, 
+          {
+            "menow": "http://schema.peoplesdns.com/menow/"
+          }, 
+          {
+            "sioc": "http://rdfs.org/sioc/ns#"
+          }, 
+          {
+            "owl": "http://www.w3.org/2002/07/owl#"
+          }, 
+          {
+            "admin": "http://webns.net/mvcb/"
+          }, 
+          {
+            "rel": "http://purl.org/vocab/relationship/"
+          }
+        ]
+      }
+    ]
+  }
+]

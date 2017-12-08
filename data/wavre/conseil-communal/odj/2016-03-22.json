@@ -1,0 +1,320 @@
+[
+  {
+    "Content": [
+      {
+        "h": [
+          {
+            "h": [
+              "Commune de Wavre", 
+              {
+                "h": [
+                  "Conseil communal", 
+                  {
+                    "p": [
+                      "www.wavre.be, le mardi 15 mars 2016 à 15-16 heures", 
+                      "VILLE DE WAVRE", 
+                      "CONSEIL COMMUNAL", 
+                      "Séance du 22 mars 2016 à 19h00"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          "Convocation à la séance du mardi 22 mars 2016 à 19 heures 00", 
+          {
+            "p": [
+              "Salle des Templiers (au premier étage de l’Hôtel de Ville - Place de l'Hôtel de Ville - 1300  Wavre"
+            ]
+          }, 
+          {
+            "h": [
+              "Ordre du jour", 
+              {
+                "h": [
+                  "Séance publique", 
+                  {
+                    "h": [
+                      {
+                        "li class=\"obj\"": [
+                          "S.P.1. Directeur financier - Prestation de serment.", 
+                          "S.P.2. Zone de la Police locale de Wavre - Présentation des résultats des activités de la Zone de Police.", 
+                          "S.P.3. Commission locale pour l'énergie - Rapport d'activités 2015.", 
+                          "S.P.4. Exercice de la tutelle sur les établissements subordonnés - Eglise protestante Unie de Belgique - Compte de fin de gestion du trésorier sortant (Monsieur Etienne Dubois) - Avis.", 
+                          "S.P.5. Comptabilité communale - Comptabilité de la zone de Police - Compte de fin de gestion du Directeur financier sortant.", 
+                          "S.P.6. Finances communales - Contrôle des subventions 2016 - ASBL Association des commerçants.", 
+                          "S.P.7. Urbanisme - Parc Industriel Nord - Extension - Zone C72 - Conditions d'implantation - Cahier des charges - Modification.", 
+                          "S.P.8. Affaires immobilières - Biens communaux - Aliénation de biens immobiliers - Extension - Zone C72 - Zone B' - Décision de principe (Safe Tensioning System).", 
+                          "S.P.9. Affaires immobilières - Biens communaux - Aliénation de biens immobiliers -Extension - Zone C72 - Zone B' - Décision de principe (SABEMAF).", 
+                          "S.P.10. Affaires immobilières - Acquisition de biens immobiliers pour cause d'utilité publique - Reprise d'une zone verte - Lotissement du grand tour (Immobel).", 
+                          "S.P.11. Marché de travaux - Rénovation de l'école L'île aux Trésors - Approbation des conditions et du mode de passation du marché.", 
+                          "S.P.12. Marché de fournitures - Acquisition de mobilier destiné à plusieurs écoles communales - Approbation du projet, du cahier spécial des charges, du montant estimatif de la dépense et du mode de passation du marché.", 
+                          "S.P.13. Marché public de services - Etude et élaboration du projet d'embellissement de la place Cardinal Mercier et des rues environnantes ainsi que la direction de l'exécution dudit projet - Approbation du cahier des charges, du mode de passation et du montant estimé du marché.", 
+                          "S.P.14. Urbanisme - Projet de reconstruction des sites du parking des Carabiniers et du parking des Fontaines - Périmètre de remembrement urbain (P.R.U.) - Adoption du périmètre - Enquête publique.", 
+                          "S.P.15. Convention - Mise en place d'ateliers urbains afin d'obtenir le retour des citoyens wavriens quant aux grands projets immobiliers de Wavre (Promenade, Carmes, Centre ancien) - Convention à passer avec la société MATEXI.", 
+                          "S.P.16. Voirie communale - Permis d'urbanisme réf. 15/106 - Construction d'un immeuble comportant quatre logements - Cession d'une bande de terrain, à front de la rue des Templiers, au droit de la parcelle présentement cadastrée Wavre 3e division Section B n° 29 C - 27 B, plaçant la limite de propriété à 5 m. de l'axe de la chaussée actuelle.", 
+                          "S.P.17. Convention - Adhésion au marché relatif à la fourniture d'imprimantes, de scanners et de leurs accessoires.", 
+                          "S.P.18. Convention - Plan de cohésion sociale - Mission d'accompagnement social et modalités de réseau qui incombent aux SLSP - Convention cadre à passer avec le Foyer wavrien.", 
+                          "S.P.19. Convention - Mise à disposition d'infrastructures sportives - Convention d'occupation et d'exploitation à passer avec le New RJ Wavre.", 
+                          "S.P.20. Plan de Cohésion Sociale : Rapport d'activités et financier 2015."
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Enveloppe": [
+      {
+        "id_ddr": "2016-03-22T19-00_gWbrCmnWavre-clg-3_consCmn-seancePublique-4_odj-4"
+      }, 
+      {
+        "Stamps": [
+          {
+            "op_tpl:": [
+              "web_detect", 
+              "web_grab", 
+              "web_remove", 
+              "email_delivery", 
+              "email_sended", 
+              "pmail_delivery", 
+              "pmail_sended", 
+              "doc_creation", 
+              "doc_signature", 
+              "add_content_silocanceled_with_notification", 
+              "canceled_without_notification"
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_detect"
+              }, 
+              {
+                "dt": "2016-03-15T16-00"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "www.wavre.be/index.php/component/content/article/84-liens-rapides/467-ordre-du-jour-du-conseil-communal"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_grab"
+              }, 
+              {
+                "dt": "2016-03-16T10:07"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://www.wavre.be/documents/Ordre%20du%20jour/OJ220316.pdf"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "add_content_silo"
+              }, 
+              {
+                "dt": "2016-03-16T10:07"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_ddr_doc_dw"
+              }, 
+              {
+                "dt": "2016-03-16T10:07"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://is.gd/kjcUwT"
+              }, 
+              {
+                "note": "from_web"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Metadata": [
+      {
+        "tags": null
+      }, 
+      {
+        "faces": null
+      }, 
+      {
+        "Has_info_doc": [
+          {
+            "info_tpl": "doc ; env ; pull"
+          }, 
+          {
+            "pull_src": "phone"
+          }, 
+          {
+            "Src": [
+              {
+                "place": null
+              }, 
+              {
+                "date": null
+              }, 
+              {
+                "idvs": null
+              }, 
+              {
+                "roles": null
+              }, 
+              {
+                "orgs": "doc; env"
+              }
+            ]
+          }, 
+          {
+            "Dst": [
+              {
+                "to_public": "t"
+              }
+            ]
+          }, 
+          {
+            "Event": [
+              {
+                "date": "doc ; env"
+              }, 
+              {
+                "time": "doc"
+              }, 
+              {
+                "adr_doc_tsbr_io": "_0000_0000"
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "Coding": [
+          {
+            "values": "pdf-text"
+          }, 
+          {
+            "tree_odj": "li"
+          }, 
+          {
+            "title": 1
+          }, 
+          {
+            "comment": 0
+          }, 
+          {
+            "action_request": null
+          }, 
+          {
+            "noise": 0
+          }
+        ]
+      }, 
+      {
+        "Licence": [
+          {
+            "DroitDeRegard": [
+              {
+                "Licence": "CC-BY-SA-NC"
+              }, 
+              {
+                "Auteur": "Patrick Installé 2013"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Taxonomy": [
+      {
+        "xmlns": [
+          {
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          }, 
+          {
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          }, 
+          {
+            "foaf": "http://xmlns.com/foaf/0.1/"
+          }, 
+          {
+            "bio": "http://purl.org/vocab/bio/0.1/"
+          }, 
+          {
+            "dc": "http://purl.org/dc/terms/"
+          }, 
+          {
+            "lang": "http://purl.org/net/inkel/rdf/schemas/lang/1.1#"
+          }, 
+          {
+            "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#"
+          }, 
+          {
+            "doac": "http://ramonantonio.net/doac/0.1/"
+          }, 
+          {
+            "menow": "http://schema.peoplesdns.com/menow/"
+          }, 
+          {
+            "sioc": "http://rdfs.org/sioc/ns#"
+          }, 
+          {
+            "owl": "http://www.w3.org/2002/07/owl#"
+          }, 
+          {
+            "admin": "http://webns.net/mvcb/"
+          }, 
+          {
+            "rel": "http://purl.org/vocab/relationship/"
+          }
+        ]
+      }
+    ]
+  }
+]

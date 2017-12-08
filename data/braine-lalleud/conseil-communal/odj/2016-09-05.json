@@ -1,0 +1,304 @@
+[
+  {
+    "Content": [
+      {
+        "h": [
+          {
+            "h": [
+              "Commune de Braine l'Alleud", 
+              {
+                "h": [
+                  "Conseil communal", 
+                  {
+                    "p": [
+                      "www.braine-lalleud.be, le vendredi 2 septembre 2016 à 9-10 heures", 
+                      "CALENDRIER ET ORDRE DU JOUR", 
+                      "La prochaine séance du Conseil communal aura lieu le lundi 5 septembre 2016 à 20h à la salle du Conseil, Grand-Place Baudouin Ier, 3 (2e étage) à 1420 Braine-l'Alleud. Bienvenue à tous!"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          "Invitation à la séance du lundi 5 septembre 2016 à 20 heures 00", 
+          {
+            "p": [
+              "Salle du conseil, Grand'Place Baudouin Ier, 3 (2e étage) - 1420 Braine-l'Alleud."
+            ]
+          }, 
+          {
+            "h": [
+              "Ordre du jour", 
+              {
+                "h": [
+                  "Séance publique", 
+                  {
+                    "h class=\"obj\"": [
+                      "1.Construction d'une piscine sur le site du \"Paradis\" - Présentation.", 
+                      "2.Plan d'investissement communal - Période 2014-2016 - Modification.", 
+                      "3.Voirie - Entretien extraordinaire de la voirie et de l'infrastructure en cours d'exécution - Mode doux - Aménagement d'un mode doux avenue de la Paix et rue du Batisseau - Projet - Devis - Mode de marché - Subsides.", 
+                      "4.Voirie - Entretien extraordinaire de la voirie et de l'infrastructure en cours d'exécution - Mode doux - Aménagement du sentier de la Bruyère de Cambrai - Projet - Devis - Mode de marché - Subsides.", 
+                      "5.Voirie - Entretien extraordinaire de la voirie et de l'infrastructure en cours d'exécution - Entretien de voiries - Projet - Devis - Mode de marché - Subsides.", 
+                      "6.Questions diverses (article 79 du règlement d'ordre intérieur)."
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Enveloppe": [
+      {
+        "id_ddr": "2016-09-05T20-00_gWbrCmnBraineLAlleud-clg-3_consCmn-seancePublique-4_odj-4"
+      }, 
+      {
+        "Stamps": [
+          {
+            "op_tpl:": [
+              "web_detect", 
+              "web_grab", 
+              "web_remove", 
+              "email_delivery", 
+              "email_sended", 
+              "pmail_delivery", 
+              "pmail_sended", 
+              "doc_creation", 
+              "doc_signature", 
+              "add_content_silocanceled_with_notification", 
+              "canceled_without_notification"
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_detect"
+              }, 
+              {
+                "dt": "2016-09-02T10-00"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "www.braine-lalleud.be/fr/ma-commune/vie-politique/conseil-communal/calendrier-et-ordre-du-jour.html"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_grab"
+              }, 
+              {
+                "dt": "2016-09-02T10:19"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://www.braine-lalleud.be/fr/ma-commune/vie-politique/conseil-communal/calendrier-et-ordre-du-jour.html"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "add_content_silo"
+              }, 
+              {
+                "dt": "2016-09-02T10:19"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_ddr_doc_dw"
+              }, 
+              {
+                "dt": "2016-09-02T10:19"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": null
+              }, 
+              {
+                "note": "from_web"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Metadata": [
+      {
+        "tags": null
+      }, 
+      {
+        "faces": null
+      }, 
+      {
+        "Has_info_doc": [
+          {
+            "info_tpl": "doc ; env ; pull"
+          }, 
+          {
+            "pull_src": null
+          }, 
+          {
+            "Src": [
+              {
+                "server": "institution"
+              }, 
+              {
+                "place": null
+              }, 
+              {
+                "date": null
+              }, 
+              {
+                "idvs": null
+              }, 
+              {
+                "roles": null
+              }, 
+              {
+                "orgs": "env"
+              }
+            ]
+          }, 
+          {
+            "Dst": [
+              {
+                "to_public": "i"
+              }
+            ]
+          }, 
+          {
+            "Event": [
+              {
+                "date": "doc"
+              }, 
+              {
+                "time": "doc"
+              }, 
+              {
+                "adr_doc_tsbr_io": "_1111_0000"
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "Coding": [
+          {
+            "values": "html"
+          }, 
+          {
+            "tree_odj": "h > p class=\"obj\""
+          }, 
+          {
+            "title": 1
+          }, 
+          {
+            "comment": 1
+          }, 
+          {
+            "action_request": null
+          }, 
+          {
+            "noise": 0
+          }
+        ]
+      }, 
+      {
+        "Licence": [
+          {
+            "DroitDeRegard": [
+              {
+                "Licence": "CC-BY-SA-NC"
+              }, 
+              {
+                "Auteur": "Patrick Installé 2013"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Taxonomy": [
+      {
+        "xmlns": [
+          {
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          }, 
+          {
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          }, 
+          {
+            "foaf": "http://xmlns.com/foaf/0.1/"
+          }, 
+          {
+            "bio": "http://purl.org/vocab/bio/0.1/"
+          }, 
+          {
+            "dc": "http://purl.org/dc/terms/"
+          }, 
+          {
+            "lang": "http://purl.org/net/inkel/rdf/schemas/lang/1.1#"
+          }, 
+          {
+            "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#"
+          }, 
+          {
+            "doac": "http://ramonantonio.net/doac/0.1/"
+          }, 
+          {
+            "menow": "http://schema.peoplesdns.com/menow/"
+          }, 
+          {
+            "sioc": "http://rdfs.org/sioc/ns#"
+          }, 
+          {
+            "owl": "http://www.w3.org/2002/07/owl#"
+          }, 
+          {
+            "admin": "http://webns.net/mvcb/"
+          }, 
+          {
+            "rel": "http://purl.org/vocab/relationship/"
+          }
+        ]
+      }
+    ]
+  }
+]

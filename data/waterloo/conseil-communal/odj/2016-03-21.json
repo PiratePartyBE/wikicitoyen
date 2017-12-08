@@ -1,0 +1,309 @@
+[
+  {
+    "Content": [
+      {
+        "h": [
+          {
+            "h": [
+              "Commune de Waterloo", 
+              {
+                "h": [
+                  "Conseil communal", 
+                  {
+                    "p": [
+                      "www.waterloo.be, le mardi 15 mars 2016 à 15-16 heures", 
+                      "Ordre du jour du Conseil communal ", 
+                      "Date : Lu, 21/03/2016 - 20:00", 
+                      "Ordre du jour du conseil communal de ce lundi 21 mars, à 20h, en la salle du Conseil."
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          "Invitation à la séance du lundi 21 mars 2016 à 20 heures 00", 
+          {
+            "p": [
+              "Salle du conseil - Maison communale - 28, rue François Libert - 1410 Waterloo"
+            ]
+          }, 
+          {
+            "h": [
+              "Ordre du jour", 
+              {
+                "h": [
+                  "Séance publique", 
+                  {
+                    "h": [
+                      {
+                        "li class=\"obj\"": [
+                          "1. Secrétariat général - Remise de décoration civique pour actes de courage, de dévouement ou d'humanité émanant du Ministère de l'intérieur.", 
+                          "2. Procès-verbal - Assemblée n° 2 du 22 février 2016 - Approbation.", 
+                          "3. Urbanisme - Urbanisme - Lotissement \"Val des Sarcelles\" (L.800) - Cession de voirie (Clos des Cigognes) - Cession d'une zone verte arborée et récupération des coûts d'entretien - Parcelles cadastrées 2ème Division, Section H, n°689a et n°597e appartenant à la société DHEEDENE INVEST - Autorisation d'ester en justice (Article L1242-1 CDLD).", 
+                          "4. Travaux - Egouttage et amélioration de la rue Sainte-Gertrude - Mise en souterrain des réseaux d'électricité basse tension et d'éclairage public (partie pose câble) - Décision.", 
+                          "5. Travaux - Elaboration du renforcement du réseau d'éclairage public, rue Sainte-Gertrude - Décision de principe.", 
+                          "6. Travaux - Place Capouillet - Opération de revitalisation urbaine - Avant-projet d'aménagement public - Périmètre de revitalisation - Convention à intervenir entre la Commune et une société de droit privé - Approbation.", 
+                          "7. Cultes - Fabrique d'église ALL SAINTS de Braine l'Alleud - Compte de l'exercice 2014.", 
+                          "8. Cellule commandes publiques - Travaux - Complexe sportif \"Waterloo Tennis\" - Rénovation des 4 terrains de tennis intérieurs - Choix du mode de passation et ﬁxation des conditions du marché.", 
+                          "9. Cellule commandes publiques - Travaux - Location de pavillons préfabriqués pour l'implantation du Sagittaire de l'école communale de Mont-Saint-Jean - Choix du mode de passation et ﬁxation des conditions du marché.", 
+                          "10. Cellule commandes publiques - Travaux - Location de pavillons préfabriqués pour l'implantation du Ménil de l'école communale de Mont-Saint-Jean - Choix du mode de passation et ﬁxation des conditions du marché.", 
+                          "11. Police - Finances - Procès-verbal de vériﬁcation de caisse du quatrième trimestre 2015.", 
+                          "12. Police - Personnel - Régime de ﬁn de carrière pour les membres du personnel du cadre opérationnel de la police intégrée - Constitution de commission - Délégation.", 
+                          "13. Questions orales d'actualité."
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Enveloppe": [
+      {
+        "id_ddr": "2016-03-21T20-00_gWbrCmnWaterloo-clg-3_consCmn-seancePublique-4_odj-4"
+      }, 
+      {
+        "Stamps": [
+          {
+            "op_tpl:": [
+              "web_detect", 
+              "web_grab", 
+              "web_remove", 
+              "email_delivery", 
+              "email_sended", 
+              "pmail_delivery", 
+              "pmail_sended", 
+              "doc_creation", 
+              "doc_signature", 
+              "add_content_silocanceled_with_notification", 
+              "canceled_without_notification"
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_detect"
+              }, 
+              {
+                "dt": "2016-03-15T16-00"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "www.waterloo.be/vie-politique/maison-communale/ordre-du-jour-du-conseil-communal-4734"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_grab"
+              }, 
+              {
+                "dt": "2016-03-16T09:58"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://www.waterloo.be/vie-politique/maison-communale/ordre-du-jour-du-conseil-communal-4734"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "add_content_silo"
+              }, 
+              {
+                "dt": "2016-03-16T09:58"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_ddr_doc_dw"
+              }, 
+              {
+                "dt": "2016-03-16T09:58"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://is.gd/pUIdWC"
+              }, 
+              {
+                "note": "from_web"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Metadata": [
+      {
+        "tags": null
+      }, 
+      {
+        "faces": null
+      }, 
+      {
+        "Has_info_doc": [
+          {
+            "info_tpl": "doc ; env ; pull"
+          }, 
+          {
+            "pull_src": null
+          }, 
+          {
+            "Src": [
+              {
+                "place": null
+              }, 
+              {
+                "date": null
+              }, 
+              {
+                "idvs": null
+              }, 
+              {
+                "roles": null
+              }, 
+              {
+                "orgs": "env"
+              }
+            ]
+          }, 
+          {
+            "Dst": [
+              {
+                "to_public": "i"
+              }
+            ]
+          }, 
+          {
+            "Event": [
+              {
+                "date": "doc"
+              }, 
+              {
+                "time": "doc"
+              }, 
+              {
+                "adr_doc_tsbr_io": "_0001_0000"
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "Coding": [
+          {
+            "values": "html"
+          }, 
+          {
+            "tree_odj": "li"
+          }, 
+          {
+            "title": 1
+          }, 
+          {
+            "comment": 0
+          }, 
+          {
+            "action_request": null
+          }, 
+          {
+            "noise": 0
+          }
+        ]
+      }, 
+      {
+        "Licence": [
+          {
+            "DroitDeRegard": [
+              {
+                "Licence": "CC-BY-SA-NC"
+              }, 
+              {
+                "Auteur": "Patrick Installé 2013"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Taxonomy": [
+      {
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      }, 
+      {
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+      }, 
+      {
+        "foaf": "http://xmlns.com/foaf/0.1/"
+      }, 
+      {
+        "bio": "http://purl.org/vocab/bio/0.1/"
+      }, 
+      {
+        "dc": "http://purl.org/dc/terms/"
+      }, 
+      {
+        "lang": "http://purl.org/net/inkel/rdf/schemas/lang/1.1#"
+      }, 
+      {
+        "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#"
+      }, 
+      {
+        "doac": "http://ramonantonio.net/doac/0.1/"
+      }, 
+      {
+        "menow": "http://schema.peoplesdns.com/menow/"
+      }, 
+      {
+        "sioc": "http://rdfs.org/sioc/ns#"
+      }, 
+      {
+        "owl": "http://www.w3.org/2002/07/owl#"
+      }, 
+      {
+        "admin": "http://webns.net/mvcb/"
+      }, 
+      {
+        "rel": "http://purl.org/vocab/relationship/"
+      }
+    ]
+  }
+]

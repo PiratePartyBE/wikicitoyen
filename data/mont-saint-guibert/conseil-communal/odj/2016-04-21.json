@@ -1,0 +1,329 @@
+[
+  {
+    "Content": [
+      {
+        "h": [
+          {
+            "h": [
+              "Commune de Mont-Saint-Guibert", 
+              {
+                "h": [
+                  "Conseil communal", 
+                  {
+                    "p": [
+                      "Courriel, le jeudi 14 avril 2016 à 14 heures 10", 
+                      "Commune de Mont-Saint-Guibert", 
+                      "Mont-Saint-Guibert, le 13 avril 2016.", 
+                      "CONVOCATION A LA REUNION DU CONSEIL COMMUNAL", 
+                      "Madame la Conseillère, Monsieur le Conseiller,", 
+                      "Conformément à l’article L 1122-12 du Code de la Démocratie Locale et de la Décentralisation, nous avons l’honneur de vous inviter à la réunion du Conseil Communal qui aura lieu le jeudi 21 avril 2016 à 20 h 00.", 
+                      "Séance du 21 avril 2016"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          "Convocation du jeudi 21 avril 2016 à 20 heures 00", 
+          {
+            "p": [
+              "Maison Communale de Mont-sain-Guibert - Grand'Rue, 39 - 1435 Mont-saint-Guibert"
+            ]
+          }, 
+          {
+            "h": [
+              "Ordre du jour", 
+              {
+                "h": [
+                  "Séance publique", 
+                  {
+                    "h": [
+                      {
+                        "li class=\"obj\"": [
+                          "1. Approbation du procès-verbal de la séance antérieure.", 
+                          "2. Commission Locale pour l'Energie (CLE) - Rapport annuel 2015 - Information.", 
+                          "3. Fabrique d'église de corbais - Changement de trésorier - Compte de clerc à maître - Avis.", 
+                          "4. Règlement général de police de la circulation routière - Modification - Interdiction de stationnement rue Ilya Prigogine.", 
+                          "5. Règlement général de police sur la circulation routière - Modification - Limitation de la vitesse à 50 km/h dans les parcs scientifiques Einstein et Fleming ainsi que dans l'Axis Parc - approbation.", 
+                          "6. Convention tripartite à conclure avec la Province du Brabant wallon et l’Asbl « Les P’tits filous » concernant l’occupation des locaux situés rue des Tilleuls 60 – approbation.", 
+                          "7. Travaux - Projet de convention d'assistance technique et administrative avec l'IBW - Travaux de réfection de la rue d'Alvau - Urgence - Ratification.", 
+                          "8. Travaux - Projet de convention d'assistance technique et administrative avec l'IBW pour travaux à réaliser sur le territoire communal - Approbation.", 
+                          "9. Mobilité - Proxibus intercommunal de Chastre, Mont-Saint-Guibert et Ottignies-Louvain-la-Neuve - Convention quadripartite entre les trois communes et le TEC BW – Approbation.", 
+                          "10. Mobilité - Proxibus intercommunal de Chastre, Mont-Saint-Guibert et Ottignies-Louvain-la-Neuve - Convention tripartite entre les Communes - Approbation.", 
+                          "11. Mobilité - Proxibus intercommunal de Chastre, Mont-Saint-Guibert et Ottignies-Louvain-la-Neuve - Convention de marché conjoint entre les trois communes, ayant pour objet le transport de personnes pour les années scolaires 2016-2017 à 2018-2019 - Approbation.", 
+                          "12. Mobilité - Transport de personnes en Proxibus intercommunal desservant les communes de Chastre, Mont-Saint-Guibert et Ottignies- Louvain-la-Neuve. Années scolaires 2016-2017 à 2018-2019 - mode de passation du marché et approbation du cahier des charges.", 
+                          "13. Aménagement du territoire - Modification du plan de secteur - Extension de la sablière de Mont-Saint-Guibert - Compensation alternative - Aménagement d'un nouvel échangeur sur la RN25 - Convention - Approbation.", 
+                          "14. Travaux d'entretien de voiries - Réfection de revêtements hydrocarbonés dans diverses rues - Mode de passation du marché et approbation du cahier des charges rectifié.", 
+                          "15. Candidature label \"cimetière nature\" - Hévillers - niveau 1 - Approbation.", 
+                          "16. Service Jeunesse - Provision de caisse destinée aux menues dépenses lors des plaines de vacances 2016."
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          {
+            "p": [
+              {
+                "li": [
+                  "Le Directeur général Alain Chevalier", 
+                  "Le Bourgmestre Philippe Evrard"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Enveloppe": [
+      {
+        "id_ddr": "2016-04-21T20-00_gWbrCmnMontSaintGuibert-clg-3_consCmn-seancePublique-4_odj-4"
+      }, 
+      {
+        "Stamps": [
+          {
+            "op_tpl:": [
+              "web_detect", 
+              "web_grab", 
+              "web_remove", 
+              "email_delivery", 
+              "email_sended", 
+              "pmail_delivery", 
+              "pmail_sended", 
+              "doc_creation", 
+              "doc_signature", 
+              "add_content_silocanceled_with_notification", 
+              "canceled_without_notification"
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "email_sended"
+              }, 
+              {
+                "dt": "2016-04-14T14:10"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "doc_signature"
+              }, 
+              {
+                "dt": "2016-04-13"
+              }, 
+              {
+                "authors": "Institution"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "add_content_silo"
+              }, 
+              {
+                "dt": "2016-04-16T18:20"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_ddr_doc_dw"
+              }, 
+              {
+                "dt": "2016-04-16T18:20"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://is.gd/0ldDpP"
+              }, 
+              {
+                "note": "from_web"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Metadata": [
+      {
+        "tags": null
+      }, 
+      {
+        "faces": null
+      }, 
+      {
+        "Has_info_doc": [
+          {
+            "info_tpl": "doc ; env ; pull"
+          }, 
+          {
+            "pull_src": null
+          }, 
+          {
+            "Src": [
+              {
+                "place": "doc"
+              }, 
+              {
+                "date": "doc"
+              }, 
+              {
+                "idvs": "doc"
+              }, 
+              {
+                "roles": "doc"
+              }, 
+              {
+                "orgs": "doc, env"
+              }
+            ]
+          }, 
+          {
+            "Dst": [
+              {
+                "to_public": "t"
+              }
+            ]
+          }, 
+          {
+            "Event": [
+              {
+                "date": "doc ; env"
+              }, 
+              {
+                "time": "doc ; env"
+              }, 
+              {
+                "adr_doc_tsbr_io": "_0000_0000"
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "Coding": [
+          {
+            "values": "pdf-image"
+          }, 
+          {
+            "tree_odj": "li"
+          }, 
+          {
+            "title": 1
+          }, 
+          {
+            "comment": 0
+          }, 
+          {
+            "action_request": null
+          }, 
+          {
+            "noise": 0
+          }
+        ]
+      }, 
+      {
+        "Licence": [
+          {
+            "DroitDeRegard": [
+              {
+                "Licence": "CC-BY-SA-NC"
+              }, 
+              {
+                "Auteur": "Patrick Installé 2013"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Taxonomy": [
+      {
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      }, 
+      {
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+      }, 
+      {
+        "foaf": "http://xmlns.com/foaf/0.1/"
+      }, 
+      {
+        "bio": "http://purl.org/vocab/bio/0.1/"
+      }, 
+      {
+        "dc": "http://purl.org/dc/terms/"
+      }, 
+      {
+        "lang": "http://purl.org/net/inkel/rdf/schemas/lang/1.1#"
+      }, 
+      {
+        "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#"
+      }, 
+      {
+        "doac": "http://ramonantonio.net/doac/0.1/"
+      }, 
+      {
+        "menow": "http://schema.peoplesdns.com/menow/"
+      }, 
+      {
+        "sioc": "http://rdfs.org/sioc/ns#"
+      }, 
+      {
+        "owl": "http://www.w3.org/2002/07/owl#"
+      }, 
+      {
+        "admin": "http://webns.net/mvcb/"
+      }, 
+      {
+        "rel": "http://purl.org/vocab/relationship/"
+      }
+    ]
+  }
+]

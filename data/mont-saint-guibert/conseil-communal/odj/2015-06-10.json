@@ -1,0 +1,327 @@
+[
+  {
+    "Content": [
+      {
+        "h": [
+          {
+            "h": [
+              "Commune de Mont-Saint-Guibert", 
+              {
+                "h": [
+                  "Conseil communal", 
+                  {
+                    "p": [
+                      "Courriel, le mardi 2 juin 2015 à 15 heures 19", 
+                      "Commune de Mont-Saint-Guibert", 
+                      "Mont-Saint-Guibert, le 2 juin 2015.", 
+                      "CONVOCATION A LA REUNION DU CONSEIL _COMMUNAL_", 
+                      "Séance du 10 juin 2015", 
+                      "Madame la Conseillère, Monsieur le Conseiller,", 
+                      "Conformément à l'article L 1122-12 du Code de la Démocratie Locale et de la Décentralisation, nous avons l'honneur de vous inviter à la réunion du Conseil Communal qui aura lieu le mercredi 10 juin 2015 à 18 h 30."
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          "Convocation du mercredi 10 juin 2015 à 18 heures 30", 
+          {
+            "p": [
+              "Maison Communale - Grand'Rue, 39 - 1435 Mont-saint-Guibert"
+            ]
+          }, 
+          {
+            "h": [
+              "Ordre du jour", 
+              {
+                "h": [
+                  "Séance publique", 
+                  {
+                    "h": [
+                      {
+                        "li class=\"obj\"": [
+                          "1. Approbation du procès-verbal de la séance précédente.", 
+                          "2. Travaux d'entretien de voiries - Réfection rue du Colombier - Mode de passation du marché et approbation du cahier des charges.", 
+                          "3. Travaux d'entretien de voiries - Réfection de revêtements hydrocarbonés dans diverses rues - Mode de passation du marché et approbation du cahier des charges.", 
+                          "4. Nettoyage des vitres des bâtiments communaux et du CPAS de juillet 2015 à mai 2019 - Mode de passation du marché et approbation du cahier des charges (nouveau marché) - approbation.", 
+                          "5. ISBW - approbation des points inscrits à l'ordre du jour de l'Assemblée générale du 24 juin 2015.", 
+                          "6. IECBW - approbation des points inscrits à l'ordre du jour de l'Assemblée générale du 26 juin 2015.", 
+                          "7. Ores - approbation des points inscrits à l'ordre du jour de l'Assemblée générale du 25 juin 2015.", 
+                          "8. Sedifin - approbation des points inscrits à l'ordre du jour de l'Assemblée générale du 30 juin 2015.", 
+                          "9. IBW - Approbation des points à l'ordre du jour des assemblées générales extraordinaire et ordinaire du 23 juin 2015.", 
+                          "10. Fabrique d'Eglise d'Hévillers - compte 2014 - décision de prorogation du délai d'examen du dossier.", 
+                          "11. Règlement relatif à la prime à l'acquisition de vélos à assistance électrique ou de vélos pliables - approbation.", 
+                          "12. Transfert à l'Asbl Guibert sports finances de petit matériel destiné aux festivités - approbation.", 
+                          "13. Centre Culturel du Brabant wallon - projet d'action culturelle - contrat-programme 2017-2021 - approbation.", 
+                          "14. Plan général d'urgence et d'intervention communal (PGUIC) - approbation. Le/Dîrecteur général "
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          {
+            "p": [
+              {
+                "li": [
+                  "Le Directeur général,  Alain Chevalier", 
+                  "le Bourgmestre, Philippe Evrard"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Enveloppe": [
+      {
+        "id_ddr": "2015-06-10T18-30_gWbrCmnMontSaintGuibert-clg-3_consCmn-seancePublique-4_odj-4"
+      }, 
+      {
+        "Stamps": [
+          {
+            "op_tpl:": [
+              "web_detect", 
+              "web_grab", 
+              "web_remove", 
+              "email_delivery", 
+              "email_sended", 
+              "pmail_delivery", 
+              "pmail_sended", 
+              "doc_creation", 
+              "doc_signature", 
+              "add_content_silocanceled_with_notification", 
+              "canceled_without_notification"
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "email_sended"
+              }, 
+              {
+                "dt": "2015-06-02T16:19"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "doc_signature"
+              }, 
+              {
+                "dt": "2015-06-02"
+              }, 
+              {
+                "authors": "Institution"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "add_content_silo"
+              }, 
+              {
+                "dt": "2015-06-02T17:31"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_ddr_doc_dw"
+              }, 
+              {
+                "dt": "2015-06-02T17:31"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://tinyurl.com/q8eswyh"
+              }, 
+              {
+                "note": "from_web"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Metadata": [
+      {
+        "tags": null
+      }, 
+      {
+        "faces": null
+      }, 
+      {
+        "Has_info_doc": [
+          {
+            "info_tpl": "doc ; env ; pull"
+          }, 
+          {
+            "pull_src": null
+          }, 
+          {
+            "Src": [
+              {
+                "place": "doc"
+              }, 
+              {
+                "date": "doc"
+              }, 
+              {
+                "idvs": "doc"
+              }, 
+              {
+                "roles": "doc"
+              }, 
+              {
+                "orgs": "doc, env"
+              }
+            ]
+          }, 
+          {
+            "Dst": [
+              {
+                "to_public": "t"
+              }
+            ]
+          }, 
+          {
+            "Event": [
+              {
+                "date": "doc ; env"
+              }, 
+              {
+                "time": "doc ; env"
+              }, 
+              {
+                "adr_doc_tsbr_io": "_0000_0000"
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "Coding": [
+          {
+            "values": "pdf-image"
+          }, 
+          {
+            "tree_odj": "li"
+          }, 
+          {
+            "title": 1
+          }, 
+          {
+            "comment": 0
+          }, 
+          {
+            "action_request": null
+          }, 
+          {
+            "noise": 0
+          }
+        ]
+      }, 
+      {
+        "Licence": [
+          {
+            "DroitDeRegard": [
+              {
+                "Licence": "CC-BY-SA-NC"
+              }, 
+              {
+                "Auteur": "Patrick Installé 2013"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Taxonomy": [
+      {
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      }, 
+      {
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+      }, 
+      {
+        "foaf": "http://xmlns.com/foaf/0.1/"
+      }, 
+      {
+        "bio": "http://purl.org/vocab/bio/0.1/"
+      }, 
+      {
+        "dc": "http://purl.org/dc/terms/"
+      }, 
+      {
+        "lang": "http://purl.org/net/inkel/rdf/schemas/lang/1.1#"
+      }, 
+      {
+        "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#"
+      }, 
+      {
+        "doac": "http://ramonantonio.net/doac/0.1/"
+      }, 
+      {
+        "menow": "http://schema.peoplesdns.com/menow/"
+      }, 
+      {
+        "sioc": "http://rdfs.org/sioc/ns#"
+      }, 
+      {
+        "owl": "http://www.w3.org/2002/07/owl#"
+      }, 
+      {
+        "admin": "http://webns.net/mvcb/"
+      }, 
+      {
+        "rel": "http://purl.org/vocab/relationship/"
+      }
+    ]
+  }
+]

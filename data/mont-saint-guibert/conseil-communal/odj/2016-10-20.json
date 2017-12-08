@@ -1,0 +1,343 @@
+[
+  {
+    "Content": [
+      {
+        "h": [
+          {
+            "h": [
+              "Commune de Mont-Saint-Guibert", 
+              {
+                "h": [
+                  "Conseil communal", 
+                  {
+                    "p": [
+                      "www.mont-saint-guibert.be, le mercredi 12 octobre 2016 à 15-16 heures", 
+                      "Commune de Mont-Saint-Guibert", 
+                      "Mont-Saint-Guibert, le 12 octobre 2016.", 
+                      "CONVOCATION A LA REUNION DU CONSEIL COMMUNAL", 
+                      "Séance du 20 octobre 2016", 
+                      "Madame la Conseillère, Monsieur le Conseiller,", 
+                      "Conformément à l'article L 1122-12 du Code de la Démocratie Locale et de la Décentralisation, nous avons l'honneur de vous inviter à la réunion du Conseil Communal qui aura lieu le jeudi 20 octobre 2016 à 20 h 00."
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          "Convocation du jeudi 20 octobre 2016 à 20 heures 00", 
+          {
+            "p": [
+              "Maison Communale de Mont-sain-Guibert - Grand'Rue, 39 - 1435 Mont-saint-Guibert"
+            ]
+          }, 
+          {
+            "h": [
+              "Ordre du jour", 
+              {
+                "h": [
+                  "Séance publique", 
+                  {
+                    "h": [
+                      {
+                        "li class=\"obj\"": [
+                          "1. Approbation du procès-verbal de la séance précédente.", 
+                          "2. Mobilité - Transport de personnes en Proxibus intercommunal desservant les communes de Chastre, Mont-Saint-Guibert et Ottignies-Louvain-la-Neuve - Années scolaires 2016-2017 à 2018-2019 - Approbation de l'avenant 1", 
+                          "3. Travaux - Coulée verte - Mission d'auteur de projet (suivi et coordination) & mission de coordination sécurité-santé (projet et réalisation) - Nouveau marché de service - Mode de passation du marché et approbation du cahier des charges.", 
+                          "4. Politique des déchets - Coût-vérité budget 2017 - Approbation.", 
+                          "5. Aménagement du Territoire - Etude prospective de Corbais - Adoption.", 
+                          "6. Conditions de libération des subsides communaux pour l'exercice 2016 -Approbation.", 
+                          "7. Fabrique d'église d'Hévillers - Modification budgétaire n 0 1 de l'exercice 2016 -Approbation.", 
+                          "8. Centimes additionnels au précompte immobilier pour l'exercice 2017 -Approbation.", 
+                          "9. Taxe additionnelle à l'impôt des personnes physiques - exercice 2017 -Approbation.", 
+                          "10. Taxe sur l'enlèvement des immondices relative à l'exercice 2017 Approbation.", 
+                          "11. Tutelle sur le CPAS - Modification budgétaire n° 1 de l'exercice 2016 - décision du Conseil de l'Action sociale du 12/09/2016 - Approbation."
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          {
+            "p": [
+              {
+                "li": [
+                  "Le Directeur général Alain Chevalier", 
+                  "Le Bourgmestre, Philippe Evrard"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Enveloppe": [
+      {
+        "id_ddr": "2016-10-20T20-00_gWbrCmnMontSaintGuibert-clg-3_consCmn-seancePublique-4_odj-4"
+      }, 
+      {
+        "Stamps": [
+          {
+            "op_tpl:": [
+              "web_detect", 
+              "web_grab", 
+              "web_remove", 
+              "email_delivery", 
+              "email_sended", 
+              "pmail_delivery", 
+              "pmail_sended", 
+              "doc_creation", 
+              "doc_signature", 
+              "add_content_silocanceled_with_notification", 
+              "canceled_without_notification"
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_detect"
+              }, 
+              {
+                "dt": "2016-10-12T16-00"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "www.mont-saint-guibert.be/ma-commune/vie-politique/conseil-communal/Ordre-du-jour-et-proces-verbaux"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_grab"
+              }, 
+              {
+                "dt": "2016-10-12T16:33"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://www.mont-saint-guibert.be/ma-commune/vie-politique/conseil-communal/Ordre-du-jour-et-proces-verbaux/convocation-au-conseil-communal-du-20-10-2016-1.pdf"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "doc_signature"
+              }, 
+              {
+                "dt": "2016-10-12"
+              }, 
+              {
+                "authors": "Institution"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "add_content_silo"
+              }, 
+              {
+                "dt": "2016-10-12T16:33"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_ddr_doc_dw"
+              }, 
+              {
+                "dt": "2016-10-12T16:33"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "https://is.gd/LtRRZr"
+              }, 
+              {
+                "note": "from_web"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Metadata": [
+      {
+        "tags": null
+      }, 
+      {
+        "faces": null
+      }, 
+      {
+        "Has_info_doc": [
+          {
+            "info_tpl": "doc ; env ; pull"
+          }, 
+          {
+            "pull_src": null
+          }, 
+          {
+            "Src": [
+              {
+                "place": "doc"
+              }, 
+              {
+                "date": "doc"
+              }, 
+              {
+                "idvs": "doc"
+              }, 
+              {
+                "roles": "doc"
+              }, 
+              {
+                "orgs": "doc, env"
+              }
+            ]
+          }, 
+          {
+            "Dst": [
+              {
+                "to_public": "t"
+              }
+            ]
+          }, 
+          {
+            "Event": [
+              {
+                "date": "doc ; env"
+              }, 
+              {
+                "time": "doc ; env"
+              }, 
+              {
+                "adr_doc_tsbr_io": "_0000_0000"
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "Coding": [
+          {
+            "values": "pdf-image"
+          }, 
+          {
+            "tree_odj": "li class=\"obj\""
+          }, 
+          {
+            "title": 1
+          }, 
+          {
+            "comment": 0
+          }, 
+          {
+            "action_request": null
+          }, 
+          {
+            "noise": 0
+          }
+        ]
+      }, 
+      {
+        "Licence": [
+          {
+            "DroitDeRegard": [
+              {
+                "Licence": "CC-BY-SA-NC"
+              }, 
+              {
+                "Auteur": "Patrick Installé 2013"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Taxonomy": [
+      {
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      }, 
+      {
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+      }, 
+      {
+        "foaf": "http://xmlns.com/foaf/0.1/"
+      }, 
+      {
+        "bio": "http://purl.org/vocab/bio/0.1/"
+      }, 
+      {
+        "dc": "http://purl.org/dc/terms/"
+      }, 
+      {
+        "lang": "http://purl.org/net/inkel/rdf/schemas/lang/1.1#"
+      }, 
+      {
+        "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#"
+      }, 
+      {
+        "doac": "http://ramonantonio.net/doac/0.1/"
+      }, 
+      {
+        "menow": "http://schema.peoplesdns.com/menow/"
+      }, 
+      {
+        "sioc": "http://rdfs.org/sioc/ns#"
+      }, 
+      {
+        "owl": "http://www.w3.org/2002/07/owl#"
+      }, 
+      {
+        "admin": "http://webns.net/mvcb/"
+      }, 
+      {
+        "rel": "http://purl.org/vocab/relationship/"
+      }
+    ]
+  }
+]

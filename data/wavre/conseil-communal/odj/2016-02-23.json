@@ -1,0 +1,311 @@
+[
+  {
+    "Content": [
+      {
+        "h": [
+          {
+            "h": [
+              "Commune de Wavre", 
+              {
+                "h": [
+                  "Conseil communal", 
+                  {
+                    "p": [
+                      "www.wavre.be, le lundi 15 février 2016 à 9-10 heures", 
+                      "CONSEIL COMMUNAL", 
+                      "Séance du 23 février 2016 à 19h00"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          "Convocation à la séance du mardi 23 février 2016 à 19 heures 00", 
+          {
+            "p": [
+              "Salle des Templiers (au premier étage de l’Hôtel de Ville - Place de l'Hôtel de Ville - 1300  Wavre"
+            ]
+          }, 
+          {
+            "h": [
+              "Ordre du jour", 
+              {
+                "h": [
+                  "Séance publique", 
+                  {
+                    "h": [
+                      {
+                        "li class=\"obj\"": [
+                          "S.P.1. Intercommunales – Intercommunale de Mutualisation en matière d’informatique et organisationnelle, en abrégé IMIO – Adhésion.", 
+                          "S.P.2. Service des accueillantes d’enfants conventionnées – Renouvellement de l’attestation de qualité du service – Synthèse 2016-2019 et approbation des adaptations apportées au R.O.I. et au projet pédagogique du service.", 
+                          "S.P.3. Affaires immobilières – Cession d’un bien immobilier – Parc industriel nord – Parcelle de terrain longeant la chaussée des Collines – Décision définitive – Modification du projet d’acte et de la parcelle à céder (Belfius).", 
+                          "S.P.4. Affaires immobilières – Acquisition d’un bien pour cause d’utilité publique – Reprise de la voirie dénommée avenue Marie Curie – Modification du projet d’acte.", 
+                          "S.P.5. Travaux publics – Remplacement des chaudières des bâtiments Brel et Delvaux, chaussée des Atrébates – Approbation du projet, du cahier spécial des charges, du montant estimatif, du mode de passation et du financement de la dépense.", 
+                          "S.P.6. Travaux publics – Aménagement de cheminements cyclables, chemin de la Sucrerie – Approbation des travaux complémentaires.", 
+                          "S.P.7. Voirie communale – Règlement complémentaire de circulation routière – Décision de ne pas créer de Sul rue Lambert Fortune et abrogation des règlements complémentaires de circulation routière pris antérieurement au 31 décembre 2015 pour l'implantation ou la non-implantation de suls dans certaines voiries.", 
+                          "S.P.8. Voirie communale – Règlement complémentaire de circulation routière – Rue Caule à Wavre – Priorité de passage.", 
+                          "S.P.9. Voirie communale – Règlement complémentaire de circulation routière – Avenue Sabin, avenue Edison et avenue Fleming – Interdiction de stationner.", 
+                          "S.P.10. Voirie communale – Règlement complémentaire de circulation – Délimitation de la nouvelle agglomération Wavre-Bierges-Limal.", 
+                          "S.P.11. Personnel communal – Service de l’Instruction publique – Enseignement maternel et primaire – Prise en charge de périodes de seconde langue et d’E.P.A. (Encadrement Pédagogique Alternatif) à charge du Pouvoir organisateur, pour l’année scolaire 2015-2016 – Ratification.", 
+                          "S.P.12. Proposition de motion de recommandation invitant le Conseil communal à solliciter des autorités compétentes un engagement clair et un calendrier précis pour achever les travaux du RER sur les lignes 124 et 161. Demande du groupe PS."
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Enveloppe": [
+      {
+        "id_ddr": "2016-02-23T19-00_gWbrCmnWavre-clg-3_consCmn-seancePublique-4_odj-4"
+      }, 
+      {
+        "Stamps": [
+          {
+            "op_tpl:": [
+              "web_detect", 
+              "web_grab", 
+              "web_remove", 
+              "email_delivery", 
+              "email_sended", 
+              "pmail_delivery", 
+              "pmail_sended", 
+              "doc_creation", 
+              "doc_signature", 
+              "add_content_silocanceled_with_notification", 
+              "canceled_without_notification"
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_detect"
+              }, 
+              {
+                "dt": "2016-02-15T10-00"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "www.wavre.be/index.php/component/content/article/84-liens-rapides/467-ordre-du-jour-du-conseil-communal"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_grab"
+              }, 
+              {
+                "dt": "2016-02-15T14:18"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://www.wavre.be/documents/Ordre%20du%20jour/OJ230216.pdf"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "add_content_silo"
+              }, 
+              {
+                "dt": "2016-02-15T14:18"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_ddr_doc_dw"
+              }, 
+              {
+                "dt": "2016-02-15T14:18"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://tinyurl.com/hpwakol"
+              }, 
+              {
+                "note": "from_web"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Metadata": [
+      {
+        "tags": null
+      }, 
+      {
+        "faces": null
+      }, 
+      {
+        "Has_info_doc": [
+          {
+            "info_tpl": "doc ; env ; pull"
+          }, 
+          {
+            "pull_src": "phone"
+          }, 
+          {
+            "Src": [
+              {
+                "place": null
+              }, 
+              {
+                "date": null
+              }, 
+              {
+                "idvs": null
+              }, 
+              {
+                "roles": null
+              }, 
+              {
+                "orgs": "doc; env"
+              }
+            ]
+          }, 
+          {
+            "Dst": [
+              {
+                "to_public": "t"
+              }
+            ]
+          }, 
+          {
+            "Event": [
+              {
+                "date": "doc ; env"
+              }, 
+              {
+                "time": "doc"
+              }, 
+              {
+                "adr_doc_tsbr_io": "_0000_0000"
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "Coding": [
+          {
+            "values": "pdf-text"
+          }, 
+          {
+            "tree_odj": "li"
+          }, 
+          {
+            "title": 1
+          }, 
+          {
+            "comment": 0
+          }, 
+          {
+            "action_request": null
+          }, 
+          {
+            "noise": 0
+          }
+        ]
+      }, 
+      {
+        "Licence": [
+          {
+            "DroitDeRegard": [
+              {
+                "Licence": "CC-BY-SA-NC"
+              }, 
+              {
+                "Auteur": "Patrick Installé 2013"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Taxonomy": [
+      {
+        "xmlns": [
+          {
+            "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          }, 
+          {
+            "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+          }, 
+          {
+            "foaf": "http://xmlns.com/foaf/0.1/"
+          }, 
+          {
+            "bio": "http://purl.org/vocab/bio/0.1/"
+          }, 
+          {
+            "dc": "http://purl.org/dc/terms/"
+          }, 
+          {
+            "lang": "http://purl.org/net/inkel/rdf/schemas/lang/1.1#"
+          }, 
+          {
+            "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#"
+          }, 
+          {
+            "doac": "http://ramonantonio.net/doac/0.1/"
+          }, 
+          {
+            "menow": "http://schema.peoplesdns.com/menow/"
+          }, 
+          {
+            "sioc": "http://rdfs.org/sioc/ns#"
+          }, 
+          {
+            "owl": "http://www.w3.org/2002/07/owl#"
+          }, 
+          {
+            "admin": "http://webns.net/mvcb/"
+          }, 
+          {
+            "rel": "http://purl.org/vocab/relationship/"
+          }
+        ]
+      }
+    ]
+  }
+]

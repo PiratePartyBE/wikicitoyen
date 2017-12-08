@@ -1,0 +1,327 @@
+[
+  {
+    "Content": [
+      {
+        "h": [
+          {
+            "h": [
+              "Commune de Mont-Saint-Guibert", 
+              {
+                "h": [
+                  "Conseil communal", 
+                  {
+                    "p": [
+                      "Courriel, le jeudi 15 octobre 2015 à 14 heures 03", 
+                      "Mont-Saint-Guibert, le 13 octobre 2015.", 
+                      "CONVOCATION A LA REUNION DU CONSEIL COMMUNAL", 
+                      "Commune de Mont-Saint-Guibert", 
+                      "Madame la Conseillère, Monsieur le Conseiller,", 
+                      "Conformément à l'article L 1122-12 du Code de la Démocratie Locale et de la Décentralisation, nous avons l'honneur de vous inviter à la réunion du Conseil Communal qui aura lieu le jeudi 22 octobre 2015 à 20 h 00.", 
+                      "Séance du 22 octobre 2015"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          "Convocation du jeudi 22 octobre 2015 à 20 heures 00", 
+          {
+            "p": [
+              "Maison Communale - Grand'Rue, 39 - 1435 Mont-saint-Guibert"
+            ]
+          }, 
+          {
+            "h": [
+              "Ordre du jour", 
+              {
+                "h": [
+                  "Séance publique", 
+                  {
+                    "h": [
+                      {
+                        "li class=\"obj\"": [
+                          "1. Approbation du procès-verbal de la séance précédente.", 
+                          "2. Ordonnance de police - approbation.", 
+                          "3. Compte communal 2014 - approbation avec remarques par le Ministre de tutelle - Information.", 
+                          "4. Fabrique d'Eglise protestante de Belgique à Wavre - budget 2016 - avis.", 
+                          "5. Tutelle sur le CPAS - Modification budgétaire n° 1 de l'exercice 2015 - décision du Conseil de l'Action sociale du 14/09/2015 - Approbation.", 
+                          "6. Tutelle sur le CPAS- Règlement fixant les conditions d'accès aux emplois de Directeur général, Directeur général adjoint et Directeur financier - décision du Conseil de l'Action sociale du 14/09/2015 - prolongation du délai pour statuer -Approbation.", 
+                          "7. Convention de collaboration entre la Commune de Mont-Saint-Guibert et la Ville de Nivelles concernant la médiation dans le cadre des sanctions administratives -Approbation.", 
+                          "8. Convention avec l'asbl \"Les Petits Riens\" concernant la collecte des déchets textiles - Approbation.", 
+                          "9. IBW - convention pour l'installation de conteneurs à verre enterrés -Approbation.", 
+                          "10. Travaux : nettoyage des vitres du bâtiment de la crèche - convention entre l'Asbl « Les Boutchoux de l'Axis » et l'Administration communale - refacturation pour la partie crèche - Approbation.", 
+                          "11. Travaux - acquisition de panneaux de signalisation d'entrée et sortie d'agglomération (Fia, Flb, F3a, F3b) - Mode de passation du marché et approbation du cahier des charges.", 
+                          "12. Acquisition d'une chargeuse pelleteuse d'occasion - Mode de passation du marché et approbation du cahier des charges - Approbation.", 
+                          "13. Etude prospective de Corbais \"Complément de densité\" - Etude complémentaire - Approbation de la dépense supplémentaire résultant de l'adjudication.", 
+                          "14. Sedifin - augmentation de capital par apport en nature - approbation."
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          {
+            "p": [
+              {
+                "li": [
+                  "Le Directeur général,  Alain Chevalier", 
+                  "le Bourgmestre, Philippe Evrard"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Enveloppe": [
+      {
+        "id_ddr": "2015-10-22T20-00_gWbrCmnMontSaintGuibert-clg-3_consCmn-seancePublique-4_odj-4"
+      }, 
+      {
+        "Stamps": [
+          {
+            "op_tpl:": [
+              "web_detect", 
+              "web_grab", 
+              "web_remove", 
+              "email_delivery", 
+              "email_sended", 
+              "pmail_delivery", 
+              "pmail_sended", 
+              "doc_creation", 
+              "doc_signature", 
+              "add_content_silocanceled_with_notification", 
+              "canceled_without_notification"
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "email_sended"
+              }, 
+              {
+                "dt": "2015-10-15T15:03"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "doc_signature"
+              }, 
+              {
+                "dt": "2015-10-13"
+              }, 
+              {
+                "authors": "Institution"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "add_content_silo"
+              }, 
+              {
+                "dt": "2015-10-18T18:11"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_ddr_doc_dw"
+              }, 
+              {
+                "dt": "2015-10-18T18:11"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://tinyurl.com/opx6m7l"
+              }, 
+              {
+                "note": "from_web"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Metadata": [
+      {
+        "tags": null
+      }, 
+      {
+        "faces": null
+      }, 
+      {
+        "Has_info_doc": [
+          {
+            "info_tpl": "doc ; env ; pull"
+          }, 
+          {
+            "pull_src": null
+          }, 
+          {
+            "Src": [
+              {
+                "place": "doc"
+              }, 
+              {
+                "date": "doc"
+              }, 
+              {
+                "idvs": "doc"
+              }, 
+              {
+                "roles": "doc"
+              }, 
+              {
+                "orgs": "doc, env"
+              }
+            ]
+          }, 
+          {
+            "Dst": [
+              {
+                "to_public": "t"
+              }
+            ]
+          }, 
+          {
+            "Event": [
+              {
+                "date": "doc ; env"
+              }, 
+              {
+                "time": "doc ; env"
+              }, 
+              {
+                "adr_doc_tsbr_io": "_0000_0000"
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "Coding": [
+          {
+            "values": "pdf-image"
+          }, 
+          {
+            "tree_odj": "li"
+          }, 
+          {
+            "title": 1
+          }, 
+          {
+            "comment": 0
+          }, 
+          {
+            "action_request": null
+          }, 
+          {
+            "noise": 0
+          }
+        ]
+      }, 
+      {
+        "Licence": [
+          {
+            "DroitDeRegard": [
+              {
+                "Licence": "CC-BY-SA-NC"
+              }, 
+              {
+                "Auteur": "Patrick Installé 2013"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Taxonomy": [
+      {
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      }, 
+      {
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+      }, 
+      {
+        "foaf": "http://xmlns.com/foaf/0.1/"
+      }, 
+      {
+        "bio": "http://purl.org/vocab/bio/0.1/"
+      }, 
+      {
+        "dc": "http://purl.org/dc/terms/"
+      }, 
+      {
+        "lang": "http://purl.org/net/inkel/rdf/schemas/lang/1.1#"
+      }, 
+      {
+        "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#"
+      }, 
+      {
+        "doac": "http://ramonantonio.net/doac/0.1/"
+      }, 
+      {
+        "menow": "http://schema.peoplesdns.com/menow/"
+      }, 
+      {
+        "sioc": "http://rdfs.org/sioc/ns#"
+      }, 
+      {
+        "owl": "http://www.w3.org/2002/07/owl#"
+      }, 
+      {
+        "admin": "http://webns.net/mvcb/"
+      }, 
+      {
+        "rel": "http://purl.org/vocab/relationship/"
+      }
+    ]
+  }
+]

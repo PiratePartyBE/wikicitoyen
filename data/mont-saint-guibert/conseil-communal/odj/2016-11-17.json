@@ -1,0 +1,350 @@
+[
+  {
+    "Content": [
+      {
+        "h": [
+          {
+            "h": [
+              "Commune de Mont-Saint-Guibert", 
+              {
+                "h": [
+                  "Conseil communal", 
+                  {
+                    "p": [
+                      "www.mont-saint-guibert.be, le jeudi 10 novembre 2016 à 9-10 heures", 
+                      "Commune de Mont-Saint-Guibert", 
+                      "Mont-Saint-Guibert, le 9 novembre 2016.", 
+                      "CONVOCATION A LA REUNION DU CONSEIL COMMUNAL", 
+                      "Séance du 17 novembre 2016", 
+                      "Madame la Conseillère, Monsieur le Conseiller,", 
+                      "Conformément à l'article L 1122-12 du Code de la Démocratie Locale et de la Décentralisation, nous avons l'honneur de vous inviter à la réunion du Conseil Communal qui aura lieu le jeudi 17 novembre 2016 à 20 h 00."
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          "Convocation du jeudi 17 novembre 2016 à 20 heures 00", 
+          {
+            "p": [
+              "Maison Communale de Mont-sain-Guibert - Grand'Rue, 39 - 1435 Mont-saint-Guibert"
+            ]
+          }, 
+          {
+            "h": [
+              "Ordre du jour", 
+              {
+                "h": [
+                  {
+                    "h": [
+                      {
+                        "li class=\"obj\"": [
+                          "1. Approbation du procès-verbal de la séance précédente.", 
+                          "2. IBW - Approbation des points inscrits à l'ordre du jour de l'assemblée générale du 14 décembre 2016.", 
+                          "3. SEDIFIN - Approbation du point inscrit à l'ordre du jour de l'Assemblée générale du 13 décembre 2016.", 
+                          "4. Fabrique d'église d'Hévillers - Modification budgétaire n°2 de l'exercice 2016 -Approbation.", 
+                          "5. Travaux - Marché public - \"Achat d'une mini-pelle pour les cimetières - Mode de passation du marché et approbation du cahier des charges.", 
+                          "6. Travaux - Réalisation de travaux de voiries (Sécurisations, piste cyclable et divers aménagements) - Désignation d'un auteur de projet - Mode de passation du marché et approbation du cahier spécial des charges.", 
+                          "7. Personnel du service technique - Formation permis de conduire CE-CEI avec certificat d'aptitude professionnelle - Mode de passation du marché et approbation du cahier des charges.", 
+                          "8. Mobilité - ramassage scolaire d'une personne à mobilité réduite - rue de Bierbais - Pose d'un panneau de signalisation - Approbation.", 
+                          "9. Modification budgétaire communale n°2 de l'exercice 2016 - Approbation."
+                        ]
+                      }
+                    ]
+                  }, 
+                  "Séance à huis clos", 
+                  {
+                    "h": [
+                      {
+                        "li class=\"obj\"": [
+                          "10. Désignation d'un agent de niveau D dans le cadre de la mobilité."
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          {
+            "p": [
+              {
+                "li": [
+                  "Le Directeur général Alain Chevalier", 
+                  "Le Bourgmestre, Philippe Evrard"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Enveloppe": [
+      {
+        "id_ddr": "2016-11-17T20-00_gWbrCmnMontSaintGuibert-clg-3_consCmn-seancePublique-4_odj-4"
+      }, 
+      {
+        "Stamps": [
+          {
+            "op_tpl:": [
+              "web_detect", 
+              "web_grab", 
+              "web_remove", 
+              "email_delivery", 
+              "email_sended", 
+              "pmail_delivery", 
+              "pmail_sended", 
+              "doc_creation", 
+              "doc_signature", 
+              "add_content_silocanceled_with_notification", 
+              "canceled_without_notification"
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_detect"
+              }, 
+              {
+                "dt": "2016-11-10T10-00"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "www.mont-saint-guibert.be/ma-commune/vie-politique/conseil-communal/Ordre-du-jour-et-proces-verbaux"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_grab"
+              }, 
+              {
+                "dt": "2016-11-15T16:32"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://www.mont-saint-guibert.be/ma-commune/vie-politique/conseil-communal/Ordre-du-jour-et-proces-verbaux/ordre-du-jour-du-conseil-du-17-11-2016-1.pdf"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "doc_signature"
+              }, 
+              {
+                "dt": "2016-11-09"
+              }, 
+              {
+                "authors": "Institution"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "add_content_silo"
+              }, 
+              {
+                "dt": "2016-11-15T16:32"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_ddr_doc_dw"
+              }, 
+              {
+                "dt": "2016-11-15T16:32"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "https://is.gd/mXnkHt"
+              }, 
+              {
+                "note": "from_web"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Metadata": [
+      {
+        "tags": null
+      }, 
+      {
+        "faces": null
+      }, 
+      {
+        "Has_info_doc": [
+          {
+            "info_tpl": "doc ; env ; pull"
+          }, 
+          {
+            "pull_src": null
+          }, 
+          {
+            "Src": [
+              {
+                "place": "doc"
+              }, 
+              {
+                "date": "doc"
+              }, 
+              {
+                "idvs": "doc"
+              }, 
+              {
+                "roles": "doc"
+              }, 
+              {
+                "orgs": "doc, env"
+              }
+            ]
+          }, 
+          {
+            "Dst": [
+              {
+                "to_public": "t"
+              }
+            ]
+          }, 
+          {
+            "Event": [
+              {
+                "date": "doc ; env"
+              }, 
+              {
+                "time": "doc ; env"
+              }, 
+              {
+                "adr_doc_tsbr_io": "_0000_0000"
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "Coding": [
+          {
+            "values": "pdf-image"
+          }, 
+          {
+            "tree_odj": "li class=\"obj\""
+          }, 
+          {
+            "title": 1
+          }, 
+          {
+            "comment": 0
+          }, 
+          {
+            "action_request": null
+          }, 
+          {
+            "noise": 0
+          }
+        ]
+      }, 
+      {
+        "Licence": [
+          {
+            "DroitDeRegard": [
+              {
+                "Licence": "CC-BY-SA-NC"
+              }, 
+              {
+                "Auteur": "Patrick Installé 2013"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Taxonomy": [
+      {
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      }, 
+      {
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+      }, 
+      {
+        "foaf": "http://xmlns.com/foaf/0.1/"
+      }, 
+      {
+        "bio": "http://purl.org/vocab/bio/0.1/"
+      }, 
+      {
+        "dc": "http://purl.org/dc/terms/"
+      }, 
+      {
+        "lang": "http://purl.org/net/inkel/rdf/schemas/lang/1.1#"
+      }, 
+      {
+        "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#"
+      }, 
+      {
+        "doac": "http://ramonantonio.net/doac/0.1/"
+      }, 
+      {
+        "menow": "http://schema.peoplesdns.com/menow/"
+      }, 
+      {
+        "sioc": "http://rdfs.org/sioc/ns#"
+      }, 
+      {
+        "owl": "http://www.w3.org/2002/07/owl#"
+      }, 
+      {
+        "admin": "http://webns.net/mvcb/"
+      }, 
+      {
+        "rel": "http://purl.org/vocab/relationship/"
+      }
+    ]
+  }
+]

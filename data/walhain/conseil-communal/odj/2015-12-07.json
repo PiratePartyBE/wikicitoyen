@@ -1,0 +1,318 @@
+[
+  {
+    "Content": [
+      {
+        "h": [
+          {
+            "h": [
+              "Commune de Walhain", 
+              {
+                "h": [
+                  "Conseil communal", 
+                  {
+                    "p": [
+                      "www.walhain.be, le samedi 5 décembre 2015 à 9-10 heures", 
+                      "Séance publique commune du CONSEIL COMMUNAL et du CONSEIL DE L’ACTION SOCIALE du 7 décembre 2015", 
+                      "La prochaine séance publique commune du Conseil communal et du Conseil de l’Action Sociale se tiendra le lundi 7 décembre 2015 à 18h en la Salle des Boscailles, avec l’ordre du jour suivant :", 
+                      "Quand ?  07/12/2015 de 18:00 à 20:00", 
+                      "Où ? Salles des Boscailles", 
+                      "Mesdames, Messieurs, du CONSEIL DE L’ACTION SOCIALE – Convocation", 
+                      "En application de l’article 1122-11 du Code de la démocratie locale et de la décentralisation etde l’article 26bis, § 5, alinéa 2, de la loi du 8 juillet 1976 organique des centres publics d’action sociale, nous avons l’honneur de vous prier d’assister à une séance commune que tiendront le Conseil communal et le Conseil de l’Action Sociale le 7 décembre 2015 à 18h00 en la Salle des Boscailles, avec l’ordre du jour suivant :", 
+                      "Veuillez agréer, Mesdames, Messieurs, l’assurance de notre considération distinguée."
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          "Invitation à la séance du lundi 7 décembre 2015 à 18 heures 00", 
+          {
+            "p": [
+              "Salles des Boscailles - 11, rue Chapelle-Sainte-Anne à 1457 Walhain"
+            ]
+          }, 
+          {
+            "h": [
+              "Ordre du jour", 
+              {
+                "h": [
+                  "Séance publique", 
+                  {
+                    "h": [
+                      {
+                        "li class=\"obj\"": [
+                          "1ère objet : Rapport 2015 relatif aux synergies et aux économies d’échelle – Information ;", 
+                          "2ème objet : Projets de construction de logements publics dans le cadre des plans d’ancrages – Etat des dossiers – Information ;", 
+                          "3ème objet : Crèche communale Le Petit Favia – Rapport de la Présidente – Information ;", 
+                          "4ème objet : Travaux et projets du Conseil Consultatif de la Personne Handicapée – Rapport de la Présidente – Information ;", 
+                          "5ème objet : Travaux et projets du Conseil Consultatif des Aînés – Rapport du Président – Information ;", 
+                          "6ème objet : Crise des migrants – Initiatives et perspectives en matière d’accueil des demandeurs d’asile – Information."
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          {
+            "li": [
+              "La Directrice générale du CPAS, V. BARTHOLOMEE ", 
+              "Le Président du CPAS, R. FLAHAUT ", 
+              "Le Directeur général de la Commune, Ch. LEGAST", 
+              "La Bourgmestre, L. SMETS"
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Enveloppe": [
+      {
+        "id_ddr": "2015-12-07T18-00_gWbrCmnWalhain-clg-3_consCmn-seancePublique-4_odj-4"
+      }, 
+      {
+        "Stamps": [
+          {
+            "op_tpl:": [
+              "web_detect", 
+              "web_grab", 
+              "web_remove", 
+              "email_delivery", 
+              "email_sended", 
+              "pmail_delivery", 
+              "pmail_sended", 
+              "doc_creation", 
+              "doc_signature", 
+              "add_content_silocanceled_with_notification", 
+              "canceled_without_notification"
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_detect"
+              }, 
+              {
+                "dt": "2015-12-05T10-01"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "www.walhain.be/."
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_grab"
+              }, 
+              {
+                "dt": "2015-12-05T10:32"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://www.walhain.be/ma-commune/vie-politique/conseil-communal/seance-publique-commune-du-conseil-communal-et-du-conseil-de-l2019action-sociale-2013-convocation"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "add_content_silo"
+              }, 
+              {
+                "dt": "2015-12-05T10:32"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_ddr_doc_dw"
+              }, 
+              {
+                "dt": "2015-12-05T10:32"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://tinyurl.com/ozkm5by"
+              }, 
+              {
+                "note": "from_web"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Metadata": [
+      {
+        "tags": null
+      }, 
+      {
+        "faces": null
+      }, 
+      {
+        "Has_info_doc": [
+          {
+            "info_tpl": "doc ; env ; pull"
+          }, 
+          {
+            "pull_src": null
+          }, 
+          {
+            "Src": [
+              {
+                "place": null
+              }, 
+              {
+                "date": null
+              }, 
+              {
+                "idvs": null
+              }, 
+              {
+                "roles": "doc"
+              }, 
+              {
+                "orgs": "env"
+              }
+            ]
+          }, 
+          {
+            "Dst": [
+              {
+                "to_public": "i"
+              }
+            ]
+          }, 
+          {
+            "Event": [
+              {
+                "date": "doc ; env"
+              }, 
+              {
+                "time": "doc"
+              }, 
+              {
+                "adr_doc_tsbr_io": "_0010_0000"
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "Coding": [
+          {
+            "values": "html"
+          }, 
+          {
+            "tree_odj": "li"
+          }, 
+          {
+            "title": 1
+          }, 
+          {
+            "comment": 0
+          }, 
+          {
+            "action_request": null
+          }, 
+          {
+            "noise": 0
+          }
+        ]
+      }, 
+      {
+        "Licence": [
+          {
+            "DroitDeRegard": [
+              {
+                "Licence": "CC-BY-SA-NC"
+              }, 
+              {
+                "Auteur": "Patrick Installé 2013"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Taxonomy": [
+      {
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      }, 
+      {
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+      }, 
+      {
+        "foaf": "http://xmlns.com/foaf/0.1/"
+      }, 
+      {
+        "bio": "http://purl.org/vocab/bio/0.1/"
+      }, 
+      {
+        "dc": "http://purl.org/dc/terms/"
+      }, 
+      {
+        "lang": "http://purl.org/net/inkel/rdf/schemas/lang/1.1#"
+      }, 
+      {
+        "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#"
+      }, 
+      {
+        "doac": "http://ramonantonio.net/doac/0.1/"
+      }, 
+      {
+        "menow": "http://schema.peoplesdns.com/menow/"
+      }, 
+      {
+        "sioc": "http://rdfs.org/sioc/ns#"
+      }, 
+      {
+        "owl": "http://www.w3.org/2002/07/owl#"
+      }, 
+      {
+        "admin": "http://webns.net/mvcb/"
+      }, 
+      {
+        "rel": "http://purl.org/vocab/relationship/"
+      }
+    ]
+  }
+]

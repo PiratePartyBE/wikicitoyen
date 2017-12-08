@@ -1,0 +1,687 @@
+[
+  {
+    "Content": [
+      {
+        "h": [
+          {
+            "h": [
+              "Commune de Tubize", 
+              {
+                "h": [
+                  "Conseil communal", 
+                  {
+                    "p": [
+                      "www.tubize.be, le lundi 1 juin 2015 à 15-16 heures", 
+                      "COMMUNE DE TUBIZE 29/05/15", 
+                      "CONSEIL COMMUNAL", 
+                      "Séance du 08 juin 2015 à 20H00 Maison communale"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          "Séance du lundi 8 juin 2015 à 20 heures 00", 
+          {
+            "p": [
+              "Salle A 1er étage - Maison communale - Grand Place, 1 - 1480 Tubize"
+            ]
+          }, 
+          {
+            "h": [
+              "Ordre du jour", 
+              {
+                "h": [
+                  "Séance publique", 
+                  {
+                    "h": [
+                      {
+                        "li class=\"obj\"": [
+                          "1. Approbation du procès-verbaf du conseil du 11 mai 2015", 
+                          {
+                            "li": [
+                              "Service des Affaires générales"
+                            ]
+                          }, 
+                          "2. Convention entre la commune et l'ASBL GIAL", 
+                          {
+                            "li": [
+                              "Service des Affaires générales"
+                            ]
+                          }, 
+                          "3. Règlement d'ordre intérieur du Conseil communal - Modifications relatives au droit de regard et aux droits annexes des conseillers communaux", 
+                          {
+                            "li": [
+                              "Service des Affaires générales"
+                            ]
+                          }, 
+                          "4. Société coopérative des Habitations Sociales du Roman Paï's - Assemblée générale des Sociétaires du 24 juin 2015", 
+                          {
+                            "li": [
+                              "Service des Affaires générales"
+                            ]
+                          }, 
+                          "5. Intercommunale SEDIFIN - Assemblée générale du 30 juin 2015", 
+                          {
+                            "li": [
+                              "Service des Affaires générales"
+                            ]
+                          }, 
+                          "6. Intercommunale ORES Assets - Assemblée générale du 25 juin 2015", 
+                          {
+                            "li": [
+                              "Service des Affaires générales"
+                            ]
+                          }, 
+                          "7. Intercommunale I.S.B.W.- Assemblée générale du 24 juin 2015", 
+                          {
+                            "li": [
+                              "Service des Affaires générales"
+                            ]
+                          }, 
+                          "8. Intercommunale IBW - Assemblées générales ordinaire et extraordinaire du 23 juin 2015", 
+                          {
+                            "li": [
+                              "Service des Affaires générales"
+                            ]
+                          }, 
+                          "9. Demande de subvention à la Province - Achat et installation de panneaux led", 
+                          {
+                            "li": [
+                              "Service Communication"
+                            ]
+                          }, 
+                          "10. Demande de subvention à la Province - Marché communal de Noël 2015", 
+                          {
+                            "li": [
+                              "Service Communication"
+                            ]
+                          }, 
+                          "11. Marché public : Désamïantage de l'école Cheval Bayard (Square Larder) - Commande", 
+                          {
+                            "li": [
+                              "Service Recette"
+                            ]
+                          }, 
+                          "12. Marché public : Désignation d'un auteur de projet pour l'aménagement des cimetières - Mode de passation et Cahier spécial des charges", 
+                          {
+                            "li": [
+                              "Service Recette"
+                            ]
+                          }, 
+                          "13. Marché public : Rénovation des toitures de l'ancienne Maison communale de Clabecq - Mode de passation et Cahier spécial des charges", 
+                          {
+                            "li": [
+                              "Service Recette"
+                            ]
+                          }, 
+                          "14. Marché public : Acquisition d'une mini pelle sur chenilles pour les cimetières - Mode de passation et Cahier spécial des charges", 
+                          {
+                            "li": [
+                              "Service Recette"
+                            ]
+                          }, 
+                          "15. Marché public : Acquisition d'un broyeur de branche - Mode de passation et Cahier spécial des charges", 
+                          {
+                            "li": [
+                              "Service Recette"
+                            ]
+                          }, 
+                          "16. Marché public : Achat de guirlandes et d'illuminations de Noël 2015 - Mode de passation et Cahier spécial des charges", 
+                          {
+                            "li": [
+                              "Service Recette"
+                            ]
+                          }, 
+                          "17. Marché public : Réaménagement de la rue Pont Demeur - Modification du Cahier spécial des charges - Avis rectificatif n°l", 
+                          {
+                            "li": [
+                              "Service Recette"
+                            ]
+                          }, 
+                          "18. Réaménagement du Quartier Saint Jean - Droit de tirage : Aménagement des trottoirs Drève des Pinsons (partie) et Avenue des papillons et à la rue des Rossignols - Factures impayées de Survey & Aménagement.", 
+                          {
+                            "li": [
+                              "Service Recette"
+                            ]
+                          }, 
+                          "19. Dépense sans bon de commande - Service communication - Rejet de la dépense - article 60 du RGCC.", 
+                          {
+                            "li": [
+                              "Service Recette"
+                            ]
+                          }, 
+                          "20. Démission du commissaire-réviseur de la régie autonome Maison des Sports", 
+                          {
+                            "li": [
+                              "Service Recette"
+                            ]
+                          }, 
+                          "21. Maison des Sports - Désignation d'un liquidateur.", 
+                          {
+                            "li": [
+                              "Service Recette"
+                            ]
+                          }, 
+                          "22. Compte communal 2014.", 
+                          {
+                            "li": [
+                              "Service Recette"
+                            ]
+                          }, 
+                          "23. Approbation des comptes 2014 pour la Fabrique d'Eglise Notre-Dame Immaculée à Tubize.", 
+                          {
+                            "li": [
+                              "Service Recette"
+                            ]
+                          }, 
+                          "24. Approbation des comptes 2014 pour la Fabrique d'Eglise Saint-Gertrude à Tubize.", 
+                          {
+                            "li": [
+                              "Service Recette"
+                            ]
+                          }, 
+                          "25. Approbation des comptes 2014 pour la Fabrique d'Eglise Saint-Martin de Oisquercq.", 
+                          {
+                            "li": [
+                              "Service Recette"
+                            ]
+                          }, 
+                          "26. RFI - Marché public : Réalisation d'un nouveau pont sur la Senne et reconstruction des berges de la Senne - Mode de passation et Cahier spécial des charges", 
+                          {
+                            "li": [
+                              "Service Recette"
+                            ]
+                          }, 
+                          "27. Règlement complémentaire sur le roulage- Rue des Combattants - Modification du sens de circulation", 
+                          {
+                            "li": [
+                              "Service des Travaux"
+                            ]
+                          }, 
+                          "28. Règlement complémentaire sur le roulage- rue Raymond Pieret - Création d'un stationnement et d'un aménagement pour limiter la vitesse des véhicules", 
+                          {
+                            "li": [
+                              "Service des Travaux"
+                            ]
+                          }, 
+                          "29. Règlement complémentaire sur le roulage - Rue Saint-Jean n°56- Création d'une zone de chargement et déchargement de personne", 
+                          {
+                            "li": [
+                              "Service des Travaux"
+                            ]
+                          }, 
+                          "30. Règlement complémentaire sur le roulage - Emplacements pour personne handicapée PMR", 
+                          {
+                            "li": [
+                              "Service des Travaux"
+                            ]
+                          }, 
+                          "31. Elaboration du projet Eclairage public - Amélioration de l'éclairage public, Rue des Aubépines, Rue des Platanes et rue Raymond Pièret ~ Délibération de principe de réaliser un projet.", 
+                          {
+                            "li": [
+                              "Service des Travaux"
+                            ]
+                          }, 
+                          "32. 2015/005 - Avenue de Mirande, 120 - approbation des modifications d'aménagements de voïries/chemîn existants et création d'une nouvelle voirie en intérieur de site", 
+                          {
+                            "li": [
+                              "Service Urbanisme et Environnement"
+                            ]
+                          }, 
+                          "33. Emprise en pleine terre - Rue des Déportés - Ry du Vratmont - Adaptation - Approbation", 
+                          {
+                            "li": [
+                              "Service Urbanisme et Environnement"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }, 
+                  "Séance à huis clos", 
+                  {
+                    "h": [
+                      {
+                        "li class=\"obj\"": [
+                          "34. Conseil Consultatif Communal des Aînés (C.C.C.A.) - Démission d'un membre désigné par le conseil communal", 
+                          {
+                            "li": [
+                              "Service des Affaires générales"
+                            ]
+                          }, 
+                          "35. Enseignement fondamental - Démission volontaire à mi-temps - Institutrice primaire en immersion en langue néerlandaise (M.C)", 
+                          {
+                            "li": [
+                              "Service du Personnel"
+                            ]
+                          }, 
+                          "36. Enseignement fondamental - Démission au 31 août 2015 pour pension de retraite au 1er septembre 2015 -Maîtresse spéciale de religion protestante", 
+                          {
+                            "li": [
+                              "Service du Personnel"
+                            ]
+                          }, 
+                          "37. Enseignement fondamental - Démission au 30 avril 2016 pour pension de retraite au 1er mai 2016 - Institutrice primaire", 
+                          {
+                            "li": [
+                              "Service du Personnel"
+                            ]
+                          }, 
+                          "38. Enseignement fondamental - Nomination à titre définitif pour 13 périodes complémentaires - Institutrice maternelle", 
+                          {
+                            "li": [
+                              "Service du Personnel"
+                            ]
+                          }, 
+                          "39. Enseignement fondamental - Nomination à titre définitif pour 8 périodes - Maîtresse spéciale de psychomotricité", 
+                          {
+                            "li": [
+                              "Service du Personnel"
+                            ]
+                          }, 
+                          "40. Académie de Musique François Daneels - Ratification de désignation à titre temporaire - Professeur de Flûte traversière - 2 périodes complémentaires", 
+                          {
+                            "li": [
+                              "Service du Personnel"
+                            ]
+                          }, 
+                          "41. Enseignement communal - Ratification de désignation temporaire - Maîtresse spéciale de psychomotricité sous statut APE", 
+                          {
+                            "li": [
+                              "Service du Personnel"
+                            ]
+                          }, 
+                          "42. Enseignement communal - Ratification de désignation temporaire - Institutrice maternelle (2)", 
+                          {
+                            "li": [
+                              "Service du Personnel"
+                            ]
+                          }, 
+                          "43. Enseignement communal - Ratification de désignation temporaire - Institutrice maternelle et maîtresse spéciale de psychomotricité (3)", 
+                          {
+                            "li": [
+                              "Service du Personnel"
+                            ]
+                          }, 
+                          "44. Enseignement communal - Ratification de désignation temporaire - Institutrice maternelle (1)", 
+                          {
+                            "li": [
+                              "Service du Personnel"
+                            ]
+                          }, 
+                          "45. Enseignement communal - Ratification de désignation temporaire - Institutrice maternelle et maîtresse spéciale de psychomotricîté (1)", 
+                          {
+                            "li": [
+                              "Service du Personnel"
+                            ]
+                          }, 
+                          "46. Enseignement communal - Ratification de désignation temporaire - Institutrice maternelle et maîtresse de psychomotricité (2)", 
+                          {
+                            "li": [
+                              "Service du Personnel"
+                            ]
+                          }, 
+                          "47. Académie de Musique François Daneels de Tubize - Ratification de réduction d'horaire - Professeur de Formation musicale", 
+                          {
+                            "li": [
+                              "Service du Personnel"
+                            ]
+                          }, 
+                          "48. Ecole communale de Saintes - Ratification de désignation temporaire - Institutrice primaire", 
+                          {
+                            "li": [
+                              "Service du Personnel"
+                            ]
+                          }, 
+                          "49. Ecole communale fondamentale de Saintes - Ratification de désignation temporaire - Instituteur primaire et maître de morale", 
+                          {
+                            "li": [
+                              "Service du Personnel"
+                            ]
+                          }, 
+                          "50. Ecole communale Cheval Bayard de Clabecq - Ratification de désignation à titre temporaire - Puéricultrice sous statut APE", 
+                          {
+                            "li": [
+                              "Service du Personnel"
+                            ]
+                          }, 
+                          "51. Ecole communale Cheval Bayard de Clabecq - Ratification de désignation à titre temporaire - Maître spécial d'éducation physique", 
+                          {
+                            "li": [
+                              "Service du Personnel"
+                            ]
+                          }, 
+                          "52. Ecole communale fondamentale de Saintes - Ratification de désignation temporaire - Maîtresse spéciale de morale laïque (J.W.)", 
+                          {
+                            "li": [
+                              "Service du Personnel"
+                            ]
+                          }, 
+                          "53. Enseignement communal - Ratification de désignation temporaire - Institutrice maternelle (3)", 
+                          {
+                            "li": [
+                              "Service du Personnel"
+                            ]
+                          }, 
+                          "54. Enseignement communal - Ratification de désignation temporaire - Institutrice maternelle et maîtrese spéciale de psychomotricîté (CL.)", 
+                          {
+                            "li": [
+                              "Service du Personnel"
+                            ]
+                          }, 
+                          "55. Académie de Musique François Daneels de Tubize - Ratification de désignation temporaire - Professeur de violoncelle", 
+                          {
+                            "li": [
+                              "Service du Personnel"
+                            ]
+                          }, 
+                          "56. Enseignement communal - Ratification de désignation temporaire - Maîtresse spéciale de psychomotricîté et d'éducation physique", 
+                          {
+                            "li": [
+                              "Service du Personnel"
+                            ]
+                          }, 
+                          "57. Enseignement artistique - Nomination à titre définitif pour 5 périodes - Professeur de violoncelle", 
+                          {
+                            "li": [
+                              "Service du Personnel"
+                            ]
+                          }, 
+                          "58. Enseignement artistique - Nomination à titre définitif pour 15 périodes - Professeur de violon", 
+                          {
+                            "li": [
+                              "Service du Personnel"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          {
+            "p": [
+              "PAR LE COLLEGE :", 
+              {
+                "li": [
+                  "Le Directeur général E. Laurent", 
+                  "Le Bourgmestre, M. JANUTH"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Enveloppe": [
+      {
+        "id_ddr": "2015-06-08T20-00_gWbrCmnTubize-clg-3_consCmn-seancePublique-4_odj-4"
+      }, 
+      {
+        "Stamps": [
+          {
+            "op_tpl:": [
+              "web_detect", 
+              "web_grab", 
+              "web_remove", 
+              "email_delivery", 
+              "email_sended", 
+              "pmail_delivery", 
+              "pmail_sended", 
+              "doc_creation", 
+              "doc_signature", 
+              "add_content_silocanceled_with_notification", 
+              "canceled_without_notification"
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_detect"
+              }, 
+              {
+                "dt": "2015-06-01T16-01"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "www.tubize.be/."
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_grab"
+              }, 
+              {
+                "dt": "2015-06-01T22:51"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://www.tubize.be/accueil-tubize/actualites?task=callelement&format=raw&item_id=1435&element=409dad7e-1ea9-4fcd-9cb6-2dbda820a433&method=download"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "doc_signature"
+              }, 
+              {
+                "dt": "2015-05-29"
+              }, 
+              {
+                "authors": "Institution"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "add_content_silo"
+              }, 
+              {
+                "dt": "2015-06-01T22:51"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_ddr_doc_dw"
+              }, 
+              {
+                "dt": "2015-06-01T22:51"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://tinyurl.com/nc3apxl"
+              }, 
+              {
+                "note": "from_web"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Metadata": [
+      {
+        "tags": null
+      }, 
+      {
+        "faces": null
+      }, 
+      {
+        "Has_info_doc": [
+          {
+            "info_tpl": "doc ; env ; pull"
+          }, 
+          {
+            "pull_src": null
+          }, 
+          {
+            "Src": [
+              {
+                "place": "doc"
+              }, 
+              {
+                "date": "doc"
+              }, 
+              {
+                "idvs": "doc"
+              }, 
+              {
+                "roles": "doc"
+              }, 
+              {
+                "orgs": "doc ; env"
+              }
+            ]
+          }, 
+          {
+            "Dst": [
+              {
+                "to_public": "t"
+              }
+            ]
+          }, 
+          {
+            "Event": [
+              {
+                "date": "doc"
+              }, 
+              {
+                "time": "doc"
+              }, 
+              {
+                "adr_doc_tsbr_io": "_0010_0000"
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "Coding": [
+          {
+            "values": "pdf-image"
+          }, 
+          {
+            "tree_odj": "h-li"
+          }, 
+          {
+            "title": 1
+          }, 
+          {
+            "comment": 0
+          }, 
+          {
+            "action_request": null
+          }, 
+          {
+            "noise": 0
+          }
+        ]
+      }, 
+      {
+        "Licence": [
+          {
+            "DroitDeRegard": [
+              {
+                "Licence": "CC-BY-SA-NC"
+              }, 
+              {
+                "Auteur": "Patrick Installé 2013"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Taxonomy": [
+      {
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      }, 
+      {
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+      }, 
+      {
+        "foaf": "http://xmlns.com/foaf/0.1/"
+      }, 
+      {
+        "bio": "http://purl.org/vocab/bio/0.1/"
+      }, 
+      {
+        "dc": "http://purl.org/dc/terms/"
+      }, 
+      {
+        "lang": "http://purl.org/net/inkel/rdf/schemas/lang/1.1#"
+      }, 
+      {
+        "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#"
+      }, 
+      {
+        "doac": "http://ramonantonio.net/doac/0.1/"
+      }, 
+      {
+        "menow": "http://schema.peoplesdns.com/menow/"
+      }, 
+      {
+        "sioc": "http://rdfs.org/sioc/ns#"
+      }, 
+      {
+        "owl": "http://www.w3.org/2002/07/owl#"
+      }, 
+      {
+        "admin": "http://webns.net/mvcb/"
+      }, 
+      {
+        "rel": "http://purl.org/vocab/relationship/"
+      }
+    ]
+  }
+]

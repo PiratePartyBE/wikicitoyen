@@ -1,0 +1,370 @@
+[
+  {
+    "Content": [
+      {
+        "h": [
+          {
+            "h": [
+              "Commune de Tubize", 
+              {
+                "h": [
+                  "Conseil communal", 
+                  {
+                    "p": [
+                      "www.tubize.be, le vendredi 4 novembre 2016 à 8-9 heures", 
+                      "COMMUNE DE TUBIZE", 
+                      "Tubize, le 4 novembre 2016", 
+                      "CONSEIL COMMUNAL", 
+                      "Séance du 14 novembre 2016 à 20:00 Maison communale"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          "Séance du lundi 14 novembre 2016 à 19 heures 30", 
+          {
+            "p": [
+              "Salle A 1er étage - Maison communale - Grand Place, 1 - 1480 Tubize"
+            ]
+          }, 
+          {
+            "h": [
+              "Ordre du jour", 
+              {
+                "h": [
+                  "Séance publique", 
+                  {
+                    "h": [
+                      {
+                        "li class=\"obj\"": [
+                          "1. Prestation de serment du Conseil Communal des Jeunes", 
+                          "2. Démission d'une conseillère communale - Mme Virginie SMOOS", 
+                          "3. Installation d'un conseiller communal - M. Bob MONARD", 
+                          "4. Approbation du procès-verbal du conseil du 10 octobre 2016", 
+                          "5. IMIO - Convocation aux Assemblées générales ordinaire et extraordinaire du 24 novembre 2016 - Approbation des points portés à l'ordre du jour", 
+                          "6. Intercommunale SEDIFIN - Assemblée générale statutaire du 13 décembre 2016", 
+                          "7. I.B.W. - Assemblée générale ordinaire du 14 décembre 2016", 
+                          "8. Province du Brabant wallon - Convention fixant les modalités de recours à un fonctionnaire sanctionnateur provincial en application de l'arrêté royal du 9 mars 2014 relatif aux sanctions administratives communales pour les infractions en matière d'arrêt et de stationnement - Modification", 
+                          "9. Modification du règlement relatif aux occupations du domaine public par des terrasses et assimilés le jour du marché hebdomadaire", 
+                          "10. Accueil Temps Libre - Plan d'Action Annuel 2016-2017", 
+                          "11. Tutelle spéciale d'approbation - modification budgétaire 1/2016 ordinaire et extraordinaire du C.P.A.S.", 
+                          "12. Tutelle spéciale d'approbation sur le budget 2017 du C.P.A.S.", 
+                          "13. Trésorerie communale - Situation de caisse du 3ème trimestre 2016.", 
+                          "14. RDI - Budget 2016 - Approbation.", 
+                          "15. Fabrique d'église Notre-Dame Immaculée à Tubize - Budget 2016 - Modification Budgétaire.", 
+                          "16. Renouvellement du réseau EP suite au renouvellement des installations BT et Gaz \"Rue Raymond Pieret\" -Approbation du projet définitif et du dossier de marché de fourniture", 
+                          "17. Renouvellement du réseau EP - Avenue des Aubépines, Avenue des Platanes et Avenue des Sorbiers - Approbation du projet et du dossier de marché de fourniture", 
+                          "18. Plan d'Investissement Communal (PIC) 2017- 2018- Dossiers à introduire- Approbation", 
+                          "19. Rue du Roi Jardin - Partie du domaine public - Désaffectation du bien et accord de principe sur la cession", 
+                          "20. Mobilité - RCCR - stationnement rue Cité de la Soierie", 
+                          "21. Mobilité - RCCR - problématique du stationnement des poids lourds chaussée d'Enghien", 
+                          "22. Demande de permis d'urbanisme n° 2016/059 - Rue du Canal - démolition-construction d'un pont - approbation des modifications du tracé de la voirie", 
+                          "23. Divers"
+                        ]
+                      }
+                    ]
+                  }, 
+                  "Séance à huis clos", 
+                  {
+                    "h": [
+                      {
+                        "li class=\"obj\"": [
+                          "24. Intercommunale Sociale du Brabant Wallon (I.S.B.W.) - Désignation d'un délégué aux assemblées générales en remplacement d'un délégué démissionnaire", 
+                          "25. Commission du Conseil communal de la jeunesse et des sports - Modification de composition", 
+                          "26. Commission du Conseil communal Inondations - Modification de composition", 
+                          "27. Commission du Conseil communal des Requêtes, des Affaires Générales et des Affaires Sociales - Modification de composition", 
+                          "28. Commission du Conseil communal des travaux / Enseignement / Economie Sociale - Modification de composition", 
+                          "29. Commission du Conseil communal de l'environnement et du développement durable, de la culture et de la famille-santé-aînés - Modification de composition", 
+                          "30. Désignation d'agents constatateurs"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          {
+            "p": [
+              "PAR LE COLLEGE :", 
+              {
+                "li": [
+                  "Le Directeur général, E. LAURENT", 
+                  "Le Bourgmestre, M. JANUTH"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Enveloppe": [
+      {
+        "id_ddr": "2016-11-14T19-30_gWbrCmnTubize-clg-3_consCmn-seancePublique-4_odj-4"
+      }, 
+      {
+        "Stamps": [
+          {
+            "op_tpl:": [
+              "web_detect", 
+              "web_grab", 
+              "web_remove", 
+              "email_delivery", 
+              "email_sended", 
+              "pmail_delivery", 
+              "pmail_sended", 
+              "doc_creation", 
+              "doc_signature", 
+              "add_content_silocanceled_with_notification", 
+              "canceled_without_notification"
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_detect"
+              }, 
+              {
+                "dt": "2016-11-04T09-00"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "www.tubize.be/."
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_grab"
+              }, 
+              {
+                "dt": "2016-11-14T12:08"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://www.tubize.be/accueil-tubize/actualites?task=callelement&format=raw&item_id=1779&element=409dad7e-1ea9-4fcd-9cb6-2dbda820a433&method=download"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "doc_signature"
+              }, 
+              {
+                "dt": "2016-11-04"
+              }, 
+              {
+                "authors": "Institution"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "add_content_silo"
+              }, 
+              {
+                "dt": "2016-11-14T12:08"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_ddr_doc_dw"
+              }, 
+              {
+                "dt": "2016-11-14T12:08"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "https://is.gd/dIANsd"
+              }, 
+              {
+                "note": "from_web"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Metadata": [
+      {
+        "tags": null
+      }, 
+      {
+        "faces": null
+      }, 
+      {
+        "Has_info_doc": [
+          {
+            "info_tpl": "doc ; env ; pull"
+          }, 
+          {
+            "pull_src": null
+          }, 
+          {
+            "Src": [
+              {
+                "place": null
+              }, 
+              {
+                "date": "doc"
+              }, 
+              {
+                "idvs": "doc"
+              }, 
+              {
+                "roles": "doc"
+              }, 
+              {
+                "orgs": "doc ; env"
+              }
+            ]
+          }, 
+          {
+            "Dst": [
+              {
+                "to_public": "t"
+              }
+            ]
+          }, 
+          {
+            "Event": [
+              {
+                "date": "doc"
+              }, 
+              {
+                "time": "doc"
+              }, 
+              {
+                "adr_doc_tsbr_io": "_0010_0000"
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "Coding": [
+          {
+            "values": "pdf-image"
+          }, 
+          {
+            "tree_odj": "h > li class=\"obj\""
+          }, 
+          {
+            "title": 1
+          }, 
+          {
+            "comment": 0
+          }, 
+          {
+            "action_request": null
+          }, 
+          {
+            "noise": 0
+          }
+        ]
+      }, 
+      {
+        "Licence": [
+          {
+            "DroitDeRegard": [
+              {
+                "Licence": "CC-BY-SA-NC"
+              }, 
+              {
+                "Auteur": "Patrick Installé 2013"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Taxonomy": [
+      {
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      }, 
+      {
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+      }, 
+      {
+        "foaf": "http://xmlns.com/foaf/0.1/"
+      }, 
+      {
+        "bio": "http://purl.org/vocab/bio/0.1/"
+      }, 
+      {
+        "dc": "http://purl.org/dc/terms/"
+      }, 
+      {
+        "lang": "http://purl.org/net/inkel/rdf/schemas/lang/1.1#"
+      }, 
+      {
+        "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#"
+      }, 
+      {
+        "doac": "http://ramonantonio.net/doac/0.1/"
+      }, 
+      {
+        "menow": "http://schema.peoplesdns.com/menow/"
+      }, 
+      {
+        "sioc": "http://rdfs.org/sioc/ns#"
+      }, 
+      {
+        "owl": "http://www.w3.org/2002/07/owl#"
+      }, 
+      {
+        "admin": "http://webns.net/mvcb/"
+      }, 
+      {
+        "rel": "http://purl.org/vocab/relationship/"
+      }
+    ]
+  }
+]

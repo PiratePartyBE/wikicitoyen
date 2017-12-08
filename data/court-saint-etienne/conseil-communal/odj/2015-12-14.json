@@ -1,0 +1,375 @@
+[
+  {
+    "Content": [
+      {
+        "h": [
+          {
+            "h": [
+              "Commune de", 
+              {
+                "h": [
+                  "Conseil communal", 
+                  {
+                    "p": [
+                      "www.court-st-etienne.be, le vendredi 4 décembre 2015 à 14-15 heures", 
+                      "Commune de Court-Saint-Etienne", 
+                      "Convocation du conseil communal", 
+                      "Conformément à l’article L1122-12 du Code de la Démocratie locale et de la Décentralisation, le Collège communal a l’honneur de convoquer Mesdames et Messieurs les Conseillers, à la séance du Conseil communal qui aura lieu le lundi 14 décembre 2015 à 20H15' en la maison communale."
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          "Convocation à la séance du lundi 14 décembre 2015 à 20 heures 15", 
+          {
+            "p": [
+              "Maison communale rue des Ecoles n°1 à 1490 Court-Saint-Étienne"
+            ]
+          }, 
+          {
+            "h": [
+              "Ordre du jour", 
+              {
+                "h": [
+                  "Séance publique", 
+                  {
+                    "h": [
+                      "PROCES-VERBAL : ", 
+                      {
+                        "li class=\"obj\"": [
+                          "Approbation du procès-verbal de la séance du Conseil communal du 9 novembre 2015"
+                        ]
+                      }, 
+                      "POPULATION", 
+                      {
+                        "li class=\"obj\"": [
+                          "Démission d’un membre du Conseil de l’action sociale –Prise d’acte", 
+                          "Désignation d’un membre du Conseil de l’action sociale – Décision"
+                        ]
+                      }, 
+                      "INTERCOMMUNALES", 
+                      {
+                        "li class=\"obj\"": [
+                          "Académie de musique - Points à l’ordre du jour de l’Assemblée générale du 17 décembre 2015 - Avis", 
+                          "IECBW – Points à l’ordre du jour de l’Assemblée générale du 18 décembre 2015 - Avis", 
+                          "ORES ASSETS - Points à l’ordre du jour de l’Assemblée générale du 18 décembre 2015 - Avis"
+                        ]
+                      }, 
+                      "INFORMATIQUE", 
+                      {
+                        "li class=\"obj\"": [
+                          "SPW - Convention d’adhésion au marché de fourniture d’imprimantes, de scanners et de leurs accessoires - Adoption"
+                        ]
+                      }, 
+                      "MARCHES PUBLICS", 
+                      {
+                        "li class=\"obj\"": [
+                          "Marché de fournitures – Marché \"à commande\" Electricité : Approbation des conditions, du cahier spécial des charges et du mode de passation", 
+                          "Marché de fournitures – Marché \"à commande\" Boiserie : Approbation des conditions, du cahier spécial des charges et du mode de passation", 
+                          "Marché de services – Mission de géomètre : Approbation des conditions, du cahier spécial des charges et du mode de passation", 
+                          "MOBILITE Règlement complémentaire de roulage : Quartier de Wisterzée – Modification - Décision"
+                        ]
+                      }, 
+                      "PATRIMOINE", 
+                      {
+                        "li class=\"obj\"": [
+                          "Salles communales – Proposition d’une nouvelle tarification, d’un règlement d’ordre intérieur et de conventions - Décision"
+                        ]
+                      }, 
+                      "FINANCES", 
+                      {
+                        "li class=\"obj\"": [
+                          "Budget communal 2016 – Approbation", 
+                          "Zone de police – dotation communale 2016 – Approbation", 
+                          "Zone de secours – dotation communale 2015 – Approbation", 
+                          "Zone de secours – dotation communale 2016 - Approbation"
+                        ]
+                      }, 
+                      "INTERPELLATIONS EVENTUELLES DU COLLEGE COMMUNAL", 
+                      {
+                        "li class=\"obj\"": null
+                      }
+                    ]
+                  }, 
+                  "Séance à huis clos", 
+                  {
+                    "h": [
+                      "PERSONNEL COMMUNAL", 
+                      {
+                        "li class=\"obj\"": [
+                          "Ouvrier – confirmation du départ en pension de retraite - Prise d’acte", 
+                          "Recrutement d’un ouvrier – désignation sous contrat de remplacement APE durant un congé de maladie - Information"
+                        ]
+                      }, 
+                      "ENSEIGNEMENT", 
+                      {
+                        "li class=\"obj\"": [
+                          "Institutrice maternelle définitive en interruption de carrière à 4/5 ème temps – demande d’interruption de carrière à mi- temps au retour de son congé maladie – Ratification", 
+                          "Personnel enseignant temporaire – désignations - Ratifications", 
+                          "Instituteur primaire définitif – demande de congé pour convenance personnelle précédant la pension de retraite", 
+                          "(D.P.P.R.) - Approbation"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          {
+            "p": [
+              "P.O.", 
+              {
+                "li": [
+                  "La Directrice générale ff,", 
+                  "Le Bourgmestre,"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Enveloppe": [
+      {
+        "id_ddr": "2015-12-14T20-15_gWbrCmnCourtSaintEtienne-clg-3_consCmn-seancePublique-4_odj-4"
+      }, 
+      {
+        "Stamps": [
+          {
+            "op_tpl:": [
+              "web_detect", 
+              "web_grab", 
+              "web_remove", 
+              "email_delivery", 
+              "email_sended", 
+              "pmail_delivery", 
+              "pmail_sended", 
+              "doc_creation", 
+              "doc_signature", 
+              "add_content_silocanceled_with_notification", 
+              "canceled_without_notification"
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_detect"
+              }, 
+              {
+                "dt": "2015-12-04T15-01"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "www.court-st-etienne.be/la-commune/vie-politique/le%20conseil%20communal/proces-verbaux-et-ordre-du-jour/2015-1"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_grab"
+              }, 
+              {
+                "dt": "2015-12-04T16:36"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://www.court-st-etienne.be/la-commune/vie-politique/le%20conseil%20communal/proces-verbaux-et-ordre-du-jour/2015-1/OJ%20CONS%2020151214.pdf/at_download/file"
+              }, 
+              {
+                "note": ""
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "add_content_silo"
+              }, 
+              {
+                "dt": "2015-12-04T16:36"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_ddr_doc_dw"
+              }, 
+              {
+                "dt": "2015-12-04T16:36"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://tinyurl.com/j92qkk5"
+              }, 
+              {
+                "note": "from_web"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Metadata": [
+      {
+        "tags": null
+      }, 
+      {
+        "faces": null
+      }, 
+      {
+        "Has_info_doc": [
+          {
+            "info_tpl": "doc ; env ; pull"
+          }, 
+          {
+            "pull_src": null
+          }, 
+          {
+            "Src": [
+              {
+                "place": null
+              }, 
+              {
+                "date": null
+              }, 
+              {
+                "idvs": null
+              }, 
+              {
+                "roles": "doc"
+              }, 
+              {
+                "orgs": "doc ; env"
+              }
+            ]
+          }, 
+          {
+            "Dst": [
+              {
+                "to_public": "t"
+              }
+            ]
+          }, 
+          {
+            "Event": [
+              {
+                "date": "doc ; env"
+              }, 
+              {
+                "time": "doc"
+              }, 
+              {
+                "adr_doc_tsbr_io": "_0010_0000"
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "Coding": [
+          {
+            "values": "pdf-text"
+          }, 
+          {
+            "tree_odj": "h-li"
+          }, 
+          {
+            "title": 1
+          }, 
+          {
+            "comment": 0
+          }, 
+          {
+            "action_request": null
+          }, 
+          {
+            "noise": 0
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Taxonomy": [
+      {
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      }, 
+      {
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+      }, 
+      {
+        "foaf": "http://xmlns.com/foaf/0.1/"
+      }, 
+      {
+        "bio": "http://purl.org/vocab/bio/0.1/"
+      }, 
+      {
+        "dc": "http://purl.org/dc/terms/"
+      }, 
+      {
+        "lang": "http://purl.org/net/inkel/rdf/schemas/lang/1.1#"
+      }, 
+      {
+        "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#"
+      }, 
+      {
+        "doac": "http://ramonantonio.net/doac/0.1/"
+      }, 
+      {
+        "menow": "http://schema.peoplesdns.com/menow/"
+      }, 
+      {
+        "sioc": "http://rdfs.org/sioc/ns#"
+      }, 
+      {
+        "owl": "http://www.w3.org/2002/07/owl#"
+      }, 
+      {
+        "admin": "http://webns.net/mvcb/"
+      }, 
+      {
+        "rel": "http://purl.org/vocab/relationship/"
+      }
+    ]
+  }
+]

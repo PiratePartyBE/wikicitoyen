@@ -1,0 +1,346 @@
+[
+  {
+    "Content": [
+      {
+        "h": [
+          {
+            "h": [
+              "Commune de", 
+              {
+                "h": [
+                  "Conseil communal", 
+                  {
+                    "p": [
+                      "www.court-st-etienne.be, le vendredi 17 avril 2015 à 13-14 heures", 
+                      "Commune de Court-Saint-Etienne", 
+                      "Convocation du conseil communal", 
+                      "Conformément à l'article Ll 122-12 du Code de la Démocratie locale et de la Décentralisation, le Collège communal a l'honneur de convoquer Mesdames et Messieurs les Conseillers, à la séance du Conseil communal qui aura lieu le lundi, 27 avril 2015 à 20H15' en la maison communale."
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          "Convocation à la séance du lundi 27 avril 2015 à 20 heures 15", 
+          {
+            "p": [
+              "Maison communale rue des Ecoles n°1 à 1490 Court-Saint-Étienne"
+            ]
+          }, 
+          {
+            "h": [
+              "Ordre du jour", 
+              {
+                "h": [
+                  "Séance publique", 
+                  {
+                    "h": [
+                      "PROCES-VERBAL : ", 
+                      {
+                        "li class=\"obj\"": [
+                          "Approbation du procès-verbal de la séance du Conseil communal du 30 mars 2015 CPAS", 
+                          "Création de deux nouveaux services : Centrale des moins mobiles et buanderie sociale - Ratification POPULATION Convention de partenariat entre le Centre d'Intégration Sociale du Brabant Wallon et la commune dans le cadre de l'accueil des primo-arrivants - Approbation"
+                        ]
+                      }, 
+                      "INTERCOMMUNALES", 
+                      {
+                        "li class=\"obj\"": [
+                          "IM10 - Points à l'ordre du jour de l'Assemblée générale ordinaire du 4 juin 2015 - Avis PERSONNEL COMMUNAL", 
+                          "Organigramme et cadre du personnel communal statutaire et contractuel : modification - Approbation", 
+                          "Statut administratif 2008 - Annexe 1. Conditions de recrutement, d'évolution de carrière et de promotion: modifications - Approbation"
+                        ]
+                      }, 
+                      "ENSEIGNEMENT", 
+                      {
+                        "li class=\"obj\"": [
+                          "Ecoles communales - enseignement primaire - capital périodes au 01 septembre 2015- Approbation", 
+                          "Emplois vacants 2014 : maintien au 30 septembre 2014 en vue de nominations au 01 avril 2015 - Rectification"
+                        ]
+                      }, 
+                      "FINANCES", 
+                      {
+                        "li class=\"obj\"": [
+                          "Zone de police - Dotation 2015 - Arrêt", 
+                          "Demande d'un prêt d'aide extraordinaire, conclu dans le cadre du fonctionnement du C.R.A.C., en vue de participer aux dégrèvements liés aux contentieux S.A. BELGACOM - S.A. CONNECTIMMO (SPF Finances) au niveau du précompte immobilier - Ratification", 
+                          "Droit d'emplacement sur les marchés - Exercices 2015 à 2019 - Approbation par l'autorité de tutelle - Information Subsides 2015 aux associations : Modification - Approbation Subsides 2015 aux associations - Liquidation"
+                        ]
+                      }, 
+                      "INTERPELLATIONS EVENTUELLES DU COLLEGE COMMUNAL", 
+                      {
+                        "li class=\"obj\"": null
+                      }
+                    ]
+                  }, 
+                  "Séance à huis clos", 
+                  {
+                    "h": [
+                      "PERSONNEL COMMUNAL", 
+                      {
+                        "li class=\"obj\"": [
+                          "Recrutement d'un employé d'administration / magasinier au service des travaux : désignation sous contrat APE à durée indéterminée - Information"
+                        ]
+                      }, 
+                      "ENSEIGNEMENT", 
+                      {
+                        "li class=\"obj\"": [
+                          "Institutrice primaire temporaire: prolongation d'un remplacement dans le cadre d'un congé de maladie - Ratification (CA)", 
+                          "Institutrice primaire temporaire: prolongation d'un remplacement dans le cadre d'un congé de maladie - Ratification (SS)", 
+                          "Institutrice maternelle temporaire - désignation en remplacement dans le cadre d'un congé de maladie - Ratification (AI)", 
+                          "Institutrice primaire définitive - demande de congé pour prestations réduites - Décision (DV) Institutrice maternelle définitive - demande de congé pour convenance personnelle - Décision (RP)"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          {
+            "p": [
+              {
+                "li": [
+                  "P.O. La Directrice générale ff,", 
+                  "Le Bourgmestre,"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Enveloppe": [
+      {
+        "id_ddr": "2015-04-27T20-15_gWbrCmnCourtSaintEtienne-clg-3_consCmn-seancePublique-4_odj-4"
+      }, 
+      {
+        "Stamps": [
+          {
+            "op_tpl:": [
+              "web_detect", 
+              "web_grab", 
+              "web_remove", 
+              "email_delivery", 
+              "email_sended", 
+              "pmail_delivery", 
+              "pmail_sended", 
+              "doc_creation", 
+              "doc_signature", 
+              "add_content_silocanceled_with_notification", 
+              "canceled_without_notification"
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_detect"
+              }, 
+              {
+                "dt": "2015-04-17T14-00"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "www.court-st-etienne.be/la-commune/la%20vie%20politique/le%20conseil%20communal/proces-verbaux-et-ordre-du-jour/2015"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_grab"
+              }, 
+              {
+                "dt": "2015-04-17T14:23"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://www.court-st-etienne.be/la-commune/vie-politique/le%20conseil%20communal/proces-verbaux-et-ordre-du-jour/2015/OJ%20CONS%2020150427.pdf/at_download/file"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "add_content_silo"
+              }, 
+              {
+                "dt": "2015-04-17T14:23"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_ddr_doc_dw"
+              }, 
+              {
+                "dt": "2015-04-17T14:23"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://tinyurl.com/m56xx67"
+              }, 
+              {
+                "note": "from_web"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Metadata": [
+      {
+        "tags": null
+      }, 
+      {
+        "faces": null
+      }, 
+      {
+        "Has_info_doc": [
+          {
+            "info_tpl": "doc ; env ; pull"
+          }, 
+          {
+            "pull_src": null
+          }, 
+          {
+            "Src": [
+              {
+                "place": null
+              }, 
+              {
+                "date": null
+              }, 
+              {
+                "idvs": null
+              }, 
+              {
+                "roles": "doc"
+              }, 
+              {
+                "orgs": "doc ; env"
+              }
+            ]
+          }, 
+          {
+            "Dst": [
+              {
+                "to_public": "t"
+              }
+            ]
+          }, 
+          {
+            "Event": [
+              {
+                "date": "doc ; env"
+              }, 
+              {
+                "time": "doc"
+              }, 
+              {
+                "adr_doc_tsbr_io": "_0010_0000"
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "Coding": [
+          {
+            "values": "pdf-text"
+          }, 
+          {
+            "tree_odj": "h-li"
+          }, 
+          {
+            "title": 1
+          }, 
+          {
+            "comment": 0
+          }, 
+          {
+            "action_request": null
+          }, 
+          {
+            "noise": 0
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Taxonomy": [
+      {
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      }, 
+      {
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+      }, 
+      {
+        "foaf": "http://xmlns.com/foaf/0.1/"
+      }, 
+      {
+        "bio": "http://purl.org/vocab/bio/0.1/"
+      }, 
+      {
+        "dc": "http://purl.org/dc/terms/"
+      }, 
+      {
+        "lang": "http://purl.org/net/inkel/rdf/schemas/lang/1.1#"
+      }, 
+      {
+        "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#"
+      }, 
+      {
+        "doac": "http://ramonantonio.net/doac/0.1/"
+      }, 
+      {
+        "menow": "http://schema.peoplesdns.com/menow/"
+      }, 
+      {
+        "sioc": "http://rdfs.org/sioc/ns#"
+      }, 
+      {
+        "owl": "http://www.w3.org/2002/07/owl#"
+      }, 
+      {
+        "admin": "http://webns.net/mvcb/"
+      }, 
+      {
+        "rel": "http://purl.org/vocab/relationship/"
+      }
+    ]
+  }
+]

@@ -1,0 +1,365 @@
+[
+  {
+    "Content": [
+      {
+        "h": [
+          {
+            "h": [
+              "Commune de Rixensart", 
+              {
+                "h": [
+                  "Conseil communal", 
+                  {
+                    "p": [
+                      "www.rixensart.be, le jeudi 18 février 2016 à 10-11 heures", 
+                      "Commune de Rixensart", 
+                      "SEANCE DU CONSEIL COMMUNAL D U MERCREDI  24 FEVRIER 2016 A 20H"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          "Invitation à la séance du mercredi 24 février 2016 à 20 heures 00", 
+          {
+            "p": [
+              "La verrière de la Maison communale, 75 avenue de Mérode à Rixensart."
+            ]
+          }, 
+          {
+            "h": [
+              "Ordre du jour", 
+              {
+                "h": [
+                  "Séance publique", 
+                  {
+                    "h": [
+                      "I. SECRETARIAT – ADMINISTRATION GENERALE", 
+                      {
+                        "li class=\"obj\"": [
+                          "1. Partie publique du procès-verbal de la séance du 27 janvier 2016 – Approbation – Vote ;", 
+                          "2. Intercommunales – Service de distribution d’eau – Rationalisation – Retrait de la SWDE – Décision ;", 
+                          "3. Régie foncière – Conseil de la Régie – Changement de représentation d’un groupe de la minorité – Prise d’acte."
+                        ]
+                      }, 
+                      "II. TRAVAUX – MOBILITE", 
+                      {
+                        "li class=\"obj\"": [
+                          "1. Proposition de motion de recommandation invitant le Conseil communal à solliciter des autorités compétentes un engagement fort pour achever les travaux du RER sur les lignes 124 et 161 – Vote."
+                        ]
+                      }, 
+                      "III. FINANCES", 
+                      {
+                        "li class=\"obj\"": [
+                          "1. Ratification de dépenses urgentes – Vote ;", 
+                          "2. Budget communal 2016 – Approbation par le Ministre des Pouvoirs locaux et de la Ville – Prise d’acte ;", 
+                          "3. Taxe sur la construction et reconstruction de bâtiments et autres permis ou certificats d’urbanisme – Exercices 2016 à 2019 – Approbation par l’Autorité de tutelle – Prise d’acte ;", 
+                          "4. Cotisations à différentes associations auxquelles la Commune est affiliée pour l’exercice 2016 – Vote."
+                        ]
+                      }, 
+                      "IV. ENSEIGNEMENT", 
+                      {
+                        "li class=\"obj\"": [
+                          "1. Création d’un demi-emploi d’institutrice maternelle – Ecoles communales – Section Centre – Ratification ;", 
+                          "2. Enseignement communal – Mise en place d’un processus d’immersion – Accord de principe – Section Centre – Vote."
+                        ]
+                      }, 
+                      "V. MARCHES PUBLICS", 
+                      {
+                        "li class=\"obj\"": [
+                          "1. Construction d’un nouveau bâtiment pour les asbl La Croisée et le Cerceau sur le site des Charmettes – Marché de services – Mission d’auteur de projet – Cahier spécial des charges et choix du mode de passation du marché – Vote ;", 
+                          "2. Fourniture et pose de protections solaires intérieures destinées à l’école de Genval – Marchés de fournitures – Cahier spécial des charges et choix du mode de passation du marché – Vote."
+                        ]
+                      }, 
+                      "VI. BIBLIOTHEQUE COMMUNALE", 
+                      {
+                        "li class=\"obj\"": [
+                          "1. Convention entre la Commune et le Cercle d’Histoire de Rixensart – Vote."
+                        ]
+                      }
+                    ]
+                  }, 
+                  "Séance à huis clos", 
+                  {
+                    "h": [
+                      "I. SECRETARIAT", 
+                      {
+                        "li class=\"obj\"": [
+                          "1. Partie secrète du procès-verbal de la séance du 27 janvier 2016 – Approbation – Vote."
+                        ]
+                      }, 
+                      "II. ENSEIGNEMENT", 
+                      {
+                        "li class=\"obj\"": [
+                          "1. Désignations d’institutrices maternelles temporaires en emplois non vacants – Ecoles communales – Ratifications ;", 
+                          "2. Désignation d’une institutrice maternelle temporaire en emploi vacant à raison de 13/26èmes – Ecoles communales – Section Centre – Ratification."
+                        ]
+                      }, 
+                      "III. ACADEMIE", 
+                      {
+                        "li class=\"obj\"": [
+                          "1. Demande de détachement pour exercer une autre fonction – Ratification ;", 
+                          "2. Désignation d’un professeur d’orgue temporaire en emploi non vacant – Ratification."
+                        ]
+                      }, 
+                      "IV. SERVICE SOCIAL", 
+                      {
+                        "li class=\"obj\"": [
+                          "1. Affaires sociales – Conseil consultatif communal des aînés – Election des membres – Votes."
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Enveloppe": [
+      {
+        "id_ddr": "2016-02-24T20-00_gWbrCmnRixensart-clg-3_consCmn-seancePublique-4_odj-4"
+      }, 
+      {
+        "Stamps": [
+          {
+            "op_tpl:": [
+              "web_detect", 
+              "web_grab", 
+              "web_remove", 
+              "email_delivery", 
+              "email_sended", 
+              "pmail_delivery", 
+              "pmail_sended", 
+              "doc_creation", 
+              "doc_signature", 
+              "add_content_silocanceled_with_notification", 
+              "canceled_without_notification"
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_detect"
+              }, 
+              {
+                "dt": "2016-02-18T11-00"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "www.rixensart.be/index.php/vie-politique/conseil-ordre-du-jour"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_grab"
+              }, 
+              {
+                "dt": "2016-02-18T20:54"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://www.rixensart.be/images/politique/ordre-du-jour/ordre-du-jour-du-conseil-24-fevrier-2016.pdf"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "add_content_silo"
+              }, 
+              {
+                "dt": "2016-02-18T20:54"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_ddr_doc_dw"
+              }, 
+              {
+                "dt": "2016-02-18T20:54"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://tinyurl.com/jg6aume"
+              }, 
+              {
+                "note": "from_web"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Metadata": [
+      {
+        "tags": null
+      }, 
+      {
+        "faces": null
+      }, 
+      {
+        "Has_info_doc": [
+          {
+            "info_tpl": "doc ; env ; pull"
+          }, 
+          {
+            "pull_src": null
+          }, 
+          {
+            "Src": [
+              {
+                "place": null
+              }, 
+              {
+                "date": null
+              }, 
+              {
+                "idvs": null
+              }, 
+              {
+                "roles": null
+              }, 
+              {
+                "orgs": "doc, env"
+              }
+            ]
+          }, 
+          {
+            "Dst": [
+              {
+                "to_public": "t"
+              }
+            ]
+          }, 
+          {
+            "Event": [
+              {
+                "date": "doc ; env"
+              }, 
+              {
+                "time": "doc ; env"
+              }, 
+              {
+                "adr_doc_tsbr_io": "_0000_1111"
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "Coding": [
+          {
+            "values": "pdf-text"
+          }, 
+          {
+            "tree_odj": "h-li"
+          }, 
+          {
+            "title": 1
+          }, 
+          {
+            "comment": 0
+          }, 
+          {
+            "action_request": null
+          }, 
+          {
+            "noise": 0
+          }
+        ]
+      }, 
+      {
+        "Licence": [
+          {
+            "DroitDeRegard": [
+              {
+                "Licence": "CC-BY-SA-NC"
+              }, 
+              {
+                "Auteur": "Patrick Installé 2013"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Taxonomy": [
+      {
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      }, 
+      {
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+      }, 
+      {
+        "foaf": "http://xmlns.com/foaf/0.1/"
+      }, 
+      {
+        "bio": "http://purl.org/vocab/bio/0.1/"
+      }, 
+      {
+        "dc": "http://purl.org/dc/terms/"
+      }, 
+      {
+        "lang": "http://purl.org/net/inkel/rdf/schemas/lang/1.1#"
+      }, 
+      {
+        "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#"
+      }, 
+      {
+        "doac": "http://ramonantonio.net/doac/0.1/"
+      }, 
+      {
+        "menow": "http://schema.peoplesdns.com/menow/"
+      }, 
+      {
+        "sioc": "http://rdfs.org/sioc/ns#"
+      }, 
+      {
+        "owl": "http://www.w3.org/2002/07/owl#"
+      }, 
+      {
+        "admin": "http://webns.net/mvcb/"
+      }, 
+      {
+        "rel": "http://purl.org/vocab/relationship/"
+      }
+    ]
+  }
+]

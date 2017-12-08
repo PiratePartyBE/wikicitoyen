@@ -1,0 +1,343 @@
+[
+  {
+    "Content": [
+      {
+        "h": [
+          {
+            "h": [
+              "Commune de Walhain", 
+              {
+                "h": [
+                  "Conseil communal", 
+                  {
+                    "p": [
+                      "www.walhain.be, le lundi 31 octobre 2016 à 10-11 heures", 
+                      "Quand ?  09/11/2016 de 18:30 à 20:30", 
+                      "Où ? Walhain, Maison communale Votre site", 
+                      "Walhain, le 26 octobre 2016 ", 
+                      "A MM. les Membres du Conseil communal", 
+                      "Mesdames, Messieurs,", 
+                      "Nous avons l’honneur de vous prier d’assister à la séance que tiendra le Conseil communal le mercredi 9 novembre 2016 à 18h30 à la Maison communale, avec l’ordre du jour suivant :", 
+                      "Veuillez agréer, Mesdames, Messieurs, l’assurance de notre considération distinguée."
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          "Invitation à la séance du mercredi 9 novembre 2016 à 18 heures 30", 
+          {
+            "p": [
+              "Salle du conseil - Maison communale, Place communale 1 à 1457 Walhain"
+            ]
+          }, 
+          {
+            "h": [
+              "Ordre du jour", 
+              {
+                "h": [
+                  "Séance publique", 
+                  {
+                    "li class=\"obj\"": [
+                      "1er objet : SECRETARIAT : Procès-verbal de la séance du 24 octobre 2016 – Approbation ;", 
+                      "2ème objet : FINANCES : Règlement de taxe sur l’enlèvement et la garde de véhicules en infraction de stationnement – Approbation ;", 
+                      "3ème objet : FINANCES : Règlement de taxe sur la délivrance de documents administratifs – Approbation ;", 
+                      "4ème objet : FINANCES : Règlement de redevance pour la délivrance de droits d’entrée ou d’em-placement, de boissons et de petites restaurations par la Commune lors de certains événements ou festivités – Approbation ;", 
+                      "5ème objet : FINANCES : Règlement de taxe sur la collecte et le traitement des déchets ménagers et assimilés – Approbation ;", 
+                      "6ème objet : ENVIRONNEMENT : Taux de couverture des coûts en matière de gestion des déchets issus de l’activité des ménages pour l’année 2017 – Approbation ;", 
+                      "7ème objet : ENVIRONNEMENT : Convention entre la Commune de Walhain et l’Asbl Les Petits Riens relative à la collecte des déchets textiles ménagers – Approbation ;", 
+                      "8ème objet : SECRETARIAT : Convention entre la Commune de Walhain et la Province du Brabant wallon fixant les modalités de recours à un fonctionnaire sanctionnateur provincial dans le cadre de l’arrêté royal du 9 mars 2014 relatif aux sanctions administratives communales pour les infractions en matière d’arrêt et de stationnement – Approbation ;", 
+                      "9ème objet : SECRETARIAT : Point porté à l’ordre du jour de l’Assemblée générale statutaire de l’Intercommunale SEDIFIN le 13 décembre 2016 à Louvain-la-Neuve – Approbation ;", 
+                      "10ème objet : PERSONNEL : Recrutement d’un ouvrier qualifié statutaire par appel externe – Condi-tions de recrutement – Approbation ;"
+                    ]
+                  }, 
+                  "Séance à huis clos", 
+                  {
+                    "li class=\"obj\"": [
+                      "11ème objet : ENSEIGNEMENT : Délibération du Collège communal en sa séance du 12 octobre 2016 portant désignation d’une maîtresse temporaire de philosophie et citoyenneté du 1er octobre 2016 au 30 juin 2017 à raison de 16 périodes par semaine – Ratification ;", 
+                      "12ème objet : ENSEIGNEMENT : Délibération du Collège communal en sa séance du 19 octobre 2016 portant désignation d’une institutrice primaire temporaire du 14 octobre au 13 novembre 2016 à raison de 18 périodes par semaine en remplacement d’une titulaire en congé de maladie – Ratification."
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          "Par le Collège :", 
+          {
+            "li": [
+              "Le Directeur général, Ch. LEGAST", 
+              "La Bourgmestre,  L. SMETS"
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Enveloppe": [
+      {
+        "id_ddr": "2016-11-09T18-30_gWbrCmnWalhain-clg-3_consCmn-seancePublique-4_odj-4"
+      }, 
+      {
+        "Stamps": [
+          {
+            "op_tpl:": [
+              "web_detect", 
+              "web_grab", 
+              "web_remove", 
+              "email_delivery", 
+              "email_sended", 
+              "pmail_delivery", 
+              "pmail_sended", 
+              "doc_creation", 
+              "doc_signature", 
+              "add_content_silocanceled_with_notification", 
+              "canceled_without_notification"
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_detect"
+              }, 
+              {
+                "dt": "2016-10-31T11-00"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "www.walhain.be/."
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_grab"
+              }, 
+              {
+                "dt": "2016-10-31T11:14"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://www.walhain.be/ma-commune/vie-politique/conseil-communal/conseil-communal-du-29-mai-2012"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "doc_signature"
+              }, 
+              {
+                "dt": "2016-10-26"
+              }, 
+              {
+                "authors": "Institution"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "add_content_silo"
+              }, 
+              {
+                "dt": "2016-10-31T11:14"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_ddr_doc_dw"
+              }, 
+              {
+                "dt": "2016-10-31T11:14"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://tinyurl.com/goxqc94"
+              }, 
+              {
+                "note": "from_web"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Metadata": [
+      {
+        "tags": null
+      }, 
+      {
+        "faces": null
+      }, 
+      {
+        "Has_info_doc": [
+          {
+            "info_tpl": "doc ; env ; pull"
+          }, 
+          {
+            "pull_src": null
+          }, 
+          {
+            "Src": [
+              {
+                "place": "doc"
+              }, 
+              {
+                "date": "doc"
+              }, 
+              {
+                "idvs": "doc"
+              }, 
+              {
+                "roles": "doc"
+              }, 
+              {
+                "orgs": "env"
+              }
+            ]
+          }, 
+          {
+            "Dst": [
+              {
+                "to_public": "t"
+              }
+            ]
+          }, 
+          {
+            "Event": [
+              {
+                "date": "doc ; env"
+              }, 
+              {
+                "time": "doc"
+              }, 
+              {
+                "adr_doc_tsbr_io": "_0010_0000"
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "Coding": [
+          {
+            "values": "html"
+          }, 
+          {
+            "tree_odj": "li class=\"obj\""
+          }, 
+          {
+            "title": 1
+          }, 
+          {
+            "comment": 0
+          }, 
+          {
+            "action_request": null
+          }, 
+          {
+            "noise": 0
+          }
+        ]
+      }, 
+      {
+        "Licence": [
+          {
+            "DroitDeRegard": [
+              {
+                "Licence": "CC-BY-SA-NC"
+              }, 
+              {
+                "Auteur": "Patrick Installé 2013"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Taxonomy": [
+      {
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      }, 
+      {
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+      }, 
+      {
+        "foaf": "http://xmlns.com/foaf/0.1/"
+      }, 
+      {
+        "bio": "http://purl.org/vocab/bio/0.1/"
+      }, 
+      {
+        "dc": "http://purl.org/dc/terms/"
+      }, 
+      {
+        "lang": "http://purl.org/net/inkel/rdf/schemas/lang/1.1#"
+      }, 
+      {
+        "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#"
+      }, 
+      {
+        "doac": "http://ramonantonio.net/doac/0.1/"
+      }, 
+      {
+        "menow": "http://schema.peoplesdns.com/menow/"
+      }, 
+      {
+        "sioc": "http://rdfs.org/sioc/ns#"
+      }, 
+      {
+        "owl": "http://www.w3.org/2002/07/owl#"
+      }, 
+      {
+        "admin": "http://webns.net/mvcb/"
+      }, 
+      {
+        "rel": "http://purl.org/vocab/relationship/"
+      }
+    ]
+  }
+]

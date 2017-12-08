@@ -1,0 +1,325 @@
+[
+  {
+    "Content": [
+      {
+        "h": [
+          {
+            "h": [
+              "Commune de Villers-la-Ville", 
+              {
+                "h": [
+                  "Conseil communal", 
+                  {
+                    "p": [
+                      "www.villers-la-ville.be, le lundi 5 septembre 2016 à 14-15 heures", 
+                      "Ordre du jour du conseil communal", 
+                      "La prochaine SEANCE du CONSEIL aura lieu le MARDI 13 SEPTEMBRE 2016 à 20 heures à la Maison communale."
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "h": [
+          "Invitation à la séance du mardi 13 septembre 2016 à 20 heures 30", 
+          {
+            "p": [
+              "Maison Communale - rue de Marbais, 37 - 1495 Villers-la-Ville"
+            ]
+          }, 
+          {
+            "h": [
+              "Ordre du jour", 
+              {
+                "h": [
+                  "Séance publique", 
+                  {
+                    "h": [
+                      {
+                        "li class=\"obj\"": [
+                          "01. Arrêtés de police du Bourgmestre. Ratification.", 
+                          "02. Règlement complémentaire au code de roulage. Organisation de la circulation et du stationnement dans l’entité.", 
+                          "03. Fabrique d’Eglise Notre Dame des Affligés de Tilly. Elections au sein du Conseil de Fabrique et du Bureau des Marguilliers. Information.", 
+                          "04. Compte 2015 de la Fabrique d’Eglise Notre Dame des Affligés de Tilly. Approbation.", 
+                          "05. Fabriques d’Eglises. Budgets 2017. Approbation :", 
+                          {
+                            "li": [
+                              "Saint-Laurent de Mellery", 
+                              "Notre-Dame des affligés de Tilly", 
+                              "Notre-Dame de Marbisoux", 
+                              "Saint-Martin de Marbais", 
+                              "Saint-Nicolas de Sart-Dames-Avelines", 
+                              "Notre-Dame de la Visitation de Villers"
+                            ]
+                          }, 
+                          "06. C.P.A.S. Comptes annuels de l’exercice 2015. Règlement (compte budgétaire – compte de résultat- bilan).", 
+                          "07. C.P.A.S. Budget 2016. Modification budgétaire n° 1 ordinaire et extraordinaire. Approbation.", 
+                          "08. Règlements-taxes à arrêter pour l’exercice 2017 :"
+                        ]
+                      }, 
+                      {
+                        "li class=\"obj\"": [
+                          "a) Centimes additionnels à l’impôt des personnes physiques.", 
+                          "b) Centimes additionnels au précompte immobilier.", 
+                          "09. Bâches agricoles. Convention entre la Commune de Villers-la-Ville et l’I.B.W. relative à l’octroi de subvention en matière de prévention et gestion des déchets. Mandat communal chargeant l’I.B.W. d’organiser les collectes et valorisation des bâches agricoles 2006-2021. Ratification.", 
+                          "10. Demande de permis d’urbanisme 061/2016. MAGIS. P. Modification de la voirie communale – Sart-Dames-Avelines – rue St Jean. Décision.", 
+                          "11. UREBA exceptionnel 2013. Bâtiments scolaires. Modification de l’installation de chauffage du bâtiment des primaires à l’école communale de Villers-la-Ville. Approbation de la dépense, du cahier des charges. Mode de passation du marché. Financement.", 
+                          "12. Province du Brabant wallon. Achat d’illuminations de fin d’année. Approbation des conditions du marché. Procédure négociée sans publicité lors du lancement de la procédure.", 
+                          "13. Province du Brabant wallon. Acquisition de mobilier urbain pour la plaine de sport de Mellery et pour le remplacement de bancs publics vétustes. Approbation du projet et du dossier de candidature. Demande de subside.", 
+                          "14. Travaux de construction d’une maison des jeunes et de deux logements d’urgence à Mellery. Nouvelles approbations des nouvelles conditions et du mode de passation du marché."
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Enveloppe": [
+      {
+        "id_ddr": "2016-09-13T20-30_gWbrCmnVillersLaVille-clg-3_consCmn-seancePublique-4_odj-4"
+      }, 
+      {
+        "Stamps": [
+          {
+            "op_tpl:": [
+              "web_detect", 
+              "web_grab", 
+              "web_remove", 
+              "email_delivery", 
+              "email_sended", 
+              "pmail_delivery", 
+              "pmail_sended", 
+              "doc_creation", 
+              "doc_signature", 
+              "add_content_silocanceled_with_notification", 
+              "canceled_without_notification"
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_detect"
+              }, 
+              {
+                "dt": "2016-09-05T15-00"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "www.villers-la-ville.be/ma-commune/vie-politique/conseil/ordre-du-jour"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_grab"
+              }, 
+              {
+                "dt": "2016-09-12T09:33"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://www.villers-la-ville.be/administration/vie-politique/conseil/ordre-du-jour"
+              }, 
+              {
+                "note": ""
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "add_content_silo"
+              }, 
+              {
+                "dt": "2016-09-12T09:33"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": ""
+              }, 
+              {
+                "note": "from_institution"
+              }
+            ]
+          }, 
+          {
+            "Stamp": [
+              {
+                "op": "web_ddr_doc_dw"
+              }, 
+              {
+                "dt": "2016-09-12T09:33"
+              }, 
+              {
+                "authors": "Installé Patrick 2013 - ddr_create_event_entry.py"
+              }, 
+              {
+                "ref": "http://tinyurl.com/jzd52vj"
+              }, 
+              {
+                "note": "from_web"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Metadata": [
+      {
+        "tags": null
+      }, 
+      {
+        "faces": null
+      }, 
+      {
+        "Has_info_doc": [
+          {
+            "info_tpl": "doc ; env ; pull"
+          }, 
+          {
+            "pull_src": null
+          }, 
+          {
+            "Src": [
+              {
+                "place": null
+              }, 
+              {
+                "date": null
+              }, 
+              {
+                "idvs": null
+              }, 
+              {
+                "roles": null
+              }, 
+              {
+                "orgs": "env"
+              }
+            ]
+          }, 
+          {
+            "Dst": [
+              {
+                "to_public": "i"
+              }
+            ]
+          }, 
+          {
+            "Event": [
+              {
+                "date": "doc ; env"
+              }, 
+              {
+                "time": "doc"
+              }, 
+              {
+                "adr_doc_tsbr_io": "_0010_0000"
+              }
+            ]
+          }
+        ]
+      }, 
+      {
+        "Coding": [
+          {
+            "values": "html"
+          }, 
+          {
+            "tree_odj": "li"
+          }, 
+          {
+            "title": 1
+          }, 
+          {
+            "comment": 0
+          }, 
+          {
+            "action_request": null
+          }, 
+          {
+            "noise": 0
+          }
+        ]
+      }, 
+      {
+        "Licence": [
+          {
+            "DroitDeRegard": [
+              {
+                "Licence": "CC-BY-SA-NC"
+              }, 
+              {
+                "Auteur": "Patrick Installé 2013"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "Taxonomy": [
+      {
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      }, 
+      {
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+      }, 
+      {
+        "foaf": "http://xmlns.com/foaf/0.1/"
+      }, 
+      {
+        "bio": "http://purl.org/vocab/bio/0.1/"
+      }, 
+      {
+        "dc": "http://purl.org/dc/terms/"
+      }, 
+      {
+        "lang": "http://purl.org/net/inkel/rdf/schemas/lang/1.1#"
+      }, 
+      {
+        "geo": "http://www.w3.org/2003/01/geo/wgs84_pos#"
+      }, 
+      {
+        "doac": "http://ramonantonio.net/doac/0.1/"
+      }, 
+      {
+        "menow": "http://schema.peoplesdns.com/menow/"
+      }, 
+      {
+        "sioc": "http://rdfs.org/sioc/ns#"
+      }, 
+      {
+        "owl": "http://www.w3.org/2002/07/owl#"
+      }, 
+      {
+        "admin": "http://webns.net/mvcb/"
+      }, 
+      {
+        "rel": "http://purl.org/vocab/relationship/"
+      }
+    ]
+  }
+]
